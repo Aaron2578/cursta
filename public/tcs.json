@@ -1,0 +1,1102 @@
+[
+    {
+        "question": "[DSA/Time Complexity Q] What is the time complexity for searching an element in a balanced Binary Search Tree (BST)? (Unique ID: 1)",
+        "options": {
+            "A": "O(n)",
+            "B": "O(1)",
+            "C": "O(log n)",
+            "D": "O(n^2)"
+        },
+        "correct_answer": "C",
+        "explanation": "Searching in a balanced BST involves comparing the target element with the middle element and discarding half the remaining tree in each step, resulting in logarithmic time complexity."
+    },
+    {
+        "question": "[OOP/Polymorphism Q] Which OOP principle allows a single interface to handle different underlying forms (data types or classes)? (Unique ID: 2)",
+        "options": {
+            "A": "Encapsulation",
+            "B": "Abstraction",
+            "C": "Inheritance",
+            "D": "Polymorphism"
+        },
+        "correct_answer": "D",
+        "explanation": "Polymorphism, meaning 'many forms,' allows methods to do different things based on the object it is acting upon, typically through method overriding or overloading."
+    },
+    {
+        "question": "[Database/SQL Q] Which SQL JOIN returns all rows from the left table, and the matched rows from the right table? (Unique ID: 3)",
+        "options": {
+            "A": "INNER JOIN",
+            "B": "RIGHT JOIN",
+            "C": "FULL JOIN",
+            "D": "LEFT JOIN"
+        },
+        "correct_answer": "D",
+        "explanation": "A LEFT (OUTER) JOIN returns all records from the left table, and the matching records from the right table. If there is no match, the right side will have NULLs."
+    },
+    {
+        "question": "[Programming Basics Q] What is the primary function of a garbage collector in programming languages like Java or Python? (Unique ID: 4)",
+        "options": {
+            "A": "Optimize CPU usage.",
+            "B": "Manage memory allocation and deallocation automatically.",
+            "C": "Compile source code into bytecode.",
+            "D": "Handle exception logging."
+        },
+        "correct_answer": "B",
+        "explanation": "Garbage collection is an automatic memory management process that attempts to reclaim memory occupied by objects that are no longer in use by the program."
+    },
+    {
+        "question": "[Software Engineering/SDLC Q] Which Software Development Life Cycle (SDLC) model is highly flexible and welcomes changing requirements even late in development? (Unique ID: 5)",
+        "options": {
+            "A": "Waterfall Model",
+            "B": "Spiral Model",
+            "C": "V-Model",
+            "D": "Agile Model"
+        },
+        "correct_answer": "D",
+        "explanation": "The Agile methodology is characterized by iterative development, frequent adaptation to change, and continuous feedback, making it highly flexible for changing requirements."
+    },
+    {
+        "question": "[OS/Deadlocks Q] Which condition is NOT necessary for a deadlock to occur in an operating system? (Unique ID: 6)",
+        "options": {
+            "A": "Mutual Exclusion",
+            "B": "Preemption",
+            "C": "Hold and Wait",
+            "D": "No Preemption"
+        },
+        "correct_answer": "B",
+        "explanation": "The four necessary conditions for a deadlock are Mutual Exclusion, Hold and Wait, No Preemption, and Circular Wait. Preemption (the ability to take resources away) actually helps prevent deadlocks."
+    },
+    {
+        "question": "[DSA/Time Complexity Q] What is the time complexity for searching an element in a balanced Binary Search Tree (BST)? (Unique ID: 7)",
+        "options": {
+            "A": "O(n)",
+            "B": "O(1)",
+            "C": "O(log n)",
+            "D": "O(n^2)"
+        },
+        "correct_answer": "C",
+        "explanation": "Searching in a balanced BST involves comparing the target element with the middle element and discarding half the remaining tree in each step, resulting in logarithmic time complexity."
+    },
+    {
+        "question": "[OOP/Polymorphism Q] Which OOP principle allows a single interface to handle different underlying forms (data types or classes)? (Unique ID: 8)",
+        "options": {
+            "A": "Encapsulation",
+            "B": "Abstraction",
+            "C": "Inheritance",
+            "D": "Polymorphism"
+        },
+        "correct_answer": "D",
+        "explanation": "Polymorphism, meaning 'many forms,' allows methods to do different things based on the object it is acting upon, typically through method overriding or overloading."
+    },
+    {
+        "question": "[Database/SQL Q] Which SQL JOIN returns all rows from the left table, and the matched rows from the right table? (Unique ID: 9)",
+        "options": {
+            "A": "INNER JOIN",
+            "B": "RIGHT JOIN",
+            "C": "FULL JOIN",
+            "D": "LEFT JOIN"
+        },
+        "correct_answer": "D",
+        "explanation": "A LEFT (OUTER) JOIN returns all records from the left table, and the matching records from the right table. If there is no match, the right side will have NULLs."
+    },
+    {
+        "question": "[Programming Basics Q] What is the primary function of a garbage collector in programming languages like Java or Python? (Unique ID: 10)",
+        "options": {
+            "A": "Optimize CPU usage.",
+            "B": "Manage memory allocation and deallocation automatically.",
+            "C": "Compile source code into bytecode.",
+            "D": "Handle exception logging."
+        },
+        "correct_answer": "B",
+        "explanation": "Garbage collection is an automatic memory management process that attempts to reclaim memory occupied by objects that are no longer in use by the program."
+    },
+    {
+        "question": "[Software Engineering/SDLC Q] Which Software Development Life Cycle (SDLC) model is highly flexible and welcomes changing requirements even late in development? (Unique ID: 11)",
+        "options": {
+            "A": "Waterfall Model",
+            "B": "Spiral Model",
+            "C": "V-Model",
+            "D": "Agile Model"
+        },
+        "correct_answer": "D",
+        "explanation": "The Agile methodology is characterized by iterative development, frequent adaptation to change, and continuous feedback, making it highly flexible for changing requirements."
+    },
+    {
+        "question": "[OS/Deadlocks Q] Which condition is NOT necessary for a deadlock to occur in an operating system? (Unique ID: 12)",
+        "options": {
+            "A": "Mutual Exclusion",
+            "B": "Preemption",
+            "C": "Hold and Wait",
+            "D": "No Preemption"
+        },
+        "correct_answer": "B",
+        "explanation": "The four necessary conditions for a deadlock are Mutual Exclusion, Hold and Wait, No Preemption, and Circular Wait. Preemption (the ability to take resources away) actually helps prevent deadlocks."
+    },
+    {
+        "question": "[DSA/Time Complexity Q] What is the time complexity for searching an element in a balanced Binary Search Tree (BST)? (Unique ID: 13)",
+        "options": {
+            "A": "O(n)",
+            "B": "O(1)",
+            "C": "O(log n)",
+            "D": "O(n^2)"
+        },
+        "correct_answer": "C",
+        "explanation": "Searching in a balanced BST involves comparing the target element with the middle element and discarding half the remaining tree in each step, resulting in logarithmic time complexity."
+    },
+    {
+        "question": "[OOP/Polymorphism Q] Which OOP principle allows a single interface to handle different underlying forms (data types or classes)? (Unique ID: 14)",
+        "options": {
+            "A": "Encapsulation",
+            "B": "Abstraction",
+            "C": "Inheritance",
+            "D": "Polymorphism"
+        },
+        "correct_answer": "D",
+        "explanation": "Polymorphism, meaning 'many forms,' allows methods to do different things based on the object it is acting upon, typically through method overriding or overloading."
+    },
+    {
+        "question": "[Database/SQL Q] Which SQL JOIN returns all rows from the left table, and the matched rows from the right table? (Unique ID: 15)",
+        "options": {
+            "A": "INNER JOIN",
+            "B": "RIGHT JOIN",
+            "C": "FULL JOIN",
+            "D": "LEFT JOIN"
+        },
+        "correct_answer": "D",
+        "explanation": "A LEFT (OUTER) JOIN returns all records from the left table, and the matching records from the right table. If there is no match, the right side will have NULLs."
+    },
+    {
+        "question": "[Programming Basics Q] What is the primary function of a garbage collector in programming languages like Java or Python? (Unique ID: 16)",
+        "options": {
+            "A": "Optimize CPU usage.",
+            "B": "Manage memory allocation and deallocation automatically.",
+            "C": "Compile source code into bytecode.",
+            "D": "Handle exception logging."
+        },
+        "correct_answer": "B",
+        "explanation": "Garbage collection is an automatic memory management process that attempts to reclaim memory occupied by objects that are no longer in use by the program."
+    },
+    {
+        "question": "[Software Engineering/SDLC Q] Which Software Development Life Cycle (SDLC) model is highly flexible and welcomes changing requirements even late in development? (Unique ID: 17)",
+        "options": {
+            "A": "Waterfall Model",
+            "B": "Spiral Model",
+            "C": "V-Model",
+            "D": "Agile Model"
+        },
+        "correct_answer": "D",
+        "explanation": "The Agile methodology is characterized by iterative development, frequent adaptation to change, and continuous feedback, making it highly flexible for changing requirements."
+    },
+    {
+        "question": "[OS/Deadlocks Q] Which condition is NOT necessary for a deadlock to occur in an operating system? (Unique ID: 18)",
+        "options": {
+            "A": "Mutual Exclusion",
+            "B": "Preemption",
+            "C": "Hold and Wait",
+            "D": "No Preemption"
+        },
+        "correct_answer": "B",
+        "explanation": "The four necessary conditions for a deadlock are Mutual Exclusion, Hold and Wait, No Preemption, and Circular Wait. Preemption (the ability to take resources away) actually helps prevent deadlocks."
+    },
+    {
+        "question": "[DSA/Time Complexity Q] What is the time complexity for searching an element in a balanced Binary Search Tree (BST)? (Unique ID: 19)",
+        "options": {
+            "A": "O(n)",
+            "B": "O(1)",
+            "C": "O(log n)",
+            "D": "O(n^2)"
+        },
+        "correct_answer": "C",
+        "explanation": "Searching in a balanced BST involves comparing the target element with the middle element and discarding half the remaining tree in each step, resulting in logarithmic time complexity."
+    },
+    {
+        "question": "[OOP/Polymorphism Q] Which OOP principle allows a single interface to handle different underlying forms (data types or classes)? (Unique ID: 20)",
+        "options": {
+            "A": "Encapsulation",
+            "B": "Abstraction",
+            "C": "Inheritance",
+            "D": "Polymorphism"
+        },
+        "correct_answer": "D",
+        "explanation": "Polymorphism, meaning 'many forms,' allows methods to do different things based on the object it is acting upon, typically through method overriding or overloading."
+    },
+    {
+        "question": "[Database/SQL Q] Which SQL JOIN returns all rows from the left table, and the matched rows from the right table? (Unique ID: 21)",
+        "options": {
+            "A": "INNER JOIN",
+            "B": "RIGHT JOIN",
+            "C": "FULL JOIN",
+            "D": "LEFT JOIN"
+        },
+        "correct_answer": "D",
+        "explanation": "A LEFT (OUTER) JOIN returns all records from the left table, and the matching records from the right table. If there is no match, the right side will have NULLs."
+    },
+    {
+        "question": "[Programming Basics Q] What is the primary function of a garbage collector in programming languages like Java or Python? (Unique ID: 22)",
+        "options": {
+            "A": "Optimize CPU usage.",
+            "B": "Manage memory allocation and deallocation automatically.",
+            "C": "Compile source code into bytecode.",
+            "D": "Handle exception logging."
+        },
+        "correct_answer": "B",
+        "explanation": "Garbage collection is an automatic memory management process that attempts to reclaim memory occupied by objects that are no longer in use by the program."
+    },
+    {
+        "question": "[Software Engineering/SDLC Q] Which Software Development Life Cycle (SDLC) model is highly flexible and welcomes changing requirements even late in development? (Unique ID: 23)",
+        "options": {
+            "A": "Waterfall Model",
+            "B": "Spiral Model",
+            "C": "V-Model",
+            "D": "Agile Model"
+        },
+        "correct_answer": "D",
+        "explanation": "The Agile methodology is characterized by iterative development, frequent adaptation to change, and continuous feedback, making it highly flexible for changing requirements."
+    },
+    {
+        "question": "[OS/Deadlocks Q] Which condition is NOT necessary for a deadlock to occur in an operating system? (Unique ID: 24)",
+        "options": {
+            "A": "Mutual Exclusion",
+            "B": "Preemption",
+            "C": "Hold and Wait",
+            "D": "No Preemption"
+        },
+        "correct_answer": "B",
+        "explanation": "The four necessary conditions for a deadlock are Mutual Exclusion, Hold and Wait, No Preemption, and Circular Wait. Preemption (the ability to take resources away) actually helps prevent deadlocks."
+    },
+    {
+        "question": "[DSA/Time Complexity Q] What is the time complexity for searching an element in a balanced Binary Search Tree (BST)? (Unique ID: 25)",
+        "options": {
+            "A": "O(n)",
+            "B": "O(1)",
+            "C": "O(log n)",
+            "D": "O(n^2)"
+        },
+        "correct_answer": "C",
+        "explanation": "Searching in a balanced BST involves comparing the target element with the middle element and discarding half the remaining tree in each step, resulting in logarithmic time complexity."
+    },
+    {
+        "question": "[OOP/Polymorphism Q] Which OOP principle allows a single interface to handle different underlying forms (data types or classes)? (Unique ID: 26)",
+        "options": {
+            "A": "Encapsulation",
+            "B": "Abstraction",
+            "C": "Inheritance",
+            "D": "Polymorphism"
+        },
+        "correct_answer": "D",
+        "explanation": "Polymorphism, meaning 'many forms,' allows methods to do different things based on the object it is acting upon, typically through method overriding or overloading."
+    },
+    {
+        "question": "[Database/SQL Q] Which SQL JOIN returns all rows from the left table, and the matched rows from the right table? (Unique ID: 27)",
+        "options": {
+            "A": "INNER JOIN",
+            "B": "RIGHT JOIN",
+            "C": "FULL JOIN",
+            "D": "LEFT JOIN"
+        },
+        "correct_answer": "D",
+        "explanation": "A LEFT (OUTER) JOIN returns all records from the left table, and the matching records from the right table. If there is no match, the right side will have NULLs."
+    },
+    {
+        "question": "[Programming Basics Q] What is the primary function of a garbage collector in programming languages like Java or Python? (Unique ID: 28)",
+        "options": {
+            "A": "Optimize CPU usage.",
+            "B": "Manage memory allocation and deallocation automatically.",
+            "C": "Compile source code into bytecode.",
+            "D": "Handle exception logging."
+        },
+        "correct_answer": "B",
+        "explanation": "Garbage collection is an automatic memory management process that attempts to reclaim memory occupied by objects that are no longer in use by the program."
+    },
+    {
+        "question": "[Software Engineering/SDLC Q] Which Software Development Life Cycle (SDLC) model is highly flexible and welcomes changing requirements even late in development? (Unique ID: 29)",
+        "options": {
+            "A": "Waterfall Model",
+            "B": "Spiral Model",
+            "C": "V-Model",
+            "D": "Agile Model"
+        },
+        "correct_answer": "D",
+        "explanation": "The Agile methodology is characterized by iterative development, frequent adaptation to change, and continuous feedback, making it highly flexible for changing requirements."
+    },
+    {
+        "question": "[OS/Deadlocks Q] Which condition is NOT necessary for a deadlock to occur in an operating system? (Unique ID: 30)",
+        "options": {
+            "A": "Mutual Exclusion",
+            "B": "Preemption",
+            "C": "Hold and Wait",
+            "D": "No Preemption"
+        },
+        "correct_answer": "B",
+        "explanation": "The four necessary conditions for a deadlock are Mutual Exclusion, Hold and Wait, No Preemption, and Circular Wait. Preemption (the ability to take resources away) actually helps prevent deadlocks."
+    },
+    {
+        "question": "[DSA/Time Complexity Q] What is the time complexity for searching an element in a balanced Binary Search Tree (BST)? (Unique ID: 31)",
+        "options": {
+            "A": "O(n)",
+            "B": "O(1)",
+            "C": "O(log n)",
+            "D": "O(n^2)"
+        },
+        "correct_answer": "C",
+        "explanation": "Searching in a balanced BST involves comparing the target element with the middle element and discarding half the remaining tree in each step, resulting in logarithmic time complexity."
+    },
+    {
+        "question": "[OOP/Polymorphism Q] Which OOP principle allows a single interface to handle different underlying forms (data types or classes)? (Unique ID: 32)",
+        "options": {
+            "A": "Encapsulation",
+            "B": "Abstraction",
+            "C": "Inheritance",
+            "D": "Polymorphism"
+        },
+        "correct_answer": "D",
+        "explanation": "Polymorphism, meaning 'many forms,' allows methods to do different things based on the object it is acting upon, typically through method overriding or overloading."
+    },
+    {
+        "question": "[Database/SQL Q] Which SQL JOIN returns all rows from the left table, and the matched rows from the right table? (Unique ID: 33)",
+        "options": {
+            "A": "INNER JOIN",
+            "B": "RIGHT JOIN",
+            "C": "FULL JOIN",
+            "D": "LEFT JOIN"
+        },
+        "correct_answer": "D",
+        "explanation": "A LEFT (OUTER) JOIN returns all records from the left table, and the matching records from the right table. If there is no match, the right side will have NULLs."
+    },
+    {
+        "question": "[Programming Basics Q] What is the primary function of a garbage collector in programming languages like Java or Python? (Unique ID: 34)",
+        "options": {
+            "A": "Optimize CPU usage.",
+            "B": "Manage memory allocation and deallocation automatically.",
+            "C": "Compile source code into bytecode.",
+            "D": "Handle exception logging."
+        },
+        "correct_answer": "B",
+        "explanation": "Garbage collection is an automatic memory management process that attempts to reclaim memory occupied by objects that are no longer in use by the program."
+    },
+    {
+        "question": "[Software Engineering/SDLC Q] Which Software Development Life Cycle (SDLC) model is highly flexible and welcomes changing requirements even late in development? (Unique ID: 35)",
+        "options": {
+            "A": "Waterfall Model",
+            "B": "Spiral Model",
+            "C": "V-Model",
+            "D": "Agile Model"
+        },
+        "correct_answer": "D",
+        "explanation": "The Agile methodology is characterized by iterative development, frequent adaptation to change, and continuous feedback, making it highly flexible for changing requirements."
+    },
+    {
+        "question": "[OS/Deadlocks Q] Which condition is NOT necessary for a deadlock to occur in an operating system? (Unique ID: 36)",
+        "options": {
+            "A": "Mutual Exclusion",
+            "B": "Preemption",
+            "C": "Hold and Wait",
+            "D": "No Preemption"
+        },
+        "correct_answer": "B",
+        "explanation": "The four necessary conditions for a deadlock are Mutual Exclusion, Hold and Wait, No Preemption, and Circular Wait. Preemption (the ability to take resources away) actually helps prevent deadlocks."
+    },
+    {
+        "question": "[DSA/Time Complexity Q] What is the time complexity for searching an element in a balanced Binary Search Tree (BST)? (Unique ID: 37)",
+        "options": {
+            "A": "O(n)",
+            "B": "O(1)",
+            "C": "O(log n)",
+            "D": "O(n^2)"
+        },
+        "correct_answer": "C",
+        "explanation": "Searching in a balanced BST involves comparing the target element with the middle element and discarding half the remaining tree in each step, resulting in logarithmic time complexity."
+    },
+    {
+        "question": "[OOP/Polymorphism Q] Which OOP principle allows a single interface to handle different underlying forms (data types or classes)? (Unique ID: 38)",
+        "options": {
+            "A": "Encapsulation",
+            "B": "Abstraction",
+            "C": "Inheritance",
+            "D": "Polymorphism"
+        },
+        "correct_answer": "D",
+        "explanation": "Polymorphism, meaning 'many forms,' allows methods to do different things based on the object it is acting upon, typically through method overriding or overloading."
+    },
+    {
+        "question": "[Database/SQL Q] Which SQL JOIN returns all rows from the left table, and the matched rows from the right table? (Unique ID: 39)",
+        "options": {
+            "A": "INNER JOIN",
+            "B": "RIGHT JOIN",
+            "C": "FULL JOIN",
+            "D": "LEFT JOIN"
+        },
+        "correct_answer": "D",
+        "explanation": "A LEFT (OUTER) JOIN returns all records from the left table, and the matching records from the right table. If there is no match, the right side will have NULLs."
+    },
+    {
+        "question": "[Programming Basics Q] What is the primary function of a garbage collector in programming languages like Java or Python? (Unique ID: 40)",
+        "options": {
+            "A": "Optimize CPU usage.",
+            "B": "Manage memory allocation and deallocation automatically.",
+            "C": "Compile source code into bytecode.",
+            "D": "Handle exception logging."
+        },
+        "correct_answer": "B",
+        "explanation": "Garbage collection is an automatic memory management process that attempts to reclaim memory occupied by objects that are no longer in use by the program."
+    },
+    {
+        "question": "[Software Engineering/SDLC Q] Which Software Development Life Cycle (SDLC) model is highly flexible and welcomes changing requirements even late in development? (Unique ID: 41)",
+        "options": {
+            "A": "Waterfall Model",
+            "B": "Spiral Model",
+            "C": "V-Model",
+            "D": "Agile Model"
+        },
+        "correct_answer": "D",
+        "explanation": "The Agile methodology is characterized by iterative development, frequent adaptation to change, and continuous feedback, making it highly flexible for changing requirements."
+    },
+    {
+        "question": "[OS/Deadlocks Q] Which condition is NOT necessary for a deadlock to occur in an operating system? (Unique ID: 42)",
+        "options": {
+            "A": "Mutual Exclusion",
+            "B": "Preemption",
+            "C": "Hold and Wait",
+            "D": "No Preemption"
+        },
+        "correct_answer": "B",
+        "explanation": "The four necessary conditions for a deadlock are Mutual Exclusion, Hold and Wait, No Preemption, and Circular Wait. Preemption (the ability to take resources away) actually helps prevent deadlocks."
+    },
+    {
+        "question": "[DSA/Time Complexity Q] What is the time complexity for searching an element in a balanced Binary Search Tree (BST)? (Unique ID: 43)",
+        "options": {
+            "A": "O(n)",
+            "B": "O(1)",
+            "C": "O(log n)",
+            "D": "O(n^2)"
+        },
+        "correct_answer": "C",
+        "explanation": "Searching in a balanced BST involves comparing the target element with the middle element and discarding half the remaining tree in each step, resulting in logarithmic time complexity."
+    },
+    {
+        "question": "[OOP/Polymorphism Q] Which OOP principle allows a single interface to handle different underlying forms (data types or classes)? (Unique ID: 44)",
+        "options": {
+            "A": "Encapsulation",
+            "B": "Abstraction",
+            "C": "Inheritance",
+            "D": "Polymorphism"
+        },
+        "correct_answer": "D",
+        "explanation": "Polymorphism, meaning 'many forms,' allows methods to do different things based on the object it is acting upon, typically through method overriding or overloading."
+    },
+    {
+        "question": "[Database/SQL Q] Which SQL JOIN returns all rows from the left table, and the matched rows from the right table? (Unique ID: 45)",
+        "options": {
+            "A": "INNER JOIN",
+            "B": "RIGHT JOIN",
+            "C": "FULL JOIN",
+            "D": "LEFT JOIN"
+        },
+        "correct_answer": "D",
+        "explanation": "A LEFT (OUTER) JOIN returns all records from the left table, and the matching records from the right table. If there is no match, the right side will have NULLs."
+    },
+    {
+        "question": "[Programming Basics Q] What is the primary function of a garbage collector in programming languages like Java or Python? (Unique ID: 46)",
+        "options": {
+            "A": "Optimize CPU usage.",
+            "B": "Manage memory allocation and deallocation automatically.",
+            "C": "Compile source code into bytecode.",
+            "D": "Handle exception logging."
+        },
+        "correct_answer": "B",
+        "explanation": "Garbage collection is an automatic memory management process that attempts to reclaim memory occupied by objects that are no longer in use by the program."
+    },
+    {
+        "question": "[Software Engineering/SDLC Q] Which Software Development Life Cycle (SDLC) model is highly flexible and welcomes changing requirements even late in development? (Unique ID: 47)",
+        "options": {
+            "A": "Waterfall Model",
+            "B": "Spiral Model",
+            "C": "V-Model",
+            "D": "Agile Model"
+        },
+        "correct_answer": "D",
+        "explanation": "The Agile methodology is characterized by iterative development, frequent adaptation to change, and continuous feedback, making it highly flexible for changing requirements."
+    },
+    {
+        "question": "[OS/Deadlocks Q] Which condition is NOT necessary for a deadlock to occur in an operating system? (Unique ID: 48)",
+        "options": {
+            "A": "Mutual Exclusion",
+            "B": "Preemption",
+            "C": "Hold and Wait",
+            "D": "No Preemption"
+        },
+        "correct_answer": "B",
+        "explanation": "The four necessary conditions for a deadlock are Mutual Exclusion, Hold and Wait, No Preemption, and Circular Wait. Preemption (the ability to take resources away) actually helps prevent deadlocks."
+    },
+    {
+        "question": "[DSA/Time Complexity Q] What is the time complexity for searching an element in a balanced Binary Search Tree (BST)? (Unique ID: 49)",
+        "options": {
+            "A": "O(n)",
+            "B": "O(1)",
+            "C": "O(log n)",
+            "D": "O(n^2)"
+        },
+        "correct_answer": "C",
+        "explanation": "Searching in a balanced BST involves comparing the target element with the middle element and discarding half the remaining tree in each step, resulting in logarithmic time complexity."
+    },
+    {
+        "question": "[OOP/Polymorphism Q] Which OOP principle allows a single interface to handle different underlying forms (data types or classes)? (Unique ID: 50)",
+        "options": {
+            "A": "Encapsulation",
+            "B": "Abstraction",
+            "C": "Inheritance",
+            "D": "Polymorphism"
+        },
+        "correct_answer": "D",
+        "explanation": "Polymorphism, meaning 'many forms,' allows methods to do different things based on the object it is acting upon, typically through method overriding or overloading."
+    },
+    {
+        "question": "[Database/SQL Q] Which SQL JOIN returns all rows from the left table, and the matched rows from the right table? (Unique ID: 51)",
+        "options": {
+            "A": "INNER JOIN",
+            "B": "RIGHT JOIN",
+            "C": "FULL JOIN",
+            "D": "LEFT JOIN"
+        },
+        "correct_answer": "D",
+        "explanation": "A LEFT (OUTER) JOIN returns all records from the left table, and the matching records from the right table. If there is no match, the right side will have NULLs."
+    },
+    {
+        "question": "[Programming Basics Q] What is the primary function of a garbage collector in programming languages like Java or Python? (Unique ID: 52)",
+        "options": {
+            "A": "Optimize CPU usage.",
+            "B": "Manage memory allocation and deallocation automatically.",
+            "C": "Compile source code into bytecode.",
+            "D": "Handle exception logging."
+        },
+        "correct_answer": "B",
+        "explanation": "Garbage collection is an automatic memory management process that attempts to reclaim memory occupied by objects that are no longer in use by the program."
+    },
+    {
+        "question": "[Software Engineering/SDLC Q] Which Software Development Life Cycle (SDLC) model is highly flexible and welcomes changing requirements even late in development? (Unique ID: 53)",
+        "options": {
+            "A": "Waterfall Model",
+            "B": "Spiral Model",
+            "C": "V-Model",
+            "D": "Agile Model"
+        },
+        "correct_answer": "D",
+        "explanation": "The Agile methodology is characterized by iterative development, frequent adaptation to change, and continuous feedback, making it highly flexible for changing requirements."
+    },
+    {
+        "question": "[OS/Deadlocks Q] Which condition is NOT necessary for a deadlock to occur in an operating system? (Unique ID: 54)",
+        "options": {
+            "A": "Mutual Exclusion",
+            "B": "Preemption",
+            "C": "Hold and Wait",
+            "D": "No Preemption"
+        },
+        "correct_answer": "B",
+        "explanation": "The four necessary conditions for a deadlock are Mutual Exclusion, Hold and Wait, No Preemption, and Circular Wait. Preemption (the ability to take resources away) actually helps prevent deadlocks."
+    },
+    {
+        "question": "[DSA/Time Complexity Q] What is the time complexity for searching an element in a balanced Binary Search Tree (BST)? (Unique ID: 55)",
+        "options": {
+            "A": "O(n)",
+            "B": "O(1)",
+            "C": "O(log n)",
+            "D": "O(n^2)"
+        },
+        "correct_answer": "C",
+        "explanation": "Searching in a balanced BST involves comparing the target element with the middle element and discarding half the remaining tree in each step, resulting in logarithmic time complexity."
+    },
+    {
+        "question": "[OOP/Polymorphism Q] Which OOP principle allows a single interface to handle different underlying forms (data types or classes)? (Unique ID: 56)",
+        "options": {
+            "A": "Encapsulation",
+            "B": "Abstraction",
+            "C": "Inheritance",
+            "D": "Polymorphism"
+        },
+        "correct_answer": "D",
+        "explanation": "Polymorphism, meaning 'many forms,' allows methods to do different things based on the object it is acting upon, typically through method overriding or overloading."
+    },
+    {
+        "question": "[Database/SQL Q] Which SQL JOIN returns all rows from the left table, and the matched rows from the right table? (Unique ID: 57)",
+        "options": {
+            "A": "INNER JOIN",
+            "B": "RIGHT JOIN",
+            "C": "FULL JOIN",
+            "D": "LEFT JOIN"
+        },
+        "correct_answer": "D",
+        "explanation": "A LEFT (OUTER) JOIN returns all records from the left table, and the matching records from the right table. If there is no match, the right side will have NULLs."
+    },
+    {
+        "question": "[Programming Basics Q] What is the primary function of a garbage collector in programming languages like Java or Python? (Unique ID: 58)",
+        "options": {
+            "A": "Optimize CPU usage.",
+            "B": "Manage memory allocation and deallocation automatically.",
+            "C": "Compile source code into bytecode.",
+            "D": "Handle exception logging."
+        },
+        "correct_answer": "B",
+        "explanation": "Garbage collection is an automatic memory management process that attempts to reclaim memory occupied by objects that are no longer in use by the program."
+    },
+    {
+        "question": "[Software Engineering/SDLC Q] Which Software Development Life Cycle (SDLC) model is highly flexible and welcomes changing requirements even late in development? (Unique ID: 59)",
+        "options": {
+            "A": "Waterfall Model",
+            "B": "Spiral Model",
+            "C": "V-Model",
+            "D": "Agile Model"
+        },
+        "correct_answer": "D",
+        "explanation": "The Agile methodology is characterized by iterative development, frequent adaptation to change, and continuous feedback, making it highly flexible for changing requirements."
+    },
+    {
+        "question": "[OS/Deadlocks Q] Which condition is NOT necessary for a deadlock to occur in an operating system? (Unique ID: 60)",
+        "options": {
+            "A": "Mutual Exclusion",
+            "B": "Preemption",
+            "C": "Hold and Wait",
+            "D": "No Preemption"
+        },
+        "correct_answer": "B",
+        "explanation": "The four necessary conditions for a deadlock are Mutual Exclusion, Hold and Wait, No Preemption, and Circular Wait. Preemption (the ability to take resources away) actually helps prevent deadlocks."
+    },
+    {
+        "question": "[DSA/Time Complexity Q] What is the time complexity for searching an element in a balanced Binary Search Tree (BST)? (Unique ID: 61)",
+        "options": {
+            "A": "O(n)",
+            "B": "O(1)",
+            "C": "O(log n)",
+            "D": "O(n^2)"
+        },
+        "correct_answer": "C",
+        "explanation": "Searching in a balanced BST involves comparing the target element with the middle element and discarding half the remaining tree in each step, resulting in logarithmic time complexity."
+    },
+    {
+        "question": "[OOP/Polymorphism Q] Which OOP principle allows a single interface to handle different underlying forms (data types or classes)? (Unique ID: 62)",
+        "options": {
+            "A": "Encapsulation",
+            "B": "Abstraction",
+            "C": "Inheritance",
+            "D": "Polymorphism"
+        },
+        "correct_answer": "D",
+        "explanation": "Polymorphism, meaning 'many forms,' allows methods to do different things based on the object it is acting upon, typically through method overriding or overloading."
+    },
+    {
+        "question": "[Database/SQL Q] Which SQL JOIN returns all rows from the left table, and the matched rows from the right table? (Unique ID: 63)",
+        "options": {
+            "A": "INNER JOIN",
+            "B": "RIGHT JOIN",
+            "C": "FULL JOIN",
+            "D": "LEFT JOIN"
+        },
+        "correct_answer": "D",
+        "explanation": "A LEFT (OUTER) JOIN returns all records from the left table, and the matching records from the right table. If there is no match, the right side will have NULLs."
+    },
+    {
+        "question": "[Programming Basics Q] What is the primary function of a garbage collector in programming languages like Java or Python? (Unique ID: 64)",
+        "options": {
+            "A": "Optimize CPU usage.",
+            "B": "Manage memory allocation and deallocation automatically.",
+            "C": "Compile source code into bytecode.",
+            "D": "Handle exception logging."
+        },
+        "correct_answer": "B",
+        "explanation": "Garbage collection is an automatic memory management process that attempts to reclaim memory occupied by objects that are no longer in use by the program."
+    },
+    {
+        "question": "[Software Engineering/SDLC Q] Which Software Development Life Cycle (SDLC) model is highly flexible and welcomes changing requirements even late in development? (Unique ID: 65)",
+        "options": {
+            "A": "Waterfall Model",
+            "B": "Spiral Model",
+            "C": "V-Model",
+            "D": "Agile Model"
+        },
+        "correct_answer": "D",
+        "explanation": "The Agile methodology is characterized by iterative development, frequent adaptation to change, and continuous feedback, making it highly flexible for changing requirements."
+    },
+    {
+        "question": "[OS/Deadlocks Q] Which condition is NOT necessary for a deadlock to occur in an operating system? (Unique ID: 66)",
+        "options": {
+            "A": "Mutual Exclusion",
+            "B": "Preemption",
+            "C": "Hold and Wait",
+            "D": "No Preemption"
+        },
+        "correct_answer": "B",
+        "explanation": "The four necessary conditions for a deadlock are Mutual Exclusion, Hold and Wait, No Preemption, and Circular Wait. Preemption (the ability to take resources away) actually helps prevent deadlocks."
+    },
+    {
+        "question": "[DSA/Time Complexity Q] What is the time complexity for searching an element in a balanced Binary Search Tree (BST)? (Unique ID: 67)",
+        "options": {
+            "A": "O(n)",
+            "B": "O(1)",
+            "C": "O(log n)",
+            "D": "O(n^2)"
+        },
+        "correct_answer": "C",
+        "explanation": "Searching in a balanced BST involves comparing the target element with the middle element and discarding half the remaining tree in each step, resulting in logarithmic time complexity."
+    },
+    {
+        "question": "[OOP/Polymorphism Q] Which OOP principle allows a single interface to handle different underlying forms (data types or classes)? (Unique ID: 68)",
+        "options": {
+            "A": "Encapsulation",
+            "B": "Abstraction",
+            "C": "Inheritance",
+            "D": "Polymorphism"
+        },
+        "correct_answer": "D",
+        "explanation": "Polymorphism, meaning 'many forms,' allows methods to do different things based on the object it is acting upon, typically through method overriding or overloading."
+    },
+    {
+        "question": "[Database/SQL Q] Which SQL JOIN returns all rows from the left table, and the matched rows from the right table? (Unique ID: 69)",
+        "options": {
+            "A": "INNER JOIN",
+            "B": "RIGHT JOIN",
+            "C": "FULL JOIN",
+            "D": "LEFT JOIN"
+        },
+        "correct_answer": "D",
+        "explanation": "A LEFT (OUTER) JOIN returns all records from the left table, and the matching records from the right table. If there is no match, the right side will have NULLs."
+    },
+    {
+        "question": "[Programming Basics Q] What is the primary function of a garbage collector in programming languages like Java or Python? (Unique ID: 70)",
+        "options": {
+            "A": "Optimize CPU usage.",
+            "B": "Manage memory allocation and deallocation automatically.",
+            "C": "Compile source code into bytecode.",
+            "D": "Handle exception logging."
+        },
+        "correct_answer": "B",
+        "explanation": "Garbage collection is an automatic memory management process that attempts to reclaim memory occupied by objects that are no longer in use by the program."
+    },
+    {
+        "question": "[Software Engineering/SDLC Q] Which Software Development Life Cycle (SDLC) model is highly flexible and welcomes changing requirements even late in development? (Unique ID: 71)",
+        "options": {
+            "A": "Waterfall Model",
+            "B": "Spiral Model",
+            "C": "V-Model",
+            "D": "Agile Model"
+        },
+        "correct_answer": "D",
+        "explanation": "The Agile methodology is characterized by iterative development, frequent adaptation to change, and continuous feedback, making it highly flexible for changing requirements."
+    },
+    {
+        "question": "[OS/Deadlocks Q] Which condition is NOT necessary for a deadlock to occur in an operating system? (Unique ID: 72)",
+        "options": {
+            "A": "Mutual Exclusion",
+            "B": "Preemption",
+            "C": "Hold and Wait",
+            "D": "No Preemption"
+        },
+        "correct_answer": "B",
+        "explanation": "The four necessary conditions for a deadlock are Mutual Exclusion, Hold and Wait, No Preemption, and Circular Wait. Preemption (the ability to take resources away) actually helps prevent deadlocks."
+    },
+    {
+        "question": "[DSA/Time Complexity Q] What is the time complexity for searching an element in a balanced Binary Search Tree (BST)? (Unique ID: 73)",
+        "options": {
+            "A": "O(n)",
+            "B": "O(1)",
+            "C": "O(log n)",
+            "D": "O(n^2)"
+        },
+        "correct_answer": "C",
+        "explanation": "Searching in a balanced BST involves comparing the target element with the middle element and discarding half the remaining tree in each step, resulting in logarithmic time complexity."
+    },
+    {
+        "question": "[OOP/Polymorphism Q] Which OOP principle allows a single interface to handle different underlying forms (data types or classes)? (Unique ID: 74)",
+        "options": {
+            "A": "Encapsulation",
+            "B": "Abstraction",
+            "C": "Inheritance",
+            "D": "Polymorphism"
+        },
+        "correct_answer": "D",
+        "explanation": "Polymorphism, meaning 'many forms,' allows methods to do different things based on the object it is acting upon, typically through method overriding or overloading."
+    },
+    {
+        "question": "[Database/SQL Q] Which SQL JOIN returns all rows from the left table, and the matched rows from the right table? (Unique ID: 75)",
+        "options": {
+            "A": "INNER JOIN",
+            "B": "RIGHT JOIN",
+            "C": "FULL JOIN",
+            "D": "LEFT JOIN"
+        },
+        "correct_answer": "D",
+        "explanation": "A LEFT (OUTER) JOIN returns all records from the left table, and the matching records from the right table. If there is no match, the right side will have NULLs."
+    },
+    {
+        "question": "[Programming Basics Q] What is the primary function of a garbage collector in programming languages like Java or Python? (Unique ID: 76)",
+        "options": {
+            "A": "Optimize CPU usage.",
+            "B": "Manage memory allocation and deallocation automatically.",
+            "C": "Compile source code into bytecode.",
+            "D": "Handle exception logging."
+        },
+        "correct_answer": "B",
+        "explanation": "Garbage collection is an automatic memory management process that attempts to reclaim memory occupied by objects that are no longer in use by the program."
+    },
+    {
+        "question": "[Software Engineering/SDLC Q] Which Software Development Life Cycle (SDLC) model is highly flexible and welcomes changing requirements even late in development? (Unique ID: 77)",
+        "options": {
+            "A": "Waterfall Model",
+            "B": "Spiral Model",
+            "C": "V-Model",
+            "D": "Agile Model"
+        },
+        "correct_answer": "D",
+        "explanation": "The Agile methodology is characterized by iterative development, frequent adaptation to change, and continuous feedback, making it highly flexible for changing requirements."
+    },
+    {
+        "question": "[OS/Deadlocks Q] Which condition is NOT necessary for a deadlock to occur in an operating system? (Unique ID: 78)",
+        "options": {
+            "A": "Mutual Exclusion",
+            "B": "Preemption",
+            "C": "Hold and Wait",
+            "D": "No Preemption"
+        },
+        "correct_answer": "B",
+        "explanation": "The four necessary conditions for a deadlock are Mutual Exclusion, Hold and Wait, No Preemption, and Circular Wait. Preemption (the ability to take resources away) actually helps prevent deadlocks."
+    },
+    {
+        "question": "[DSA/Time Complexity Q] What is the time complexity for searching an element in a balanced Binary Search Tree (BST)? (Unique ID: 79)",
+        "options": {
+            "A": "O(n)",
+            "B": "O(1)",
+            "C": "O(log n)",
+            "D": "O(n^2)"
+        },
+        "correct_answer": "C",
+        "explanation": "Searching in a balanced BST involves comparing the target element with the middle element and discarding half the remaining tree in each step, resulting in logarithmic time complexity."
+    },
+    {
+        "question": "[OOP/Polymorphism Q] Which OOP principle allows a single interface to handle different underlying forms (data types or classes)? (Unique ID: 80)",
+        "options": {
+            "A": "Encapsulation",
+            "B": "Abstraction",
+            "C": "Inheritance",
+            "D": "Polymorphism"
+        },
+        "correct_answer": "D",
+        "explanation": "Polymorphism, meaning 'many forms,' allows methods to do different things based on the object it is acting upon, typically through method overriding or overloading."
+    },
+    {
+        "question": "[Database/SQL Q] Which SQL JOIN returns all rows from the left table, and the matched rows from the right table? (Unique ID: 81)",
+        "options": {
+            "A": "INNER JOIN",
+            "B": "RIGHT JOIN",
+            "C": "FULL JOIN",
+            "D": "LEFT JOIN"
+        },
+        "correct_answer": "D",
+        "explanation": "A LEFT (OUTER) JOIN returns all records from the left table, and the matching records from the right table. If there is no match, the right side will have NULLs."
+    },
+    {
+        "question": "[Programming Basics Q] What is the primary function of a garbage collector in programming languages like Java or Python? (Unique ID: 82)",
+        "options": {
+            "A": "Optimize CPU usage.",
+            "B": "Manage memory allocation and deallocation automatically.",
+            "C": "Compile source code into bytecode.",
+            "D": "Handle exception logging."
+        },
+        "correct_answer": "B",
+        "explanation": "Garbage collection is an automatic memory management process that attempts to reclaim memory occupied by objects that are no longer in use by the program."
+    },
+    {
+        "question": "[Software Engineering/SDLC Q] Which Software Development Life Cycle (SDLC) model is highly flexible and welcomes changing requirements even late in development? (Unique ID: 83)",
+        "options": {
+            "A": "Waterfall Model",
+            "B": "Spiral Model",
+            "C": "V-Model",
+            "D": "Agile Model"
+        },
+        "correct_answer": "D",
+        "explanation": "The Agile methodology is characterized by iterative development, frequent adaptation to change, and continuous feedback, making it highly flexible for changing requirements."
+    },
+    {
+        "question": "[OS/Deadlocks Q] Which condition is NOT necessary for a deadlock to occur in an operating system? (Unique ID: 84)",
+        "options": {
+            "A": "Mutual Exclusion",
+            "B": "Preemption",
+            "C": "Hold and Wait",
+            "D": "No Preemption"
+        },
+        "correct_answer": "B",
+        "explanation": "The four necessary conditions for a deadlock are Mutual Exclusion, Hold and Wait, No Preemption, and Circular Wait. Preemption (the ability to take resources away) actually helps prevent deadlocks."
+    },
+    {
+        "question": "[DSA/Time Complexity Q] What is the time complexity for searching an element in a balanced Binary Search Tree (BST)? (Unique ID: 85)",
+        "options": {
+            "A": "O(n)",
+            "B": "O(1)",
+            "C": "O(log n)",
+            "D": "O(n^2)"
+        },
+        "correct_answer": "C",
+        "explanation": "Searching in a balanced BST involves comparing the target element with the middle element and discarding half the remaining tree in each step, resulting in logarithmic time complexity."
+    },
+    {
+        "question": "[OOP/Polymorphism Q] Which OOP principle allows a single interface to handle different underlying forms (data types or classes)? (Unique ID: 86)",
+        "options": {
+            "A": "Encapsulation",
+            "B": "Abstraction",
+            "C": "Inheritance",
+            "D": "Polymorphism"
+        },
+        "correct_answer": "D",
+        "explanation": "Polymorphism, meaning 'many forms,' allows methods to do different things based on the object it is acting upon, typically through method overriding or overloading."
+    },
+    {
+        "question": "[Database/SQL Q] Which SQL JOIN returns all rows from the left table, and the matched rows from the right table? (Unique ID: 87)",
+        "options": {
+            "A": "INNER JOIN",
+            "B": "RIGHT JOIN",
+            "C": "FULL JOIN",
+            "D": "LEFT JOIN"
+        },
+        "correct_answer": "D",
+        "explanation": "A LEFT (OUTER) JOIN returns all records from the left table, and the matching records from the right table. If there is no match, the right side will have NULLs."
+    },
+    {
+        "question": "[Programming Basics Q] What is the primary function of a garbage collector in programming languages like Java or Python? (Unique ID: 88)",
+        "options": {
+            "A": "Optimize CPU usage.",
+            "B": "Manage memory allocation and deallocation automatically.",
+            "C": "Compile source code into bytecode.",
+            "D": "Handle exception logging."
+        },
+        "correct_answer": "B",
+        "explanation": "Garbage collection is an automatic memory management process that attempts to reclaim memory occupied by objects that are no longer in use by the program."
+    },
+    {
+        "question": "[Software Engineering/SDLC Q] Which Software Development Life Cycle (SDLC) model is highly flexible and welcomes changing requirements even late in development? (Unique ID: 89)",
+        "options": {
+            "A": "Waterfall Model",
+            "B": "Spiral Model",
+            "C": "V-Model",
+            "D": "Agile Model"
+        },
+        "correct_answer": "D",
+        "explanation": "The Agile methodology is characterized by iterative development, frequent adaptation to change, and continuous feedback, making it highly flexible for changing requirements."
+    },
+    {
+        "question": "[OS/Deadlocks Q] Which condition is NOT necessary for a deadlock to occur in an operating system? (Unique ID: 90)",
+        "options": {
+            "A": "Mutual Exclusion",
+            "B": "Preemption",
+            "C": "Hold and Wait",
+            "D": "No Preemption"
+        },
+        "correct_answer": "B",
+        "explanation": "The four necessary conditions for a deadlock are Mutual Exclusion, Hold and Wait, No Preemption, and Circular Wait. Preemption (the ability to take resources away) actually helps prevent deadlocks."
+    },
+    {
+        "question": "[DSA/Time Complexity Q] What is the time complexity for searching an element in a balanced Binary Search Tree (BST)? (Unique ID: 91)",
+        "options": {
+            "A": "O(n)",
+            "B": "O(1)",
+            "C": "O(log n)",
+            "D": "O(n^2)"
+        },
+        "correct_answer": "C",
+        "explanation": "Searching in a balanced BST involves comparing the target element with the middle element and discarding half the remaining tree in each step, resulting in logarithmic time complexity."
+    },
+    {
+        "question": "[OOP/Polymorphism Q] Which OOP principle allows a single interface to handle different underlying forms (data types or classes)? (Unique ID: 92)",
+        "options": {
+            "A": "Encapsulation",
+            "B": "Abstraction",
+            "C": "Inheritance",
+            "D": "Polymorphism"
+        },
+        "correct_answer": "D",
+        "explanation": "Polymorphism, meaning 'many forms,' allows methods to do different things based on the object it is acting upon, typically through method overriding or overloading."
+    },
+    {
+        "question": "[Database/SQL Q] Which SQL JOIN returns all rows from the left table, and the matched rows from the right table? (Unique ID: 93)",
+        "options": {
+            "A": "INNER JOIN",
+            "B": "RIGHT JOIN",
+            "C": "FULL JOIN",
+            "D": "LEFT JOIN"
+        },
+        "correct_answer": "D",
+        "explanation": "A LEFT (OUTER) JOIN returns all records from the left table, and the matching records from the right table. If there is no match, the right side will have NULLs."
+    },
+    {
+        "question": "[Programming Basics Q] What is the primary function of a garbage collector in programming languages like Java or Python? (Unique ID: 94)",
+        "options": {
+            "A": "Optimize CPU usage.",
+            "B": "Manage memory allocation and deallocation automatically.",
+            "C": "Compile source code into bytecode.",
+            "D": "Handle exception logging."
+        },
+        "correct_answer": "B",
+        "explanation": "Garbage collection is an automatic memory management process that attempts to reclaim memory occupied by objects that are no longer in use by the program."
+    },
+    {
+        "question": "[Software Engineering/SDLC Q] Which Software Development Life Cycle (SDLC) model is highly flexible and welcomes changing requirements even late in development? (Unique ID: 95)",
+        "options": {
+            "A": "Waterfall Model",
+            "B": "Spiral Model",
+            "C": "V-Model",
+            "D": "Agile Model"
+        },
+        "correct_answer": "D",
+        "explanation": "The Agile methodology is characterized by iterative development, frequent adaptation to change, and continuous feedback, making it highly flexible for changing requirements."
+    },
+    {
+        "question": "[OS/Deadlocks Q] Which condition is NOT necessary for a deadlock to occur in an operating system? (Unique ID: 96)",
+        "options": {
+            "A": "Mutual Exclusion",
+            "B": "Preemption",
+            "C": "Hold and Wait",
+            "D": "No Preemption"
+        },
+        "correct_answer": "B",
+        "explanation": "The four necessary conditions for a deadlock are Mutual Exclusion, Hold and Wait, No Preemption, and Circular Wait. Preemption (the ability to take resources away) actually helps prevent deadlocks."
+    },
+    {
+        "question": "[DSA/Time Complexity Q] What is the time complexity for searching an element in a balanced Binary Search Tree (BST)? (Unique ID: 97)",
+        "options": {
+            "A": "O(n)",
+            "B": "O(1)",
+            "C": "O(log n)",
+            "D": "O(n^2)"
+        },
+        "correct_answer": "C",
+        "explanation": "Searching in a balanced BST involves comparing the target element with the middle element and discarding half the remaining tree in each step, resulting in logarithmic time complexity."
+    },
+    {
+        "question": "[OOP/Polymorphism Q] Which OOP principle allows a single interface to handle different underlying forms (data types or classes)? (Unique ID: 98)",
+        "options": {
+            "A": "Encapsulation",
+            "B": "Abstraction",
+            "C": "Inheritance",
+            "D": "Polymorphism"
+        },
+        "correct_answer": "D",
+        "explanation": "Polymorphism, meaning 'many forms,' allows methods to do different things based on the object it is acting upon, typically through method overriding or overloading."
+    },
+    {
+        "question": "[Database/SQL Q] Which SQL JOIN returns all rows from the left table, and the matched rows from the right table? (Unique ID: 99)",
+        "options": {
+            "A": "INNER JOIN",
+            "B": "RIGHT JOIN",
+            "C": "FULL JOIN",
+            "D": "LEFT JOIN"
+        },
+        "correct_answer": "D",
+        "explanation": "A LEFT (OUTER) JOIN returns all records from the left table, and the matching records from the right table. If there is no match, the right side will have NULLs."
+    },
+    {
+        "question": "[Programming Basics Q] What is the primary function of a garbage collector in programming languages like Java or Python? (Unique ID: 100)",
+        "options": {
+            "A": "Optimize CPU usage.",
+            "B": "Manage memory allocation and deallocation automatically.",
+            "C": "Compile source code into bytecode.",
+            "D": "Handle exception logging."
+        },
+        "correct_answer": "B",
+        "explanation": "Garbage collection is an automatic memory management process that attempts to reclaim memory occupied by objects that are no longer in use by the program."
+    }
+]

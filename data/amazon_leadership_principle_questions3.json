@@ -1,0 +1,1102 @@
+[
+    {
+        "question": "[Customer Obsession LP] Which action best demonstrates Customer Obsession? (Unique ID: 1)",
+        "options": {
+            "A": "Focusing primarily on competitor pricing.",
+            "B": "Prioritizing short-term revenue goals over long-term customer trust.",
+            "C": "Working backwards from the customer need.",
+            "D": "Designing a feature based on internal engineering convenience."
+        },
+        "correct_answer": "C",
+        "explanation": "Working backwards from the customer need is the core tenet of Customer Obsession, ensuring all efforts begin with solving the customer's problem."
+    },
+    {
+        "question": "[Ownership LP] You notice an error in a cross-team project's documentation. Which response aligns with Ownership? (Unique ID: 2)",
+        "options": {
+            "A": "Report it to the document owner and wait for their action.",
+            "B": "Fix the error immediately and notify the owner.",
+            "C": "Ignore it, as it's not your team's responsibility.",
+            "D": "Log a bug ticket and set the priority to low."
+        },
+        "correct_answer": "B",
+        "explanation": "Ownership means acting on behalf of the entire company, not just your team. Fixing the error shows personal accountability for quality, even if it's outside your direct domain."
+    },
+    {
+        "question": "[Invent and Simplify LP] When is the best time to 'Invent and Simplify' a process? (Unique ID: 3)",
+        "options": {
+            "A": "Only when a competitor introduces a better solution.",
+            "B": "Continuously, regardless of current process success.",
+            "C": "When stakeholders complain about efficiency.",
+            "D": "Never, as existing processes are proven reliable."
+        },
+        "correct_answer": "B",
+        "explanation": "This principle emphasizes continuous innovation. Leaders constantly look for new ways to do things and simplify complex processes, even if the current system is functional."
+    },
+    {
+        "question": "[Hire and Develop the Best LP] A great leader performing well on 'Hire and Develop the Best' is characterized by: (Unique ID: 4)",
+        "options": {
+            "A": "Delegating all training responsibilities to HR.",
+            "B": "Being a hiring gatekeeper to prevent top talent from leaving.",
+            "C": "Recognizing exceptional talent and proactively coaching them towards promotion.",
+            "D": "Focusing only on high-volume hiring to meet growth targets."
+        },
+        "correct_answer": "C",
+        "explanation": "Leaders raise the performance bar. This includes actively identifying, mentoring, and coaching high-potential talent to ensure their continuous growth and readiness for the next level."
+    },
+    {
+        "question": "[Customer Obsession LP] Which action best demonstrates Customer Obsession? (Unique ID: 5)",
+        "options": {
+            "A": "Focusing primarily on competitor pricing.",
+            "B": "Prioritizing short-term revenue goals over long-term customer trust.",
+            "C": "Working backwards from the customer need.",
+            "D": "Designing a feature based on internal engineering convenience."
+        },
+        "correct_answer": "C",
+        "explanation": "Working backwards from the customer need is the core tenet of Customer Obsession, ensuring all efforts begin with solving the customer's problem."
+    },
+    {
+        "question": "[Ownership LP] You notice an error in a cross-team project's documentation. Which response aligns with Ownership? (Unique ID: 6)",
+        "options": {
+            "A": "Report it to the document owner and wait for their action.",
+            "B": "Fix the error immediately and notify the owner.",
+            "C": "Ignore it, as it's not your team's responsibility.",
+            "D": "Log a bug ticket and set the priority to low."
+        },
+        "correct_answer": "B",
+        "explanation": "Ownership means acting on behalf of the entire company, not just your team. Fixing the error shows personal accountability for quality, even if it's outside your direct domain."
+    },
+    {
+        "question": "[Invent and Simplify LP] When is the best time to 'Invent and Simplify' a process? (Unique ID: 7)",
+        "options": {
+            "A": "Only when a competitor introduces a better solution.",
+            "B": "Continuously, regardless of current process success.",
+            "C": "When stakeholders complain about efficiency.",
+            "D": "Never, as existing processes are proven reliable."
+        },
+        "correct_answer": "B",
+        "explanation": "This principle emphasizes continuous innovation. Leaders constantly look for new ways to do things and simplify complex processes, even if the current system is functional."
+    },
+    {
+        "question": "[Hire and Develop the Best LP] A great leader performing well on 'Hire and Develop the Best' is characterized by: (Unique ID: 8)",
+        "options": {
+            "A": "Delegating all training responsibilities to HR.",
+            "B": "Being a hiring gatekeeper to prevent top talent from leaving.",
+            "C": "Recognizing exceptional talent and proactively coaching them towards promotion.",
+            "D": "Focusing only on high-volume hiring to meet growth targets."
+        },
+        "correct_answer": "C",
+        "explanation": "Leaders raise the performance bar. This includes actively identifying, mentoring, and coaching high-potential talent to ensure their continuous growth and readiness for the next level."
+    },
+    {
+        "question": "[Customer Obsession LP] Which action best demonstrates Customer Obsession? (Unique ID: 9)",
+        "options": {
+            "A": "Focusing primarily on competitor pricing.",
+            "B": "Prioritizing short-term revenue goals over long-term customer trust.",
+            "C": "Working backwards from the customer need.",
+            "D": "Designing a feature based on internal engineering convenience."
+        },
+        "correct_answer": "C",
+        "explanation": "Working backwards from the customer need is the core tenet of Customer Obsession, ensuring all efforts begin with solving the customer's problem."
+    },
+    {
+        "question": "[Ownership LP] You notice an error in a cross-team project's documentation. Which response aligns with Ownership? (Unique ID: 10)",
+        "options": {
+            "A": "Report it to the document owner and wait for their action.",
+            "B": "Fix the error immediately and notify the owner.",
+            "C": "Ignore it, as it's not your team's responsibility.",
+            "D": "Log a bug ticket and set the priority to low."
+        },
+        "correct_answer": "B",
+        "explanation": "Ownership means acting on behalf of the entire company, not just your team. Fixing the error shows personal accountability for quality, even if it's outside your direct domain."
+    },
+    {
+        "question": "[Invent and Simplify LP] When is the best time to 'Invent and Simplify' a process? (Unique ID: 11)",
+        "options": {
+            "A": "Only when a competitor introduces a better solution.",
+            "B": "Continuously, regardless of current process success.",
+            "C": "When stakeholders complain about efficiency.",
+            "D": "Never, as existing processes are proven reliable."
+        },
+        "correct_answer": "B",
+        "explanation": "This principle emphasizes continuous innovation. Leaders constantly look for new ways to do things and simplify complex processes, even if the current system is functional."
+    },
+    {
+        "question": "[Hire and Develop the Best LP] A great leader performing well on 'Hire and Develop the Best' is characterized by: (Unique ID: 12)",
+        "options": {
+            "A": "Delegating all training responsibilities to HR.",
+            "B": "Being a hiring gatekeeper to prevent top talent from leaving.",
+            "C": "Recognizing exceptional talent and proactively coaching them towards promotion.",
+            "D": "Focusing only on high-volume hiring to meet growth targets."
+        },
+        "correct_answer": "C",
+        "explanation": "Leaders raise the performance bar. This includes actively identifying, mentoring, and coaching high-potential talent to ensure their continuous growth and readiness for the next level."
+    },
+    {
+        "question": "[Customer Obsession LP] Which action best demonstrates Customer Obsession? (Unique ID: 13)",
+        "options": {
+            "A": "Focusing primarily on competitor pricing.",
+            "B": "Prioritizing short-term revenue goals over long-term customer trust.",
+            "C": "Working backwards from the customer need.",
+            "D": "Designing a feature based on internal engineering convenience."
+        },
+        "correct_answer": "C",
+        "explanation": "Working backwards from the customer need is the core tenet of Customer Obsession, ensuring all efforts begin with solving the customer's problem."
+    },
+    {
+        "question": "[Ownership LP] You notice an error in a cross-team project's documentation. Which response aligns with Ownership? (Unique ID: 14)",
+        "options": {
+            "A": "Report it to the document owner and wait for their action.",
+            "B": "Fix the error immediately and notify the owner.",
+            "C": "Ignore it, as it's not your team's responsibility.",
+            "D": "Log a bug ticket and set the priority to low."
+        },
+        "correct_answer": "B",
+        "explanation": "Ownership means acting on behalf of the entire company, not just your team. Fixing the error shows personal accountability for quality, even if it's outside your direct domain."
+    },
+    {
+        "question": "[Invent and Simplify LP] When is the best time to 'Invent and Simplify' a process? (Unique ID: 15)",
+        "options": {
+            "A": "Only when a competitor introduces a better solution.",
+            "B": "Continuously, regardless of current process success.",
+            "C": "When stakeholders complain about efficiency.",
+            "D": "Never, as existing processes are proven reliable."
+        },
+        "correct_answer": "B",
+        "explanation": "This principle emphasizes continuous innovation. Leaders constantly look for new ways to do things and simplify complex processes, even if the current system is functional."
+    },
+    {
+        "question": "[Hire and Develop the Best LP] A great leader performing well on 'Hire and Develop the Best' is characterized by: (Unique ID: 16)",
+        "options": {
+            "A": "Delegating all training responsibilities to HR.",
+            "B": "Being a hiring gatekeeper to prevent top talent from leaving.",
+            "C": "Recognizing exceptional talent and proactively coaching them towards promotion.",
+            "D": "Focusing only on high-volume hiring to meet growth targets."
+        },
+        "correct_answer": "C",
+        "explanation": "Leaders raise the performance bar. This includes actively identifying, mentoring, and coaching high-potential talent to ensure their continuous growth and readiness for the next level."
+    },
+    {
+        "question": "[Customer Obsession LP] Which action best demonstrates Customer Obsession? (Unique ID: 17)",
+        "options": {
+            "A": "Focusing primarily on competitor pricing.",
+            "B": "Prioritizing short-term revenue goals over long-term customer trust.",
+            "C": "Working backwards from the customer need.",
+            "D": "Designing a feature based on internal engineering convenience."
+        },
+        "correct_answer": "C",
+        "explanation": "Working backwards from the customer need is the core tenet of Customer Obsession, ensuring all efforts begin with solving the customer's problem."
+    },
+    {
+        "question": "[Ownership LP] You notice an error in a cross-team project's documentation. Which response aligns with Ownership? (Unique ID: 18)",
+        "options": {
+            "A": "Report it to the document owner and wait for their action.",
+            "B": "Fix the error immediately and notify the owner.",
+            "C": "Ignore it, as it's not your team's responsibility.",
+            "D": "Log a bug ticket and set the priority to low."
+        },
+        "correct_answer": "B",
+        "explanation": "Ownership means acting on behalf of the entire company, not just your team. Fixing the error shows personal accountability for quality, even if it's outside your direct domain."
+    },
+    {
+        "question": "[Invent and Simplify LP] When is the best time to 'Invent and Simplify' a process? (Unique ID: 19)",
+        "options": {
+            "A": "Only when a competitor introduces a better solution.",
+            "B": "Continuously, regardless of current process success.",
+            "C": "When stakeholders complain about efficiency.",
+            "D": "Never, as existing processes are proven reliable."
+        },
+        "correct_answer": "B",
+        "explanation": "This principle emphasizes continuous innovation. Leaders constantly look for new ways to do things and simplify complex processes, even if the current system is functional."
+    },
+    {
+        "question": "[Hire and Develop the Best LP] A great leader performing well on 'Hire and Develop the Best' is characterized by: (Unique ID: 20)",
+        "options": {
+            "A": "Delegating all training responsibilities to HR.",
+            "B": "Being a hiring gatekeeper to prevent top talent from leaving.",
+            "C": "Recognizing exceptional talent and proactively coaching them towards promotion.",
+            "D": "Focusing only on high-volume hiring to meet growth targets."
+        },
+        "correct_answer": "C",
+        "explanation": "Leaders raise the performance bar. This includes actively identifying, mentoring, and coaching high-potential talent to ensure their continuous growth and readiness for the next level."
+    },
+    {
+        "question": "[Customer Obsession LP] Which action best demonstrates Customer Obsession? (Unique ID: 21)",
+        "options": {
+            "A": "Focusing primarily on competitor pricing.",
+            "B": "Prioritizing short-term revenue goals over long-term customer trust.",
+            "C": "Working backwards from the customer need.",
+            "D": "Designing a feature based on internal engineering convenience."
+        },
+        "correct_answer": "C",
+        "explanation": "Working backwards from the customer need is the core tenet of Customer Obsession, ensuring all efforts begin with solving the customer's problem."
+    },
+    {
+        "question": "[Ownership LP] You notice an error in a cross-team project's documentation. Which response aligns with Ownership? (Unique ID: 22)",
+        "options": {
+            "A": "Report it to the document owner and wait for their action.",
+            "B": "Fix the error immediately and notify the owner.",
+            "C": "Ignore it, as it's not your team's responsibility.",
+            "D": "Log a bug ticket and set the priority to low."
+        },
+        "correct_answer": "B",
+        "explanation": "Ownership means acting on behalf of the entire company, not just your team. Fixing the error shows personal accountability for quality, even if it's outside your direct domain."
+    },
+    {
+        "question": "[Invent and Simplify LP] When is the best time to 'Invent and Simplify' a process? (Unique ID: 23)",
+        "options": {
+            "A": "Only when a competitor introduces a better solution.",
+            "B": "Continuously, regardless of current process success.",
+            "C": "When stakeholders complain about efficiency.",
+            "D": "Never, as existing processes are proven reliable."
+        },
+        "correct_answer": "B",
+        "explanation": "This principle emphasizes continuous innovation. Leaders constantly look for new ways to do things and simplify complex processes, even if the current system is functional."
+    },
+    {
+        "question": "[Hire and Develop the Best LP] A great leader performing well on 'Hire and Develop the Best' is characterized by: (Unique ID: 24)",
+        "options": {
+            "A": "Delegating all training responsibilities to HR.",
+            "B": "Being a hiring gatekeeper to prevent top talent from leaving.",
+            "C": "Recognizing exceptional talent and proactively coaching them towards promotion.",
+            "D": "Focusing only on high-volume hiring to meet growth targets."
+        },
+        "correct_answer": "C",
+        "explanation": "Leaders raise the performance bar. This includes actively identifying, mentoring, and coaching high-potential talent to ensure their continuous growth and readiness for the next level."
+    },
+    {
+        "question": "[Customer Obsession LP] Which action best demonstrates Customer Obsession? (Unique ID: 25)",
+        "options": {
+            "A": "Focusing primarily on competitor pricing.",
+            "B": "Prioritizing short-term revenue goals over long-term customer trust.",
+            "C": "Working backwards from the customer need.",
+            "D": "Designing a feature based on internal engineering convenience."
+        },
+        "correct_answer": "C",
+        "explanation": "Working backwards from the customer need is the core tenet of Customer Obsession, ensuring all efforts begin with solving the customer's problem."
+    },
+    {
+        "question": "[Ownership LP] You notice an error in a cross-team project's documentation. Which response aligns with Ownership? (Unique ID: 26)",
+        "options": {
+            "A": "Report it to the document owner and wait for their action.",
+            "B": "Fix the error immediately and notify the owner.",
+            "C": "Ignore it, as it's not your team's responsibility.",
+            "D": "Log a bug ticket and set the priority to low."
+        },
+        "correct_answer": "B",
+        "explanation": "Ownership means acting on behalf of the entire company, not just your team. Fixing the error shows personal accountability for quality, even if it's outside your direct domain."
+    },
+    {
+        "question": "[Invent and Simplify LP] When is the best time to 'Invent and Simplify' a process? (Unique ID: 27)",
+        "options": {
+            "A": "Only when a competitor introduces a better solution.",
+            "B": "Continuously, regardless of current process success.",
+            "C": "When stakeholders complain about efficiency.",
+            "D": "Never, as existing processes are proven reliable."
+        },
+        "correct_answer": "B",
+        "explanation": "This principle emphasizes continuous innovation. Leaders constantly look for new ways to do things and simplify complex processes, even if the current system is functional."
+    },
+    {
+        "question": "[Hire and Develop the Best LP] A great leader performing well on 'Hire and Develop the Best' is characterized by: (Unique ID: 28)",
+        "options": {
+            "A": "Delegating all training responsibilities to HR.",
+            "B": "Being a hiring gatekeeper to prevent top talent from leaving.",
+            "C": "Recognizing exceptional talent and proactively coaching them towards promotion.",
+            "D": "Focusing only on high-volume hiring to meet growth targets."
+        },
+        "correct_answer": "C",
+        "explanation": "Leaders raise the performance bar. This includes actively identifying, mentoring, and coaching high-potential talent to ensure their continuous growth and readiness for the next level."
+    },
+    {
+        "question": "[Customer Obsession LP] Which action best demonstrates Customer Obsession? (Unique ID: 29)",
+        "options": {
+            "A": "Focusing primarily on competitor pricing.",
+            "B": "Prioritizing short-term revenue goals over long-term customer trust.",
+            "C": "Working backwards from the customer need.",
+            "D": "Designing a feature based on internal engineering convenience."
+        },
+        "correct_answer": "C",
+        "explanation": "Working backwards from the customer need is the core tenet of Customer Obsession, ensuring all efforts begin with solving the customer's problem."
+    },
+    {
+        "question": "[Ownership LP] You notice an error in a cross-team project's documentation. Which response aligns with Ownership? (Unique ID: 30)",
+        "options": {
+            "A": "Report it to the document owner and wait for their action.",
+            "B": "Fix the error immediately and notify the owner.",
+            "C": "Ignore it, as it's not your team's responsibility.",
+            "D": "Log a bug ticket and set the priority to low."
+        },
+        "correct_answer": "B",
+        "explanation": "Ownership means acting on behalf of the entire company, not just your team. Fixing the error shows personal accountability for quality, even if it's outside your direct domain."
+    },
+    {
+        "question": "[Invent and Simplify LP] When is the best time to 'Invent and Simplify' a process? (Unique ID: 31)",
+        "options": {
+            "A": "Only when a competitor introduces a better solution.",
+            "B": "Continuously, regardless of current process success.",
+            "C": "When stakeholders complain about efficiency.",
+            "D": "Never, as existing processes are proven reliable."
+        },
+        "correct_answer": "B",
+        "explanation": "This principle emphasizes continuous innovation. Leaders constantly look for new ways to do things and simplify complex processes, even if the current system is functional."
+    },
+    {
+        "question": "[Hire and Develop the Best LP] A great leader performing well on 'Hire and Develop the Best' is characterized by: (Unique ID: 32)",
+        "options": {
+            "A": "Delegating all training responsibilities to HR.",
+            "B": "Being a hiring gatekeeper to prevent top talent from leaving.",
+            "C": "Recognizing exceptional talent and proactively coaching them towards promotion.",
+            "D": "Focusing only on high-volume hiring to meet growth targets."
+        },
+        "correct_answer": "C",
+        "explanation": "Leaders raise the performance bar. This includes actively identifying, mentoring, and coaching high-potential talent to ensure their continuous growth and readiness for the next level."
+    },
+    {
+        "question": "[Customer Obsession LP] Which action best demonstrates Customer Obsession? (Unique ID: 33)",
+        "options": {
+            "A": "Focusing primarily on competitor pricing.",
+            "B": "Prioritizing short-term revenue goals over long-term customer trust.",
+            "C": "Working backwards from the customer need.",
+            "D": "Designing a feature based on internal engineering convenience."
+        },
+        "correct_answer": "C",
+        "explanation": "Working backwards from the customer need is the core tenet of Customer Obsession, ensuring all efforts begin with solving the customer's problem."
+    },
+    {
+        "question": "[Ownership LP] You notice an error in a cross-team project's documentation. Which response aligns with Ownership? (Unique ID: 34)",
+        "options": {
+            "A": "Report it to the document owner and wait for their action.",
+            "B": "Fix the error immediately and notify the owner.",
+            "C": "Ignore it, as it's not your team's responsibility.",
+            "D": "Log a bug ticket and set the priority to low."
+        },
+        "correct_answer": "B",
+        "explanation": "Ownership means acting on behalf of the entire company, not just your team. Fixing the error shows personal accountability for quality, even if it's outside your direct domain."
+    },
+    {
+        "question": "[Invent and Simplify LP] When is the best time to 'Invent and Simplify' a process? (Unique ID: 35)",
+        "options": {
+            "A": "Only when a competitor introduces a better solution.",
+            "B": "Continuously, regardless of current process success.",
+            "C": "When stakeholders complain about efficiency.",
+            "D": "Never, as existing processes are proven reliable."
+        },
+        "correct_answer": "B",
+        "explanation": "This principle emphasizes continuous innovation. Leaders constantly look for new ways to do things and simplify complex processes, even if the current system is functional."
+    },
+    {
+        "question": "[Hire and Develop the Best LP] A great leader performing well on 'Hire and Develop the Best' is characterized by: (Unique ID: 36)",
+        "options": {
+            "A": "Delegating all training responsibilities to HR.",
+            "B": "Being a hiring gatekeeper to prevent top talent from leaving.",
+            "C": "Recognizing exceptional talent and proactively coaching them towards promotion.",
+            "D": "Focusing only on high-volume hiring to meet growth targets."
+        },
+        "correct_answer": "C",
+        "explanation": "Leaders raise the performance bar. This includes actively identifying, mentoring, and coaching high-potential talent to ensure their continuous growth and readiness for the next level."
+    },
+    {
+        "question": "[Customer Obsession LP] Which action best demonstrates Customer Obsession? (Unique ID: 37)",
+        "options": {
+            "A": "Focusing primarily on competitor pricing.",
+            "B": "Prioritizing short-term revenue goals over long-term customer trust.",
+            "C": "Working backwards from the customer need.",
+            "D": "Designing a feature based on internal engineering convenience."
+        },
+        "correct_answer": "C",
+        "explanation": "Working backwards from the customer need is the core tenet of Customer Obsession, ensuring all efforts begin with solving the customer's problem."
+    },
+    {
+        "question": "[Ownership LP] You notice an error in a cross-team project's documentation. Which response aligns with Ownership? (Unique ID: 38)",
+        "options": {
+            "A": "Report it to the document owner and wait for their action.",
+            "B": "Fix the error immediately and notify the owner.",
+            "C": "Ignore it, as it's not your team's responsibility.",
+            "D": "Log a bug ticket and set the priority to low."
+        },
+        "correct_answer": "B",
+        "explanation": "Ownership means acting on behalf of the entire company, not just your team. Fixing the error shows personal accountability for quality, even if it's outside your direct domain."
+    },
+    {
+        "question": "[Invent and Simplify LP] When is the best time to 'Invent and Simplify' a process? (Unique ID: 39)",
+        "options": {
+            "A": "Only when a competitor introduces a better solution.",
+            "B": "Continuously, regardless of current process success.",
+            "C": "When stakeholders complain about efficiency.",
+            "D": "Never, as existing processes are proven reliable."
+        },
+        "correct_answer": "B",
+        "explanation": "This principle emphasizes continuous innovation. Leaders constantly look for new ways to do things and simplify complex processes, even if the current system is functional."
+    },
+    {
+        "question": "[Hire and Develop the Best LP] A great leader performing well on 'Hire and Develop the Best' is characterized by: (Unique ID: 40)",
+        "options": {
+            "A": "Delegating all training responsibilities to HR.",
+            "B": "Being a hiring gatekeeper to prevent top talent from leaving.",
+            "C": "Recognizing exceptional talent and proactively coaching them towards promotion.",
+            "D": "Focusing only on high-volume hiring to meet growth targets."
+        },
+        "correct_answer": "C",
+        "explanation": "Leaders raise the performance bar. This includes actively identifying, mentoring, and coaching high-potential talent to ensure their continuous growth and readiness for the next level."
+    },
+    {
+        "question": "[Customer Obsession LP] Which action best demonstrates Customer Obsession? (Unique ID: 41)",
+        "options": {
+            "A": "Focusing primarily on competitor pricing.",
+            "B": "Prioritizing short-term revenue goals over long-term customer trust.",
+            "C": "Working backwards from the customer need.",
+            "D": "Designing a feature based on internal engineering convenience."
+        },
+        "correct_answer": "C",
+        "explanation": "Working backwards from the customer need is the core tenet of Customer Obsession, ensuring all efforts begin with solving the customer's problem."
+    },
+    {
+        "question": "[Ownership LP] You notice an error in a cross-team project's documentation. Which response aligns with Ownership? (Unique ID: 42)",
+        "options": {
+            "A": "Report it to the document owner and wait for their action.",
+            "B": "Fix the error immediately and notify the owner.",
+            "C": "Ignore it, as it's not your team's responsibility.",
+            "D": "Log a bug ticket and set the priority to low."
+        },
+        "correct_answer": "B",
+        "explanation": "Ownership means acting on behalf of the entire company, not just your team. Fixing the error shows personal accountability for quality, even if it's outside your direct domain."
+    },
+    {
+        "question": "[Invent and Simplify LP] When is the best time to 'Invent and Simplify' a process? (Unique ID: 43)",
+        "options": {
+            "A": "Only when a competitor introduces a better solution.",
+            "B": "Continuously, regardless of current process success.",
+            "C": "When stakeholders complain about efficiency.",
+            "D": "Never, as existing processes are proven reliable."
+        },
+        "correct_answer": "B",
+        "explanation": "This principle emphasizes continuous innovation. Leaders constantly look for new ways to do things and simplify complex processes, even if the current system is functional."
+    },
+    {
+        "question": "[Hire and Develop the Best LP] A great leader performing well on 'Hire and Develop the Best' is characterized by: (Unique ID: 44)",
+        "options": {
+            "A": "Delegating all training responsibilities to HR.",
+            "B": "Being a hiring gatekeeper to prevent top talent from leaving.",
+            "C": "Recognizing exceptional talent and proactively coaching them towards promotion.",
+            "D": "Focusing only on high-volume hiring to meet growth targets."
+        },
+        "correct_answer": "C",
+        "explanation": "Leaders raise the performance bar. This includes actively identifying, mentoring, and coaching high-potential talent to ensure their continuous growth and readiness for the next level."
+    },
+    {
+        "question": "[Customer Obsession LP] Which action best demonstrates Customer Obsession? (Unique ID: 45)",
+        "options": {
+            "A": "Focusing primarily on competitor pricing.",
+            "B": "Prioritizing short-term revenue goals over long-term customer trust.",
+            "C": "Working backwards from the customer need.",
+            "D": "Designing a feature based on internal engineering convenience."
+        },
+        "correct_answer": "C",
+        "explanation": "Working backwards from the customer need is the core tenet of Customer Obsession, ensuring all efforts begin with solving the customer's problem."
+    },
+    {
+        "question": "[Ownership LP] You notice an error in a cross-team project's documentation. Which response aligns with Ownership? (Unique ID: 46)",
+        "options": {
+            "A": "Report it to the document owner and wait for their action.",
+            "B": "Fix the error immediately and notify the owner.",
+            "C": "Ignore it, as it's not your team's responsibility.",
+            "D": "Log a bug ticket and set the priority to low."
+        },
+        "correct_answer": "B",
+        "explanation": "Ownership means acting on behalf of the entire company, not just your team. Fixing the error shows personal accountability for quality, even if it's outside your direct domain."
+    },
+    {
+        "question": "[Invent and Simplify LP] When is the best time to 'Invent and Simplify' a process? (Unique ID: 47)",
+        "options": {
+            "A": "Only when a competitor introduces a better solution.",
+            "B": "Continuously, regardless of current process success.",
+            "C": "When stakeholders complain about efficiency.",
+            "D": "Never, as existing processes are proven reliable."
+        },
+        "correct_answer": "B",
+        "explanation": "This principle emphasizes continuous innovation. Leaders constantly look for new ways to do things and simplify complex processes, even if the current system is functional."
+    },
+    {
+        "question": "[Hire and Develop the Best LP] A great leader performing well on 'Hire and Develop the Best' is characterized by: (Unique ID: 48)",
+        "options": {
+            "A": "Delegating all training responsibilities to HR.",
+            "B": "Being a hiring gatekeeper to prevent top talent from leaving.",
+            "C": "Recognizing exceptional talent and proactively coaching them towards promotion.",
+            "D": "Focusing only on high-volume hiring to meet growth targets."
+        },
+        "correct_answer": "C",
+        "explanation": "Leaders raise the performance bar. This includes actively identifying, mentoring, and coaching high-potential talent to ensure their continuous growth and readiness for the next level."
+    },
+    {
+        "question": "[Customer Obsession LP] Which action best demonstrates Customer Obsession? (Unique ID: 49)",
+        "options": {
+            "A": "Focusing primarily on competitor pricing.",
+            "B": "Prioritizing short-term revenue goals over long-term customer trust.",
+            "C": "Working backwards from the customer need.",
+            "D": "Designing a feature based on internal engineering convenience."
+        },
+        "correct_answer": "C",
+        "explanation": "Working backwards from the customer need is the core tenet of Customer Obsession, ensuring all efforts begin with solving the customer's problem."
+    },
+    {
+        "question": "[Ownership LP] You notice an error in a cross-team project's documentation. Which response aligns with Ownership? (Unique ID: 50)",
+        "options": {
+            "A": "Report it to the document owner and wait for their action.",
+            "B": "Fix the error immediately and notify the owner.",
+            "C": "Ignore it, as it's not your team's responsibility.",
+            "D": "Log a bug ticket and set the priority to low."
+        },
+        "correct_answer": "B",
+        "explanation": "Ownership means acting on behalf of the entire company, not just your team. Fixing the error shows personal accountability for quality, even if it's outside your direct domain."
+    },
+    {
+        "question": "[Invent and Simplify LP] When is the best time to 'Invent and Simplify' a process? (Unique ID: 51)",
+        "options": {
+            "A": "Only when a competitor introduces a better solution.",
+            "B": "Continuously, regardless of current process success.",
+            "C": "When stakeholders complain about efficiency.",
+            "D": "Never, as existing processes are proven reliable."
+        },
+        "correct_answer": "B",
+        "explanation": "This principle emphasizes continuous innovation. Leaders constantly look for new ways to do things and simplify complex processes, even if the current system is functional."
+    },
+    {
+        "question": "[Hire and Develop the Best LP] A great leader performing well on 'Hire and Develop the Best' is characterized by: (Unique ID: 52)",
+        "options": {
+            "A": "Delegating all training responsibilities to HR.",
+            "B": "Being a hiring gatekeeper to prevent top talent from leaving.",
+            "C": "Recognizing exceptional talent and proactively coaching them towards promotion.",
+            "D": "Focusing only on high-volume hiring to meet growth targets."
+        },
+        "correct_answer": "C",
+        "explanation": "Leaders raise the performance bar. This includes actively identifying, mentoring, and coaching high-potential talent to ensure their continuous growth and readiness for the next level."
+    },
+    {
+        "question": "[Customer Obsession LP] Which action best demonstrates Customer Obsession? (Unique ID: 53)",
+        "options": {
+            "A": "Focusing primarily on competitor pricing.",
+            "B": "Prioritizing short-term revenue goals over long-term customer trust.",
+            "C": "Working backwards from the customer need.",
+            "D": "Designing a feature based on internal engineering convenience."
+        },
+        "correct_answer": "C",
+        "explanation": "Working backwards from the customer need is the core tenet of Customer Obsession, ensuring all efforts begin with solving the customer's problem."
+    },
+    {
+        "question": "[Ownership LP] You notice an error in a cross-team project's documentation. Which response aligns with Ownership? (Unique ID: 54)",
+        "options": {
+            "A": "Report it to the document owner and wait for their action.",
+            "B": "Fix the error immediately and notify the owner.",
+            "C": "Ignore it, as it's not your team's responsibility.",
+            "D": "Log a bug ticket and set the priority to low."
+        },
+        "correct_answer": "B",
+        "explanation": "Ownership means acting on behalf of the entire company, not just your team. Fixing the error shows personal accountability for quality, even if it's outside your direct domain."
+    },
+    {
+        "question": "[Invent and Simplify LP] When is the best time to 'Invent and Simplify' a process? (Unique ID: 55)",
+        "options": {
+            "A": "Only when a competitor introduces a better solution.",
+            "B": "Continuously, regardless of current process success.",
+            "C": "When stakeholders complain about efficiency.",
+            "D": "Never, as existing processes are proven reliable."
+        },
+        "correct_answer": "B",
+        "explanation": "This principle emphasizes continuous innovation. Leaders constantly look for new ways to do things and simplify complex processes, even if the current system is functional."
+    },
+    {
+        "question": "[Hire and Develop the Best LP] A great leader performing well on 'Hire and Develop the Best' is characterized by: (Unique ID: 56)",
+        "options": {
+            "A": "Delegating all training responsibilities to HR.",
+            "B": "Being a hiring gatekeeper to prevent top talent from leaving.",
+            "C": "Recognizing exceptional talent and proactively coaching them towards promotion.",
+            "D": "Focusing only on high-volume hiring to meet growth targets."
+        },
+        "correct_answer": "C",
+        "explanation": "Leaders raise the performance bar. This includes actively identifying, mentoring, and coaching high-potential talent to ensure their continuous growth and readiness for the next level."
+    },
+    {
+        "question": "[Customer Obsession LP] Which action best demonstrates Customer Obsession? (Unique ID: 57)",
+        "options": {
+            "A": "Focusing primarily on competitor pricing.",
+            "B": "Prioritizing short-term revenue goals over long-term customer trust.",
+            "C": "Working backwards from the customer need.",
+            "D": "Designing a feature based on internal engineering convenience."
+        },
+        "correct_answer": "C",
+        "explanation": "Working backwards from the customer need is the core tenet of Customer Obsession, ensuring all efforts begin with solving the customer's problem."
+    },
+    {
+        "question": "[Ownership LP] You notice an error in a cross-team project's documentation. Which response aligns with Ownership? (Unique ID: 58)",
+        "options": {
+            "A": "Report it to the document owner and wait for their action.",
+            "B": "Fix the error immediately and notify the owner.",
+            "C": "Ignore it, as it's not your team's responsibility.",
+            "D": "Log a bug ticket and set the priority to low."
+        },
+        "correct_answer": "B",
+        "explanation": "Ownership means acting on behalf of the entire company, not just your team. Fixing the error shows personal accountability for quality, even if it's outside your direct domain."
+    },
+    {
+        "question": "[Invent and Simplify LP] When is the best time to 'Invent and Simplify' a process? (Unique ID: 59)",
+        "options": {
+            "A": "Only when a competitor introduces a better solution.",
+            "B": "Continuously, regardless of current process success.",
+            "C": "When stakeholders complain about efficiency.",
+            "D": "Never, as existing processes are proven reliable."
+        },
+        "correct_answer": "B",
+        "explanation": "This principle emphasizes continuous innovation. Leaders constantly look for new ways to do things and simplify complex processes, even if the current system is functional."
+    },
+    {
+        "question": "[Hire and Develop the Best LP] A great leader performing well on 'Hire and Develop the Best' is characterized by: (Unique ID: 60)",
+        "options": {
+            "A": "Delegating all training responsibilities to HR.",
+            "B": "Being a hiring gatekeeper to prevent top talent from leaving.",
+            "C": "Recognizing exceptional talent and proactively coaching them towards promotion.",
+            "D": "Focusing only on high-volume hiring to meet growth targets."
+        },
+        "correct_answer": "C",
+        "explanation": "Leaders raise the performance bar. This includes actively identifying, mentoring, and coaching high-potential talent to ensure their continuous growth and readiness for the next level."
+    },
+    {
+        "question": "[Customer Obsession LP] Which action best demonstrates Customer Obsession? (Unique ID: 61)",
+        "options": {
+            "A": "Focusing primarily on competitor pricing.",
+            "B": "Prioritizing short-term revenue goals over long-term customer trust.",
+            "C": "Working backwards from the customer need.",
+            "D": "Designing a feature based on internal engineering convenience."
+        },
+        "correct_answer": "C",
+        "explanation": "Working backwards from the customer need is the core tenet of Customer Obsession, ensuring all efforts begin with solving the customer's problem."
+    },
+    {
+        "question": "[Ownership LP] You notice an error in a cross-team project's documentation. Which response aligns with Ownership? (Unique ID: 62)",
+        "options": {
+            "A": "Report it to the document owner and wait for their action.",
+            "B": "Fix the error immediately and notify the owner.",
+            "C": "Ignore it, as it's not your team's responsibility.",
+            "D": "Log a bug ticket and set the priority to low."
+        },
+        "correct_answer": "B",
+        "explanation": "Ownership means acting on behalf of the entire company, not just your team. Fixing the error shows personal accountability for quality, even if it's outside your direct domain."
+    },
+    {
+        "question": "[Invent and Simplify LP] When is the best time to 'Invent and Simplify' a process? (Unique ID: 63)",
+        "options": {
+            "A": "Only when a competitor introduces a better solution.",
+            "B": "Continuously, regardless of current process success.",
+            "C": "When stakeholders complain about efficiency.",
+            "D": "Never, as existing processes are proven reliable."
+        },
+        "correct_answer": "B",
+        "explanation": "This principle emphasizes continuous innovation. Leaders constantly look for new ways to do things and simplify complex processes, even if the current system is functional."
+    },
+    {
+        "question": "[Hire and Develop the Best LP] A great leader performing well on 'Hire and Develop the Best' is characterized by: (Unique ID: 64)",
+        "options": {
+            "A": "Delegating all training responsibilities to HR.",
+            "B": "Being a hiring gatekeeper to prevent top talent from leaving.",
+            "C": "Recognizing exceptional talent and proactively coaching them towards promotion.",
+            "D": "Focusing only on high-volume hiring to meet growth targets."
+        },
+        "correct_answer": "C",
+        "explanation": "Leaders raise the performance bar. This includes actively identifying, mentoring, and coaching high-potential talent to ensure their continuous growth and readiness for the next level."
+    },
+    {
+        "question": "[Customer Obsession LP] Which action best demonstrates Customer Obsession? (Unique ID: 65)",
+        "options": {
+            "A": "Focusing primarily on competitor pricing.",
+            "B": "Prioritizing short-term revenue goals over long-term customer trust.",
+            "C": "Working backwards from the customer need.",
+            "D": "Designing a feature based on internal engineering convenience."
+        },
+        "correct_answer": "C",
+        "explanation": "Working backwards from the customer need is the core tenet of Customer Obsession, ensuring all efforts begin with solving the customer's problem."
+    },
+    {
+        "question": "[Ownership LP] You notice an error in a cross-team project's documentation. Which response aligns with Ownership? (Unique ID: 66)",
+        "options": {
+            "A": "Report it to the document owner and wait for their action.",
+            "B": "Fix the error immediately and notify the owner.",
+            "C": "Ignore it, as it's not your team's responsibility.",
+            "D": "Log a bug ticket and set the priority to low."
+        },
+        "correct_answer": "B",
+        "explanation": "Ownership means acting on behalf of the entire company, not just your team. Fixing the error shows personal accountability for quality, even if it's outside your direct domain."
+    },
+    {
+        "question": "[Invent and Simplify LP] When is the best time to 'Invent and Simplify' a process? (Unique ID: 67)",
+        "options": {
+            "A": "Only when a competitor introduces a better solution.",
+            "B": "Continuously, regardless of current process success.",
+            "C": "When stakeholders complain about efficiency.",
+            "D": "Never, as existing processes are proven reliable."
+        },
+        "correct_answer": "B",
+        "explanation": "This principle emphasizes continuous innovation. Leaders constantly look for new ways to do things and simplify complex processes, even if the current system is functional."
+    },
+    {
+        "question": "[Hire and Develop the Best LP] A great leader performing well on 'Hire and Develop the Best' is characterized by: (Unique ID: 68)",
+        "options": {
+            "A": "Delegating all training responsibilities to HR.",
+            "B": "Being a hiring gatekeeper to prevent top talent from leaving.",
+            "C": "Recognizing exceptional talent and proactively coaching them towards promotion.",
+            "D": "Focusing only on high-volume hiring to meet growth targets."
+        },
+        "correct_answer": "C",
+        "explanation": "Leaders raise the performance bar. This includes actively identifying, mentoring, and coaching high-potential talent to ensure their continuous growth and readiness for the next level."
+    },
+    {
+        "question": "[Customer Obsession LP] Which action best demonstrates Customer Obsession? (Unique ID: 69)",
+        "options": {
+            "A": "Focusing primarily on competitor pricing.",
+            "B": "Prioritizing short-term revenue goals over long-term customer trust.",
+            "C": "Working backwards from the customer need.",
+            "D": "Designing a feature based on internal engineering convenience."
+        },
+        "correct_answer": "C",
+        "explanation": "Working backwards from the customer need is the core tenet of Customer Obsession, ensuring all efforts begin with solving the customer's problem."
+    },
+    {
+        "question": "[Ownership LP] You notice an error in a cross-team project's documentation. Which response aligns with Ownership? (Unique ID: 70)",
+        "options": {
+            "A": "Report it to the document owner and wait for their action.",
+            "B": "Fix the error immediately and notify the owner.",
+            "C": "Ignore it, as it's not your team's responsibility.",
+            "D": "Log a bug ticket and set the priority to low."
+        },
+        "correct_answer": "B",
+        "explanation": "Ownership means acting on behalf of the entire company, not just your team. Fixing the error shows personal accountability for quality, even if it's outside your direct domain."
+    },
+    {
+        "question": "[Invent and Simplify LP] When is the best time to 'Invent and Simplify' a process? (Unique ID: 71)",
+        "options": {
+            "A": "Only when a competitor introduces a better solution.",
+            "B": "Continuously, regardless of current process success.",
+            "C": "When stakeholders complain about efficiency.",
+            "D": "Never, as existing processes are proven reliable."
+        },
+        "correct_answer": "B",
+        "explanation": "This principle emphasizes continuous innovation. Leaders constantly look for new ways to do things and simplify complex processes, even if the current system is functional."
+    },
+    {
+        "question": "[Hire and Develop the Best LP] A great leader performing well on 'Hire and Develop the Best' is characterized by: (Unique ID: 72)",
+        "options": {
+            "A": "Delegating all training responsibilities to HR.",
+            "B": "Being a hiring gatekeeper to prevent top talent from leaving.",
+            "C": "Recognizing exceptional talent and proactively coaching them towards promotion.",
+            "D": "Focusing only on high-volume hiring to meet growth targets."
+        },
+        "correct_answer": "C",
+        "explanation": "Leaders raise the performance bar. This includes actively identifying, mentoring, and coaching high-potential talent to ensure their continuous growth and readiness for the next level."
+    },
+    {
+        "question": "[Customer Obsession LP] Which action best demonstrates Customer Obsession? (Unique ID: 73)",
+        "options": {
+            "A": "Focusing primarily on competitor pricing.",
+            "B": "Prioritizing short-term revenue goals over long-term customer trust.",
+            "C": "Working backwards from the customer need.",
+            "D": "Designing a feature based on internal engineering convenience."
+        },
+        "correct_answer": "C",
+        "explanation": "Working backwards from the customer need is the core tenet of Customer Obsession, ensuring all efforts begin with solving the customer's problem."
+    },
+    {
+        "question": "[Ownership LP] You notice an error in a cross-team project's documentation. Which response aligns with Ownership? (Unique ID: 74)",
+        "options": {
+            "A": "Report it to the document owner and wait for their action.",
+            "B": "Fix the error immediately and notify the owner.",
+            "C": "Ignore it, as it's not your team's responsibility.",
+            "D": "Log a bug ticket and set the priority to low."
+        },
+        "correct_answer": "B",
+        "explanation": "Ownership means acting on behalf of the entire company, not just your team. Fixing the error shows personal accountability for quality, even if it's outside your direct domain."
+    },
+    {
+        "question": "[Invent and Simplify LP] When is the best time to 'Invent and Simplify' a process? (Unique ID: 75)",
+        "options": {
+            "A": "Only when a competitor introduces a better solution.",
+            "B": "Continuously, regardless of current process success.",
+            "C": "When stakeholders complain about efficiency.",
+            "D": "Never, as existing processes are proven reliable."
+        },
+        "correct_answer": "B",
+        "explanation": "This principle emphasizes continuous innovation. Leaders constantly look for new ways to do things and simplify complex processes, even if the current system is functional."
+    },
+    {
+        "question": "[Hire and Develop the Best LP] A great leader performing well on 'Hire and Develop the Best' is characterized by: (Unique ID: 76)",
+        "options": {
+            "A": "Delegating all training responsibilities to HR.",
+            "B": "Being a hiring gatekeeper to prevent top talent from leaving.",
+            "C": "Recognizing exceptional talent and proactively coaching them towards promotion.",
+            "D": "Focusing only on high-volume hiring to meet growth targets."
+        },
+        "correct_answer": "C",
+        "explanation": "Leaders raise the performance bar. This includes actively identifying, mentoring, and coaching high-potential talent to ensure their continuous growth and readiness for the next level."
+    },
+    {
+        "question": "[Customer Obsession LP] Which action best demonstrates Customer Obsession? (Unique ID: 77)",
+        "options": {
+            "A": "Focusing primarily on competitor pricing.",
+            "B": "Prioritizing short-term revenue goals over long-term customer trust.",
+            "C": "Working backwards from the customer need.",
+            "D": "Designing a feature based on internal engineering convenience."
+        },
+        "correct_answer": "C",
+        "explanation": "Working backwards from the customer need is the core tenet of Customer Obsession, ensuring all efforts begin with solving the customer's problem."
+    },
+    {
+        "question": "[Ownership LP] You notice an error in a cross-team project's documentation. Which response aligns with Ownership? (Unique ID: 78)",
+        "options": {
+            "A": "Report it to the document owner and wait for their action.",
+            "B": "Fix the error immediately and notify the owner.",
+            "C": "Ignore it, as it's not your team's responsibility.",
+            "D": "Log a bug ticket and set the priority to low."
+        },
+        "correct_answer": "B",
+        "explanation": "Ownership means acting on behalf of the entire company, not just your team. Fixing the error shows personal accountability for quality, even if it's outside your direct domain."
+    },
+    {
+        "question": "[Invent and Simplify LP] When is the best time to 'Invent and Simplify' a process? (Unique ID: 79)",
+        "options": {
+            "A": "Only when a competitor introduces a better solution.",
+            "B": "Continuously, regardless of current process success.",
+            "C": "When stakeholders complain about efficiency.",
+            "D": "Never, as existing processes are proven reliable."
+        },
+        "correct_answer": "B",
+        "explanation": "This principle emphasizes continuous innovation. Leaders constantly look for new ways to do things and simplify complex processes, even if the current system is functional."
+    },
+    {
+        "question": "[Hire and Develop the Best LP] A great leader performing well on 'Hire and Develop the Best' is characterized by: (Unique ID: 80)",
+        "options": {
+            "A": "Delegating all training responsibilities to HR.",
+            "B": "Being a hiring gatekeeper to prevent top talent from leaving.",
+            "C": "Recognizing exceptional talent and proactively coaching them towards promotion.",
+            "D": "Focusing only on high-volume hiring to meet growth targets."
+        },
+        "correct_answer": "C",
+        "explanation": "Leaders raise the performance bar. This includes actively identifying, mentoring, and coaching high-potential talent to ensure their continuous growth and readiness for the next level."
+    },
+    {
+        "question": "[Customer Obsession LP] Which action best demonstrates Customer Obsession? (Unique ID: 81)",
+        "options": {
+            "A": "Focusing primarily on competitor pricing.",
+            "B": "Prioritizing short-term revenue goals over long-term customer trust.",
+            "C": "Working backwards from the customer need.",
+            "D": "Designing a feature based on internal engineering convenience."
+        },
+        "correct_answer": "C",
+        "explanation": "Working backwards from the customer need is the core tenet of Customer Obsession, ensuring all efforts begin with solving the customer's problem."
+    },
+    {
+        "question": "[Ownership LP] You notice an error in a cross-team project's documentation. Which response aligns with Ownership? (Unique ID: 82)",
+        "options": {
+            "A": "Report it to the document owner and wait for their action.",
+            "B": "Fix the error immediately and notify the owner.",
+            "C": "Ignore it, as it's not your team's responsibility.",
+            "D": "Log a bug ticket and set the priority to low."
+        },
+        "correct_answer": "B",
+        "explanation": "Ownership means acting on behalf of the entire company, not just your team. Fixing the error shows personal accountability for quality, even if it's outside your direct domain."
+    },
+    {
+        "question": "[Invent and Simplify LP] When is the best time to 'Invent and Simplify' a process? (Unique ID: 83)",
+        "options": {
+            "A": "Only when a competitor introduces a better solution.",
+            "B": "Continuously, regardless of current process success.",
+            "C": "When stakeholders complain about efficiency.",
+            "D": "Never, as existing processes are proven reliable."
+        },
+        "correct_answer": "B",
+        "explanation": "This principle emphasizes continuous innovation. Leaders constantly look for new ways to do things and simplify complex processes, even if the current system is functional."
+    },
+    {
+        "question": "[Hire and Develop the Best LP] A great leader performing well on 'Hire and Develop the Best' is characterized by: (Unique ID: 84)",
+        "options": {
+            "A": "Delegating all training responsibilities to HR.",
+            "B": "Being a hiring gatekeeper to prevent top talent from leaving.",
+            "C": "Recognizing exceptional talent and proactively coaching them towards promotion.",
+            "D": "Focusing only on high-volume hiring to meet growth targets."
+        },
+        "correct_answer": "C",
+        "explanation": "Leaders raise the performance bar. This includes actively identifying, mentoring, and coaching high-potential talent to ensure their continuous growth and readiness for the next level."
+    },
+    {
+        "question": "[Customer Obsession LP] Which action best demonstrates Customer Obsession? (Unique ID: 85)",
+        "options": {
+            "A": "Focusing primarily on competitor pricing.",
+            "B": "Prioritizing short-term revenue goals over long-term customer trust.",
+            "C": "Working backwards from the customer need.",
+            "D": "Designing a feature based on internal engineering convenience."
+        },
+        "correct_answer": "C",
+        "explanation": "Working backwards from the customer need is the core tenet of Customer Obsession, ensuring all efforts begin with solving the customer's problem."
+    },
+    {
+        "question": "[Ownership LP] You notice an error in a cross-team project's documentation. Which response aligns with Ownership? (Unique ID: 86)",
+        "options": {
+            "A": "Report it to the document owner and wait for their action.",
+            "B": "Fix the error immediately and notify the owner.",
+            "C": "Ignore it, as it's not your team's responsibility.",
+            "D": "Log a bug ticket and set the priority to low."
+        },
+        "correct_answer": "B",
+        "explanation": "Ownership means acting on behalf of the entire company, not just your team. Fixing the error shows personal accountability for quality, even if it's outside your direct domain."
+    },
+    {
+        "question": "[Invent and Simplify LP] When is the best time to 'Invent and Simplify' a process? (Unique ID: 87)",
+        "options": {
+            "A": "Only when a competitor introduces a better solution.",
+            "B": "Continuously, regardless of current process success.",
+            "C": "When stakeholders complain about efficiency.",
+            "D": "Never, as existing processes are proven reliable."
+        },
+        "correct_answer": "B",
+        "explanation": "This principle emphasizes continuous innovation. Leaders constantly look for new ways to do things and simplify complex processes, even if the current system is functional."
+    },
+    {
+        "question": "[Hire and Develop the Best LP] A great leader performing well on 'Hire and Develop the Best' is characterized by: (Unique ID: 88)",
+        "options": {
+            "A": "Delegating all training responsibilities to HR.",
+            "B": "Being a hiring gatekeeper to prevent top talent from leaving.",
+            "C": "Recognizing exceptional talent and proactively coaching them towards promotion.",
+            "D": "Focusing only on high-volume hiring to meet growth targets."
+        },
+        "correct_answer": "C",
+        "explanation": "Leaders raise the performance bar. This includes actively identifying, mentoring, and coaching high-potential talent to ensure their continuous growth and readiness for the next level."
+    },
+    {
+        "question": "[Customer Obsession LP] Which action best demonstrates Customer Obsession? (Unique ID: 89)",
+        "options": {
+            "A": "Focusing primarily on competitor pricing.",
+            "B": "Prioritizing short-term revenue goals over long-term customer trust.",
+            "C": "Working backwards from the customer need.",
+            "D": "Designing a feature based on internal engineering convenience."
+        },
+        "correct_answer": "C",
+        "explanation": "Working backwards from the customer need is the core tenet of Customer Obsession, ensuring all efforts begin with solving the customer's problem."
+    },
+    {
+        "question": "[Ownership LP] You notice an error in a cross-team project's documentation. Which response aligns with Ownership? (Unique ID: 90)",
+        "options": {
+            "A": "Report it to the document owner and wait for their action.",
+            "B": "Fix the error immediately and notify the owner.",
+            "C": "Ignore it, as it's not your team's responsibility.",
+            "D": "Log a bug ticket and set the priority to low."
+        },
+        "correct_answer": "B",
+        "explanation": "Ownership means acting on behalf of the entire company, not just your team. Fixing the error shows personal accountability for quality, even if it's outside your direct domain."
+    },
+    {
+        "question": "[Invent and Simplify LP] When is the best time to 'Invent and Simplify' a process? (Unique ID: 91)",
+        "options": {
+            "A": "Only when a competitor introduces a better solution.",
+            "B": "Continuously, regardless of current process success.",
+            "C": "When stakeholders complain about efficiency.",
+            "D": "Never, as existing processes are proven reliable."
+        },
+        "correct_answer": "B",
+        "explanation": "This principle emphasizes continuous innovation. Leaders constantly look for new ways to do things and simplify complex processes, even if the current system is functional."
+    },
+    {
+        "question": "[Hire and Develop the Best LP] A great leader performing well on 'Hire and Develop the Best' is characterized by: (Unique ID: 92)",
+        "options": {
+            "A": "Delegating all training responsibilities to HR.",
+            "B": "Being a hiring gatekeeper to prevent top talent from leaving.",
+            "C": "Recognizing exceptional talent and proactively coaching them towards promotion.",
+            "D": "Focusing only on high-volume hiring to meet growth targets."
+        },
+        "correct_answer": "C",
+        "explanation": "Leaders raise the performance bar. This includes actively identifying, mentoring, and coaching high-potential talent to ensure their continuous growth and readiness for the next level."
+    },
+    {
+        "question": "[Customer Obsession LP] Which action best demonstrates Customer Obsession? (Unique ID: 93)",
+        "options": {
+            "A": "Focusing primarily on competitor pricing.",
+            "B": "Prioritizing short-term revenue goals over long-term customer trust.",
+            "C": "Working backwards from the customer need.",
+            "D": "Designing a feature based on internal engineering convenience."
+        },
+        "correct_answer": "C",
+        "explanation": "Working backwards from the customer need is the core tenet of Customer Obsession, ensuring all efforts begin with solving the customer's problem."
+    },
+    {
+        "question": "[Ownership LP] You notice an error in a cross-team project's documentation. Which response aligns with Ownership? (Unique ID: 94)",
+        "options": {
+            "A": "Report it to the document owner and wait for their action.",
+            "B": "Fix the error immediately and notify the owner.",
+            "C": "Ignore it, as it's not your team's responsibility.",
+            "D": "Log a bug ticket and set the priority to low."
+        },
+        "correct_answer": "B",
+        "explanation": "Ownership means acting on behalf of the entire company, not just your team. Fixing the error shows personal accountability for quality, even if it's outside your direct domain."
+    },
+    {
+        "question": "[Invent and Simplify LP] When is the best time to 'Invent and Simplify' a process? (Unique ID: 95)",
+        "options": {
+            "A": "Only when a competitor introduces a better solution.",
+            "B": "Continuously, regardless of current process success.",
+            "C": "When stakeholders complain about efficiency.",
+            "D": "Never, as existing processes are proven reliable."
+        },
+        "correct_answer": "B",
+        "explanation": "This principle emphasizes continuous innovation. Leaders constantly look for new ways to do things and simplify complex processes, even if the current system is functional."
+    },
+    {
+        "question": "[Hire and Develop the Best LP] A great leader performing well on 'Hire and Develop the Best' is characterized by: (Unique ID: 96)",
+        "options": {
+            "A": "Delegating all training responsibilities to HR.",
+            "B": "Being a hiring gatekeeper to prevent top talent from leaving.",
+            "C": "Recognizing exceptional talent and proactively coaching them towards promotion.",
+            "D": "Focusing only on high-volume hiring to meet growth targets."
+        },
+        "correct_answer": "C",
+        "explanation": "Leaders raise the performance bar. This includes actively identifying, mentoring, and coaching high-potential talent to ensure their continuous growth and readiness for the next level."
+    },
+    {
+        "question": "[Customer Obsession LP] Which action best demonstrates Customer Obsession? (Unique ID: 97)",
+        "options": {
+            "A": "Focusing primarily on competitor pricing.",
+            "B": "Prioritizing short-term revenue goals over long-term customer trust.",
+            "C": "Working backwards from the customer need.",
+            "D": "Designing a feature based on internal engineering convenience."
+        },
+        "correct_answer": "C",
+        "explanation": "Working backwards from the customer need is the core tenet of Customer Obsession, ensuring all efforts begin with solving the customer's problem."
+    },
+    {
+        "question": "[Ownership LP] You notice an error in a cross-team project's documentation. Which response aligns with Ownership? (Unique ID: 98)",
+        "options": {
+            "A": "Report it to the document owner and wait for their action.",
+            "B": "Fix the error immediately and notify the owner.",
+            "C": "Ignore it, as it's not your team's responsibility.",
+            "D": "Log a bug ticket and set the priority to low."
+        },
+        "correct_answer": "B",
+        "explanation": "Ownership means acting on behalf of the entire company, not just your team. Fixing the error shows personal accountability for quality, even if it's outside your direct domain."
+    },
+    {
+        "question": "[Invent and Simplify LP] When is the best time to 'Invent and Simplify' a process? (Unique ID: 99)",
+        "options": {
+            "A": "Only when a competitor introduces a better solution.",
+            "B": "Continuously, regardless of current process success.",
+            "C": "When stakeholders complain about efficiency.",
+            "D": "Never, as existing processes are proven reliable."
+        },
+        "correct_answer": "B",
+        "explanation": "This principle emphasizes continuous innovation. Leaders constantly look for new ways to do things and simplify complex processes, even if the current system is functional."
+    },
+    {
+        "question": "[Hire and Develop the Best LP] A great leader performing well on 'Hire and Develop the Best' is characterized by: (Unique ID: 100)",
+        "options": {
+            "A": "Delegating all training responsibilities to HR.",
+            "B": "Being a hiring gatekeeper to prevent top talent from leaving.",
+            "C": "Recognizing exceptional talent and proactively coaching them towards promotion.",
+            "D": "Focusing only on high-volume hiring to meet growth targets."
+        },
+        "correct_answer": "C",
+        "explanation": "Leaders raise the performance bar. This includes actively identifying, mentoring, and coaching high-potential talent to ensure their continuous growth and readiness for the next level."
+    }
+]

@@ -1,0 +1,1102 @@
+[
+    {
+        "question": "[Data Structures Q] Which method is used to add an element to the end of a Python list? (Unique ID: 1)",
+        "options": {
+            "A": "insert()",
+            "B": "add()",
+            "C": "append()",
+            "D": "extend()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'append()' method adds a single element to the end of a list in Python."
+    },
+    {
+        "question": "[Functions/Decorators Q] What is the maximum number of arguments a lambda function can take in Python? (Unique ID: 2)",
+        "options": {
+            "A": "1",
+            "B": "Unlimited",
+            "C": "Depends on the system memory",
+            "D": "Any number, but only one expression"
+        },
+        "correct_answer": "D",
+        "explanation": "A lambda function, or anonymous function, can take any number of arguments but can only have one expression."
+    },
+    {
+        "question": "[OOP Q] In Python, what is the purpose of the '__init__' method? (Unique ID: 3)",
+        "options": {
+            "A": "To destroy an object.",
+            "B": "To define the class name.",
+            "C": "To initialize the object's state (constructor).",
+            "D": "To perform garbage collection."
+        },
+        "correct_answer": "C",
+        "explanation": "The '__init__' method is a special method in Python classes that is automatically called when a new object is created, serving as the constructor."
+    },
+    {
+        "question": "[Generators/Iterators Q] Which keyword is used to create a generator function in Python? (Unique ID: 4)",
+        "options": {
+            "A": "return",
+            "B": "create",
+            "C": "yield",
+            "D": "gen"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'yield' keyword is used instead of 'return' to return data from a generator function, allowing it to resume its state on subsequent calls."
+    },
+    {
+        "question": "[Error Handling Q] Which block is optional in a 'try-except-else-finally' construct in Python? (Unique ID: 5)",
+        "options": {
+            "A": "try",
+            "B": "except",
+            "C": "finally",
+            "D": "try and except are mandatory"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'finally' block is optional. You must have at least 'try' and 'except' (or 'try' and 'finally') to define an exception handler."
+    },
+    {
+        "question": "[Async/Concurrency Q] Which module is commonly used for concurrent programming in Python using 'async' and 'await'? (Unique ID: 6)",
+        "options": {
+            "A": "threading",
+            "B": "multiprocessing",
+            "C": "asyncio",
+            "D": "concurrent.futures"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'asyncio' module provides the infrastructure for writing single-threaded concurrent code using coroutines, multiplexing I/O access over sockets and other resources."
+    },
+    {
+        "question": "[Data Structures Q] Which method is used to add an element to the end of a Python list? (Unique ID: 7)",
+        "options": {
+            "A": "insert()",
+            "B": "add()",
+            "C": "append()",
+            "D": "extend()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'append()' method adds a single element to the end of a list in Python."
+    },
+    {
+        "question": "[Functions/Decorators Q] What is the maximum number of arguments a lambda function can take in Python? (Unique ID: 8)",
+        "options": {
+            "A": "1",
+            "B": "Unlimited",
+            "C": "Depends on the system memory",
+            "D": "Any number, but only one expression"
+        },
+        "correct_answer": "D",
+        "explanation": "A lambda function, or anonymous function, can take any number of arguments but can only have one expression."
+    },
+    {
+        "question": "[OOP Q] In Python, what is the purpose of the '__init__' method? (Unique ID: 9)",
+        "options": {
+            "A": "To destroy an object.",
+            "B": "To define the class name.",
+            "C": "To initialize the object's state (constructor).",
+            "D": "To perform garbage collection."
+        },
+        "correct_answer": "C",
+        "explanation": "The '__init__' method is a special method in Python classes that is automatically called when a new object is created, serving as the constructor."
+    },
+    {
+        "question": "[Generators/Iterators Q] Which keyword is used to create a generator function in Python? (Unique ID: 10)",
+        "options": {
+            "A": "return",
+            "B": "create",
+            "C": "yield",
+            "D": "gen"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'yield' keyword is used instead of 'return' to return data from a generator function, allowing it to resume its state on subsequent calls."
+    },
+    {
+        "question": "[Error Handling Q] Which block is optional in a 'try-except-else-finally' construct in Python? (Unique ID: 11)",
+        "options": {
+            "A": "try",
+            "B": "except",
+            "C": "finally",
+            "D": "try and except are mandatory"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'finally' block is optional. You must have at least 'try' and 'except' (or 'try' and 'finally') to define an exception handler."
+    },
+    {
+        "question": "[Async/Concurrency Q] Which module is commonly used for concurrent programming in Python using 'async' and 'await'? (Unique ID: 12)",
+        "options": {
+            "A": "threading",
+            "B": "multiprocessing",
+            "C": "asyncio",
+            "D": "concurrent.futures"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'asyncio' module provides the infrastructure for writing single-threaded concurrent code using coroutines, multiplexing I/O access over sockets and other resources."
+    },
+    {
+        "question": "[Data Structures Q] Which method is used to add an element to the end of a Python list? (Unique ID: 13)",
+        "options": {
+            "A": "insert()",
+            "B": "add()",
+            "C": "append()",
+            "D": "extend()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'append()' method adds a single element to the end of a list in Python."
+    },
+    {
+        "question": "[Functions/Decorators Q] What is the maximum number of arguments a lambda function can take in Python? (Unique ID: 14)",
+        "options": {
+            "A": "1",
+            "B": "Unlimited",
+            "C": "Depends on the system memory",
+            "D": "Any number, but only one expression"
+        },
+        "correct_answer": "D",
+        "explanation": "A lambda function, or anonymous function, can take any number of arguments but can only have one expression."
+    },
+    {
+        "question": "[OOP Q] In Python, what is the purpose of the '__init__' method? (Unique ID: 15)",
+        "options": {
+            "A": "To destroy an object.",
+            "B": "To define the class name.",
+            "C": "To initialize the object's state (constructor).",
+            "D": "To perform garbage collection."
+        },
+        "correct_answer": "C",
+        "explanation": "The '__init__' method is a special method in Python classes that is automatically called when a new object is created, serving as the constructor."
+    },
+    {
+        "question": "[Generators/Iterators Q] Which keyword is used to create a generator function in Python? (Unique ID: 16)",
+        "options": {
+            "A": "return",
+            "B": "create",
+            "C": "yield",
+            "D": "gen"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'yield' keyword is used instead of 'return' to return data from a generator function, allowing it to resume its state on subsequent calls."
+    },
+    {
+        "question": "[Error Handling Q] Which block is optional in a 'try-except-else-finally' construct in Python? (Unique ID: 17)",
+        "options": {
+            "A": "try",
+            "B": "except",
+            "C": "finally",
+            "D": "try and except are mandatory"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'finally' block is optional. You must have at least 'try' and 'except' (or 'try' and 'finally') to define an exception handler."
+    },
+    {
+        "question": "[Async/Concurrency Q] Which module is commonly used for concurrent programming in Python using 'async' and 'await'? (Unique ID: 18)",
+        "options": {
+            "A": "threading",
+            "B": "multiprocessing",
+            "C": "asyncio",
+            "D": "concurrent.futures"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'asyncio' module provides the infrastructure for writing single-threaded concurrent code using coroutines, multiplexing I/O access over sockets and other resources."
+    },
+    {
+        "question": "[Data Structures Q] Which method is used to add an element to the end of a Python list? (Unique ID: 19)",
+        "options": {
+            "A": "insert()",
+            "B": "add()",
+            "C": "append()",
+            "D": "extend()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'append()' method adds a single element to the end of a list in Python."
+    },
+    {
+        "question": "[Functions/Decorators Q] What is the maximum number of arguments a lambda function can take in Python? (Unique ID: 20)",
+        "options": {
+            "A": "1",
+            "B": "Unlimited",
+            "C": "Depends on the system memory",
+            "D": "Any number, but only one expression"
+        },
+        "correct_answer": "D",
+        "explanation": "A lambda function, or anonymous function, can take any number of arguments but can only have one expression."
+    },
+    {
+        "question": "[OOP Q] In Python, what is the purpose of the '__init__' method? (Unique ID: 21)",
+        "options": {
+            "A": "To destroy an object.",
+            "B": "To define the class name.",
+            "C": "To initialize the object's state (constructor).",
+            "D": "To perform garbage collection."
+        },
+        "correct_answer": "C",
+        "explanation": "The '__init__' method is a special method in Python classes that is automatically called when a new object is created, serving as the constructor."
+    },
+    {
+        "question": "[Generators/Iterators Q] Which keyword is used to create a generator function in Python? (Unique ID: 22)",
+        "options": {
+            "A": "return",
+            "B": "create",
+            "C": "yield",
+            "D": "gen"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'yield' keyword is used instead of 'return' to return data from a generator function, allowing it to resume its state on subsequent calls."
+    },
+    {
+        "question": "[Error Handling Q] Which block is optional in a 'try-except-else-finally' construct in Python? (Unique ID: 23)",
+        "options": {
+            "A": "try",
+            "B": "except",
+            "C": "finally",
+            "D": "try and except are mandatory"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'finally' block is optional. You must have at least 'try' and 'except' (or 'try' and 'finally') to define an exception handler."
+    },
+    {
+        "question": "[Async/Concurrency Q] Which module is commonly used for concurrent programming in Python using 'async' and 'await'? (Unique ID: 24)",
+        "options": {
+            "A": "threading",
+            "B": "multiprocessing",
+            "C": "asyncio",
+            "D": "concurrent.futures"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'asyncio' module provides the infrastructure for writing single-threaded concurrent code using coroutines, multiplexing I/O access over sockets and other resources."
+    },
+    {
+        "question": "[Data Structures Q] Which method is used to add an element to the end of a Python list? (Unique ID: 25)",
+        "options": {
+            "A": "insert()",
+            "B": "add()",
+            "C": "append()",
+            "D": "extend()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'append()' method adds a single element to the end of a list in Python."
+    },
+    {
+        "question": "[Functions/Decorators Q] What is the maximum number of arguments a lambda function can take in Python? (Unique ID: 26)",
+        "options": {
+            "A": "1",
+            "B": "Unlimited",
+            "C": "Depends on the system memory",
+            "D": "Any number, but only one expression"
+        },
+        "correct_answer": "D",
+        "explanation": "A lambda function, or anonymous function, can take any number of arguments but can only have one expression."
+    },
+    {
+        "question": "[OOP Q] In Python, what is the purpose of the '__init__' method? (Unique ID: 27)",
+        "options": {
+            "A": "To destroy an object.",
+            "B": "To define the class name.",
+            "C": "To initialize the object's state (constructor).",
+            "D": "To perform garbage collection."
+        },
+        "correct_answer": "C",
+        "explanation": "The '__init__' method is a special method in Python classes that is automatically called when a new object is created, serving as the constructor."
+    },
+    {
+        "question": "[Generators/Iterators Q] Which keyword is used to create a generator function in Python? (Unique ID: 28)",
+        "options": {
+            "A": "return",
+            "B": "create",
+            "C": "yield",
+            "D": "gen"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'yield' keyword is used instead of 'return' to return data from a generator function, allowing it to resume its state on subsequent calls."
+    },
+    {
+        "question": "[Error Handling Q] Which block is optional in a 'try-except-else-finally' construct in Python? (Unique ID: 29)",
+        "options": {
+            "A": "try",
+            "B": "except",
+            "C": "finally",
+            "D": "try and except are mandatory"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'finally' block is optional. You must have at least 'try' and 'except' (or 'try' and 'finally') to define an exception handler."
+    },
+    {
+        "question": "[Async/Concurrency Q] Which module is commonly used for concurrent programming in Python using 'async' and 'await'? (Unique ID: 30)",
+        "options": {
+            "A": "threading",
+            "B": "multiprocessing",
+            "C": "asyncio",
+            "D": "concurrent.futures"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'asyncio' module provides the infrastructure for writing single-threaded concurrent code using coroutines, multiplexing I/O access over sockets and other resources."
+    },
+    {
+        "question": "[Data Structures Q] Which method is used to add an element to the end of a Python list? (Unique ID: 31)",
+        "options": {
+            "A": "insert()",
+            "B": "add()",
+            "C": "append()",
+            "D": "extend()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'append()' method adds a single element to the end of a list in Python."
+    },
+    {
+        "question": "[Functions/Decorators Q] What is the maximum number of arguments a lambda function can take in Python? (Unique ID: 32)",
+        "options": {
+            "A": "1",
+            "B": "Unlimited",
+            "C": "Depends on the system memory",
+            "D": "Any number, but only one expression"
+        },
+        "correct_answer": "D",
+        "explanation": "A lambda function, or anonymous function, can take any number of arguments but can only have one expression."
+    },
+    {
+        "question": "[OOP Q] In Python, what is the purpose of the '__init__' method? (Unique ID: 33)",
+        "options": {
+            "A": "To destroy an object.",
+            "B": "To define the class name.",
+            "C": "To initialize the object's state (constructor).",
+            "D": "To perform garbage collection."
+        },
+        "correct_answer": "C",
+        "explanation": "The '__init__' method is a special method in Python classes that is automatically called when a new object is created, serving as the constructor."
+    },
+    {
+        "question": "[Generators/Iterators Q] Which keyword is used to create a generator function in Python? (Unique ID: 34)",
+        "options": {
+            "A": "return",
+            "B": "create",
+            "C": "yield",
+            "D": "gen"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'yield' keyword is used instead of 'return' to return data from a generator function, allowing it to resume its state on subsequent calls."
+    },
+    {
+        "question": "[Error Handling Q] Which block is optional in a 'try-except-else-finally' construct in Python? (Unique ID: 35)",
+        "options": {
+            "A": "try",
+            "B": "except",
+            "C": "finally",
+            "D": "try and except are mandatory"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'finally' block is optional. You must have at least 'try' and 'except' (or 'try' and 'finally') to define an exception handler."
+    },
+    {
+        "question": "[Async/Concurrency Q] Which module is commonly used for concurrent programming in Python using 'async' and 'await'? (Unique ID: 36)",
+        "options": {
+            "A": "threading",
+            "B": "multiprocessing",
+            "C": "asyncio",
+            "D": "concurrent.futures"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'asyncio' module provides the infrastructure for writing single-threaded concurrent code using coroutines, multiplexing I/O access over sockets and other resources."
+    },
+    {
+        "question": "[Data Structures Q] Which method is used to add an element to the end of a Python list? (Unique ID: 37)",
+        "options": {
+            "A": "insert()",
+            "B": "add()",
+            "C": "append()",
+            "D": "extend()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'append()' method adds a single element to the end of a list in Python."
+    },
+    {
+        "question": "[Functions/Decorators Q] What is the maximum number of arguments a lambda function can take in Python? (Unique ID: 38)",
+        "options": {
+            "A": "1",
+            "B": "Unlimited",
+            "C": "Depends on the system memory",
+            "D": "Any number, but only one expression"
+        },
+        "correct_answer": "D",
+        "explanation": "A lambda function, or anonymous function, can take any number of arguments but can only have one expression."
+    },
+    {
+        "question": "[OOP Q] In Python, what is the purpose of the '__init__' method? (Unique ID: 39)",
+        "options": {
+            "A": "To destroy an object.",
+            "B": "To define the class name.",
+            "C": "To initialize the object's state (constructor).",
+            "D": "To perform garbage collection."
+        },
+        "correct_answer": "C",
+        "explanation": "The '__init__' method is a special method in Python classes that is automatically called when a new object is created, serving as the constructor."
+    },
+    {
+        "question": "[Generators/Iterators Q] Which keyword is used to create a generator function in Python? (Unique ID: 40)",
+        "options": {
+            "A": "return",
+            "B": "create",
+            "C": "yield",
+            "D": "gen"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'yield' keyword is used instead of 'return' to return data from a generator function, allowing it to resume its state on subsequent calls."
+    },
+    {
+        "question": "[Error Handling Q] Which block is optional in a 'try-except-else-finally' construct in Python? (Unique ID: 41)",
+        "options": {
+            "A": "try",
+            "B": "except",
+            "C": "finally",
+            "D": "try and except are mandatory"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'finally' block is optional. You must have at least 'try' and 'except' (or 'try' and 'finally') to define an exception handler."
+    },
+    {
+        "question": "[Async/Concurrency Q] Which module is commonly used for concurrent programming in Python using 'async' and 'await'? (Unique ID: 42)",
+        "options": {
+            "A": "threading",
+            "B": "multiprocessing",
+            "C": "asyncio",
+            "D": "concurrent.futures"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'asyncio' module provides the infrastructure for writing single-threaded concurrent code using coroutines, multiplexing I/O access over sockets and other resources."
+    },
+    {
+        "question": "[Data Structures Q] Which method is used to add an element to the end of a Python list? (Unique ID: 43)",
+        "options": {
+            "A": "insert()",
+            "B": "add()",
+            "C": "append()",
+            "D": "extend()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'append()' method adds a single element to the end of a list in Python."
+    },
+    {
+        "question": "[Functions/Decorators Q] What is the maximum number of arguments a lambda function can take in Python? (Unique ID: 44)",
+        "options": {
+            "A": "1",
+            "B": "Unlimited",
+            "C": "Depends on the system memory",
+            "D": "Any number, but only one expression"
+        },
+        "correct_answer": "D",
+        "explanation": "A lambda function, or anonymous function, can take any number of arguments but can only have one expression."
+    },
+    {
+        "question": "[OOP Q] In Python, what is the purpose of the '__init__' method? (Unique ID: 45)",
+        "options": {
+            "A": "To destroy an object.",
+            "B": "To define the class name.",
+            "C": "To initialize the object's state (constructor).",
+            "D": "To perform garbage collection."
+        },
+        "correct_answer": "C",
+        "explanation": "The '__init__' method is a special method in Python classes that is automatically called when a new object is created, serving as the constructor."
+    },
+    {
+        "question": "[Generators/Iterators Q] Which keyword is used to create a generator function in Python? (Unique ID: 46)",
+        "options": {
+            "A": "return",
+            "B": "create",
+            "C": "yield",
+            "D": "gen"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'yield' keyword is used instead of 'return' to return data from a generator function, allowing it to resume its state on subsequent calls."
+    },
+    {
+        "question": "[Error Handling Q] Which block is optional in a 'try-except-else-finally' construct in Python? (Unique ID: 47)",
+        "options": {
+            "A": "try",
+            "B": "except",
+            "C": "finally",
+            "D": "try and except are mandatory"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'finally' block is optional. You must have at least 'try' and 'except' (or 'try' and 'finally') to define an exception handler."
+    },
+    {
+        "question": "[Async/Concurrency Q] Which module is commonly used for concurrent programming in Python using 'async' and 'await'? (Unique ID: 48)",
+        "options": {
+            "A": "threading",
+            "B": "multiprocessing",
+            "C": "asyncio",
+            "D": "concurrent.futures"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'asyncio' module provides the infrastructure for writing single-threaded concurrent code using coroutines, multiplexing I/O access over sockets and other resources."
+    },
+    {
+        "question": "[Data Structures Q] Which method is used to add an element to the end of a Python list? (Unique ID: 49)",
+        "options": {
+            "A": "insert()",
+            "B": "add()",
+            "C": "append()",
+            "D": "extend()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'append()' method adds a single element to the end of a list in Python."
+    },
+    {
+        "question": "[Functions/Decorators Q] What is the maximum number of arguments a lambda function can take in Python? (Unique ID: 50)",
+        "options": {
+            "A": "1",
+            "B": "Unlimited",
+            "C": "Depends on the system memory",
+            "D": "Any number, but only one expression"
+        },
+        "correct_answer": "D",
+        "explanation": "A lambda function, or anonymous function, can take any number of arguments but can only have one expression."
+    },
+    {
+        "question": "[OOP Q] In Python, what is the purpose of the '__init__' method? (Unique ID: 51)",
+        "options": {
+            "A": "To destroy an object.",
+            "B": "To define the class name.",
+            "C": "To initialize the object's state (constructor).",
+            "D": "To perform garbage collection."
+        },
+        "correct_answer": "C",
+        "explanation": "The '__init__' method is a special method in Python classes that is automatically called when a new object is created, serving as the constructor."
+    },
+    {
+        "question": "[Generators/Iterators Q] Which keyword is used to create a generator function in Python? (Unique ID: 52)",
+        "options": {
+            "A": "return",
+            "B": "create",
+            "C": "yield",
+            "D": "gen"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'yield' keyword is used instead of 'return' to return data from a generator function, allowing it to resume its state on subsequent calls."
+    },
+    {
+        "question": "[Error Handling Q] Which block is optional in a 'try-except-else-finally' construct in Python? (Unique ID: 53)",
+        "options": {
+            "A": "try",
+            "B": "except",
+            "C": "finally",
+            "D": "try and except are mandatory"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'finally' block is optional. You must have at least 'try' and 'except' (or 'try' and 'finally') to define an exception handler."
+    },
+    {
+        "question": "[Async/Concurrency Q] Which module is commonly used for concurrent programming in Python using 'async' and 'await'? (Unique ID: 54)",
+        "options": {
+            "A": "threading",
+            "B": "multiprocessing",
+            "C": "asyncio",
+            "D": "concurrent.futures"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'asyncio' module provides the infrastructure for writing single-threaded concurrent code using coroutines, multiplexing I/O access over sockets and other resources."
+    },
+    {
+        "question": "[Data Structures Q] Which method is used to add an element to the end of a Python list? (Unique ID: 55)",
+        "options": {
+            "A": "insert()",
+            "B": "add()",
+            "C": "append()",
+            "D": "extend()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'append()' method adds a single element to the end of a list in Python."
+    },
+    {
+        "question": "[Functions/Decorators Q] What is the maximum number of arguments a lambda function can take in Python? (Unique ID: 56)",
+        "options": {
+            "A": "1",
+            "B": "Unlimited",
+            "C": "Depends on the system memory",
+            "D": "Any number, but only one expression"
+        },
+        "correct_answer": "D",
+        "explanation": "A lambda function, or anonymous function, can take any number of arguments but can only have one expression."
+    },
+    {
+        "question": "[OOP Q] In Python, what is the purpose of the '__init__' method? (Unique ID: 57)",
+        "options": {
+            "A": "To destroy an object.",
+            "B": "To define the class name.",
+            "C": "To initialize the object's state (constructor).",
+            "D": "To perform garbage collection."
+        },
+        "correct_answer": "C",
+        "explanation": "The '__init__' method is a special method in Python classes that is automatically called when a new object is created, serving as the constructor."
+    },
+    {
+        "question": "[Generators/Iterators Q] Which keyword is used to create a generator function in Python? (Unique ID: 58)",
+        "options": {
+            "A": "return",
+            "B": "create",
+            "C": "yield",
+            "D": "gen"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'yield' keyword is used instead of 'return' to return data from a generator function, allowing it to resume its state on subsequent calls."
+    },
+    {
+        "question": "[Error Handling Q] Which block is optional in a 'try-except-else-finally' construct in Python? (Unique ID: 59)",
+        "options": {
+            "A": "try",
+            "B": "except",
+            "C": "finally",
+            "D": "try and except are mandatory"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'finally' block is optional. You must have at least 'try' and 'except' (or 'try' and 'finally') to define an exception handler."
+    },
+    {
+        "question": "[Async/Concurrency Q] Which module is commonly used for concurrent programming in Python using 'async' and 'await'? (Unique ID: 60)",
+        "options": {
+            "A": "threading",
+            "B": "multiprocessing",
+            "C": "asyncio",
+            "D": "concurrent.futures"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'asyncio' module provides the infrastructure for writing single-threaded concurrent code using coroutines, multiplexing I/O access over sockets and other resources."
+    },
+    {
+        "question": "[Data Structures Q] Which method is used to add an element to the end of a Python list? (Unique ID: 61)",
+        "options": {
+            "A": "insert()",
+            "B": "add()",
+            "C": "append()",
+            "D": "extend()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'append()' method adds a single element to the end of a list in Python."
+    },
+    {
+        "question": "[Functions/Decorators Q] What is the maximum number of arguments a lambda function can take in Python? (Unique ID: 62)",
+        "options": {
+            "A": "1",
+            "B": "Unlimited",
+            "C": "Depends on the system memory",
+            "D": "Any number, but only one expression"
+        },
+        "correct_answer": "D",
+        "explanation": "A lambda function, or anonymous function, can take any number of arguments but can only have one expression."
+    },
+    {
+        "question": "[OOP Q] In Python, what is the purpose of the '__init__' method? (Unique ID: 63)",
+        "options": {
+            "A": "To destroy an object.",
+            "B": "To define the class name.",
+            "C": "To initialize the object's state (constructor).",
+            "D": "To perform garbage collection."
+        },
+        "correct_answer": "C",
+        "explanation": "The '__init__' method is a special method in Python classes that is automatically called when a new object is created, serving as the constructor."
+    },
+    {
+        "question": "[Generators/Iterators Q] Which keyword is used to create a generator function in Python? (Unique ID: 64)",
+        "options": {
+            "A": "return",
+            "B": "create",
+            "C": "yield",
+            "D": "gen"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'yield' keyword is used instead of 'return' to return data from a generator function, allowing it to resume its state on subsequent calls."
+    },
+    {
+        "question": "[Error Handling Q] Which block is optional in a 'try-except-else-finally' construct in Python? (Unique ID: 65)",
+        "options": {
+            "A": "try",
+            "B": "except",
+            "C": "finally",
+            "D": "try and except are mandatory"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'finally' block is optional. You must have at least 'try' and 'except' (or 'try' and 'finally') to define an exception handler."
+    },
+    {
+        "question": "[Async/Concurrency Q] Which module is commonly used for concurrent programming in Python using 'async' and 'await'? (Unique ID: 66)",
+        "options": {
+            "A": "threading",
+            "B": "multiprocessing",
+            "C": "asyncio",
+            "D": "concurrent.futures"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'asyncio' module provides the infrastructure for writing single-threaded concurrent code using coroutines, multiplexing I/O access over sockets and other resources."
+    },
+    {
+        "question": "[Data Structures Q] Which method is used to add an element to the end of a Python list? (Unique ID: 67)",
+        "options": {
+            "A": "insert()",
+            "B": "add()",
+            "C": "append()",
+            "D": "extend()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'append()' method adds a single element to the end of a list in Python."
+    },
+    {
+        "question": "[Functions/Decorators Q] What is the maximum number of arguments a lambda function can take in Python? (Unique ID: 68)",
+        "options": {
+            "A": "1",
+            "B": "Unlimited",
+            "C": "Depends on the system memory",
+            "D": "Any number, but only one expression"
+        },
+        "correct_answer": "D",
+        "explanation": "A lambda function, or anonymous function, can take any number of arguments but can only have one expression."
+    },
+    {
+        "question": "[OOP Q] In Python, what is the purpose of the '__init__' method? (Unique ID: 69)",
+        "options": {
+            "A": "To destroy an object.",
+            "B": "To define the class name.",
+            "C": "To initialize the object's state (constructor).",
+            "D": "To perform garbage collection."
+        },
+        "correct_answer": "C",
+        "explanation": "The '__init__' method is a special method in Python classes that is automatically called when a new object is created, serving as the constructor."
+    },
+    {
+        "question": "[Generators/Iterators Q] Which keyword is used to create a generator function in Python? (Unique ID: 70)",
+        "options": {
+            "A": "return",
+            "B": "create",
+            "C": "yield",
+            "D": "gen"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'yield' keyword is used instead of 'return' to return data from a generator function, allowing it to resume its state on subsequent calls."
+    },
+    {
+        "question": "[Error Handling Q] Which block is optional in a 'try-except-else-finally' construct in Python? (Unique ID: 71)",
+        "options": {
+            "A": "try",
+            "B": "except",
+            "C": "finally",
+            "D": "try and except are mandatory"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'finally' block is optional. You must have at least 'try' and 'except' (or 'try' and 'finally') to define an exception handler."
+    },
+    {
+        "question": "[Async/Concurrency Q] Which module is commonly used for concurrent programming in Python using 'async' and 'await'? (Unique ID: 72)",
+        "options": {
+            "A": "threading",
+            "B": "multiprocessing",
+            "C": "asyncio",
+            "D": "concurrent.futures"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'asyncio' module provides the infrastructure for writing single-threaded concurrent code using coroutines, multiplexing I/O access over sockets and other resources."
+    },
+    {
+        "question": "[Data Structures Q] Which method is used to add an element to the end of a Python list? (Unique ID: 73)",
+        "options": {
+            "A": "insert()",
+            "B": "add()",
+            "C": "append()",
+            "D": "extend()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'append()' method adds a single element to the end of a list in Python."
+    },
+    {
+        "question": "[Functions/Decorators Q] What is the maximum number of arguments a lambda function can take in Python? (Unique ID: 74)",
+        "options": {
+            "A": "1",
+            "B": "Unlimited",
+            "C": "Depends on the system memory",
+            "D": "Any number, but only one expression"
+        },
+        "correct_answer": "D",
+        "explanation": "A lambda function, or anonymous function, can take any number of arguments but can only have one expression."
+    },
+    {
+        "question": "[OOP Q] In Python, what is the purpose of the '__init__' method? (Unique ID: 75)",
+        "options": {
+            "A": "To destroy an object.",
+            "B": "To define the class name.",
+            "C": "To initialize the object's state (constructor).",
+            "D": "To perform garbage collection."
+        },
+        "correct_answer": "C",
+        "explanation": "The '__init__' method is a special method in Python classes that is automatically called when a new object is created, serving as the constructor."
+    },
+    {
+        "question": "[Generators/Iterators Q] Which keyword is used to create a generator function in Python? (Unique ID: 76)",
+        "options": {
+            "A": "return",
+            "B": "create",
+            "C": "yield",
+            "D": "gen"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'yield' keyword is used instead of 'return' to return data from a generator function, allowing it to resume its state on subsequent calls."
+    },
+    {
+        "question": "[Error Handling Q] Which block is optional in a 'try-except-else-finally' construct in Python? (Unique ID: 77)",
+        "options": {
+            "A": "try",
+            "B": "except",
+            "C": "finally",
+            "D": "try and except are mandatory"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'finally' block is optional. You must have at least 'try' and 'except' (or 'try' and 'finally') to define an exception handler."
+    },
+    {
+        "question": "[Async/Concurrency Q] Which module is commonly used for concurrent programming in Python using 'async' and 'await'? (Unique ID: 78)",
+        "options": {
+            "A": "threading",
+            "B": "multiprocessing",
+            "C": "asyncio",
+            "D": "concurrent.futures"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'asyncio' module provides the infrastructure for writing single-threaded concurrent code using coroutines, multiplexing I/O access over sockets and other resources."
+    },
+    {
+        "question": "[Data Structures Q] Which method is used to add an element to the end of a Python list? (Unique ID: 79)",
+        "options": {
+            "A": "insert()",
+            "B": "add()",
+            "C": "append()",
+            "D": "extend()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'append()' method adds a single element to the end of a list in Python."
+    },
+    {
+        "question": "[Functions/Decorators Q] What is the maximum number of arguments a lambda function can take in Python? (Unique ID: 80)",
+        "options": {
+            "A": "1",
+            "B": "Unlimited",
+            "C": "Depends on the system memory",
+            "D": "Any number, but only one expression"
+        },
+        "correct_answer": "D",
+        "explanation": "A lambda function, or anonymous function, can take any number of arguments but can only have one expression."
+    },
+    {
+        "question": "[OOP Q] In Python, what is the purpose of the '__init__' method? (Unique ID: 81)",
+        "options": {
+            "A": "To destroy an object.",
+            "B": "To define the class name.",
+            "C": "To initialize the object's state (constructor).",
+            "D": "To perform garbage collection."
+        },
+        "correct_answer": "C",
+        "explanation": "The '__init__' method is a special method in Python classes that is automatically called when a new object is created, serving as the constructor."
+    },
+    {
+        "question": "[Generators/Iterators Q] Which keyword is used to create a generator function in Python? (Unique ID: 82)",
+        "options": {
+            "A": "return",
+            "B": "create",
+            "C": "yield",
+            "D": "gen"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'yield' keyword is used instead of 'return' to return data from a generator function, allowing it to resume its state on subsequent calls."
+    },
+    {
+        "question": "[Error Handling Q] Which block is optional in a 'try-except-else-finally' construct in Python? (Unique ID: 83)",
+        "options": {
+            "A": "try",
+            "B": "except",
+            "C": "finally",
+            "D": "try and except are mandatory"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'finally' block is optional. You must have at least 'try' and 'except' (or 'try' and 'finally') to define an exception handler."
+    },
+    {
+        "question": "[Async/Concurrency Q] Which module is commonly used for concurrent programming in Python using 'async' and 'await'? (Unique ID: 84)",
+        "options": {
+            "A": "threading",
+            "B": "multiprocessing",
+            "C": "asyncio",
+            "D": "concurrent.futures"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'asyncio' module provides the infrastructure for writing single-threaded concurrent code using coroutines, multiplexing I/O access over sockets and other resources."
+    },
+    {
+        "question": "[Data Structures Q] Which method is used to add an element to the end of a Python list? (Unique ID: 85)",
+        "options": {
+            "A": "insert()",
+            "B": "add()",
+            "C": "append()",
+            "D": "extend()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'append()' method adds a single element to the end of a list in Python."
+    },
+    {
+        "question": "[Functions/Decorators Q] What is the maximum number of arguments a lambda function can take in Python? (Unique ID: 86)",
+        "options": {
+            "A": "1",
+            "B": "Unlimited",
+            "C": "Depends on the system memory",
+            "D": "Any number, but only one expression"
+        },
+        "correct_answer": "D",
+        "explanation": "A lambda function, or anonymous function, can take any number of arguments but can only have one expression."
+    },
+    {
+        "question": "[OOP Q] In Python, what is the purpose of the '__init__' method? (Unique ID: 87)",
+        "options": {
+            "A": "To destroy an object.",
+            "B": "To define the class name.",
+            "C": "To initialize the object's state (constructor).",
+            "D": "To perform garbage collection."
+        },
+        "correct_answer": "C",
+        "explanation": "The '__init__' method is a special method in Python classes that is automatically called when a new object is created, serving as the constructor."
+    },
+    {
+        "question": "[Generators/Iterators Q] Which keyword is used to create a generator function in Python? (Unique ID: 88)",
+        "options": {
+            "A": "return",
+            "B": "create",
+            "C": "yield",
+            "D": "gen"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'yield' keyword is used instead of 'return' to return data from a generator function, allowing it to resume its state on subsequent calls."
+    },
+    {
+        "question": "[Error Handling Q] Which block is optional in a 'try-except-else-finally' construct in Python? (Unique ID: 89)",
+        "options": {
+            "A": "try",
+            "B": "except",
+            "C": "finally",
+            "D": "try and except are mandatory"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'finally' block is optional. You must have at least 'try' and 'except' (or 'try' and 'finally') to define an exception handler."
+    },
+    {
+        "question": "[Async/Concurrency Q] Which module is commonly used for concurrent programming in Python using 'async' and 'await'? (Unique ID: 90)",
+        "options": {
+            "A": "threading",
+            "B": "multiprocessing",
+            "C": "asyncio",
+            "D": "concurrent.futures"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'asyncio' module provides the infrastructure for writing single-threaded concurrent code using coroutines, multiplexing I/O access over sockets and other resources."
+    },
+    {
+        "question": "[Data Structures Q] Which method is used to add an element to the end of a Python list? (Unique ID: 91)",
+        "options": {
+            "A": "insert()",
+            "B": "add()",
+            "C": "append()",
+            "D": "extend()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'append()' method adds a single element to the end of a list in Python."
+    },
+    {
+        "question": "[Functions/Decorators Q] What is the maximum number of arguments a lambda function can take in Python? (Unique ID: 92)",
+        "options": {
+            "A": "1",
+            "B": "Unlimited",
+            "C": "Depends on the system memory",
+            "D": "Any number, but only one expression"
+        },
+        "correct_answer": "D",
+        "explanation": "A lambda function, or anonymous function, can take any number of arguments but can only have one expression."
+    },
+    {
+        "question": "[OOP Q] In Python, what is the purpose of the '__init__' method? (Unique ID: 93)",
+        "options": {
+            "A": "To destroy an object.",
+            "B": "To define the class name.",
+            "C": "To initialize the object's state (constructor).",
+            "D": "To perform garbage collection."
+        },
+        "correct_answer": "C",
+        "explanation": "The '__init__' method is a special method in Python classes that is automatically called when a new object is created, serving as the constructor."
+    },
+    {
+        "question": "[Generators/Iterators Q] Which keyword is used to create a generator function in Python? (Unique ID: 94)",
+        "options": {
+            "A": "return",
+            "B": "create",
+            "C": "yield",
+            "D": "gen"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'yield' keyword is used instead of 'return' to return data from a generator function, allowing it to resume its state on subsequent calls."
+    },
+    {
+        "question": "[Error Handling Q] Which block is optional in a 'try-except-else-finally' construct in Python? (Unique ID: 95)",
+        "options": {
+            "A": "try",
+            "B": "except",
+            "C": "finally",
+            "D": "try and except are mandatory"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'finally' block is optional. You must have at least 'try' and 'except' (or 'try' and 'finally') to define an exception handler."
+    },
+    {
+        "question": "[Async/Concurrency Q] Which module is commonly used for concurrent programming in Python using 'async' and 'await'? (Unique ID: 96)",
+        "options": {
+            "A": "threading",
+            "B": "multiprocessing",
+            "C": "asyncio",
+            "D": "concurrent.futures"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'asyncio' module provides the infrastructure for writing single-threaded concurrent code using coroutines, multiplexing I/O access over sockets and other resources."
+    },
+    {
+        "question": "[Data Structures Q] Which method is used to add an element to the end of a Python list? (Unique ID: 97)",
+        "options": {
+            "A": "insert()",
+            "B": "add()",
+            "C": "append()",
+            "D": "extend()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'append()' method adds a single element to the end of a list in Python."
+    },
+    {
+        "question": "[Functions/Decorators Q] What is the maximum number of arguments a lambda function can take in Python? (Unique ID: 98)",
+        "options": {
+            "A": "1",
+            "B": "Unlimited",
+            "C": "Depends on the system memory",
+            "D": "Any number, but only one expression"
+        },
+        "correct_answer": "D",
+        "explanation": "A lambda function, or anonymous function, can take any number of arguments but can only have one expression."
+    },
+    {
+        "question": "[OOP Q] In Python, what is the purpose of the '__init__' method? (Unique ID: 99)",
+        "options": {
+            "A": "To destroy an object.",
+            "B": "To define the class name.",
+            "C": "To initialize the object's state (constructor).",
+            "D": "To perform garbage collection."
+        },
+        "correct_answer": "C",
+        "explanation": "The '__init__' method is a special method in Python classes that is automatically called when a new object is created, serving as the constructor."
+    },
+    {
+        "question": "[Generators/Iterators Q] Which keyword is used to create a generator function in Python? (Unique ID: 100)",
+        "options": {
+            "A": "return",
+            "B": "create",
+            "C": "yield",
+            "D": "gen"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'yield' keyword is used instead of 'return' to return data from a generator function, allowing it to resume its state on subsequent calls."
+    }
+]

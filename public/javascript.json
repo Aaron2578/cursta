@@ -1,0 +1,1102 @@
+[
+    {
+        "question": "[Scope/Hoisting Q] What is the result of running 'console.log(x); var x = 5;' in strict mode? (Unique ID: 1)",
+        "options": {
+            "A": "5",
+            "B": "undefined",
+            "C": "ReferenceError",
+            "D": "null"
+        },
+        "correct_answer": "B",
+        "explanation": "Due to hoisting, the 'var x' declaration is moved to the top of the scope, but the assignment is not. So 'x' is logged as 'undefined' before being assigned 5."
+    },
+    {
+        "question": "[Async/Promises Q] Which function is used to handle the fulfilled state of a Promise in JavaScript? (Unique ID: 2)",
+        "options": {
+            "A": "catch()",
+            "B": "finally()",
+            "C": "then()",
+            "D": "done()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'then()' method is used to schedule a callback function to be executed when the Promise is successfully resolved (fulfilled)."
+    },
+    {
+        "question": "[Data Structures/Arrays Q] Which built-in array method creates a new array with the results of calling a provided function on every element in the calling array? (Unique ID: 3)",
+        "options": {
+            "A": "forEach()",
+            "B": "filter()",
+            "C": "reduce()",
+            "D": "map()"
+        },
+        "correct_answer": "D",
+        "explanation": "The 'map()' method iterates over an array and returns a new array with the results of applying a callback function to each element, preserving the original array."
+    },
+    {
+        "question": "[OOP/Prototypes Q] How do you inherit properties and methods in traditional JavaScript (pre-ES6 classes)? (Unique ID: 4)",
+        "options": {
+            "A": "Using the 'extends' keyword.",
+            "B": "Using the 'implements' keyword.",
+            "C": "Using the prototype chain.",
+            "D": "Using static methods."
+        },
+        "correct_answer": "C",
+        "explanation": "Before ES6 classes, JavaScript used the prototype chain to achieve inheritance. An object inherits from another object via its prototype property."
+    },
+    {
+        "question": "[Variables Q] Which keyword declares a block-scoped variable that cannot be re-assigned? (Unique ID: 5)",
+        "options": {
+            "A": "var",
+            "B": "let",
+            "C": "const",
+            "D": "static"
+        },
+        "correct_answer": "C",
+        "explanation": "'const' declares a variable that is block-scoped and must be initialized. The reference it holds cannot be changed (though object properties can be)."
+    },
+    {
+        "question": "[Closures Q] In JavaScript, what defines a Closure? (Unique ID: 6)",
+        "options": {
+            "A": "A function having access to its own scope and the global scope.",
+            "B": "A function that returns another function.",
+            "C": "A function bundled with its lexical environment.",
+            "D": "An anonymous self-executing function."
+        },
+        "correct_answer": "C",
+        "explanation": "A closure is the combination of a function and the lexical environment within which that function was declared. It gives the function access to its outer function's scope even after the outer function has finished executing."
+    },
+    {
+        "question": "[Scope/Hoisting Q] What is the result of running 'console.log(x); var x = 5;' in strict mode? (Unique ID: 7)",
+        "options": {
+            "A": "5",
+            "B": "undefined",
+            "C": "ReferenceError",
+            "D": "null"
+        },
+        "correct_answer": "B",
+        "explanation": "Due to hoisting, the 'var x' declaration is moved to the top of the scope, but the assignment is not. So 'x' is logged as 'undefined' before being assigned 5."
+    },
+    {
+        "question": "[Async/Promises Q] Which function is used to handle the fulfilled state of a Promise in JavaScript? (Unique ID: 8)",
+        "options": {
+            "A": "catch()",
+            "B": "finally()",
+            "C": "then()",
+            "D": "done()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'then()' method is used to schedule a callback function to be executed when the Promise is successfully resolved (fulfilled)."
+    },
+    {
+        "question": "[Data Structures/Arrays Q] Which built-in array method creates a new array with the results of calling a provided function on every element in the calling array? (Unique ID: 9)",
+        "options": {
+            "A": "forEach()",
+            "B": "filter()",
+            "C": "reduce()",
+            "D": "map()"
+        },
+        "correct_answer": "D",
+        "explanation": "The 'map()' method iterates over an array and returns a new array with the results of applying a callback function to each element, preserving the original array."
+    },
+    {
+        "question": "[OOP/Prototypes Q] How do you inherit properties and methods in traditional JavaScript (pre-ES6 classes)? (Unique ID: 10)",
+        "options": {
+            "A": "Using the 'extends' keyword.",
+            "B": "Using the 'implements' keyword.",
+            "C": "Using the prototype chain.",
+            "D": "Using static methods."
+        },
+        "correct_answer": "C",
+        "explanation": "Before ES6 classes, JavaScript used the prototype chain to achieve inheritance. An object inherits from another object via its prototype property."
+    },
+    {
+        "question": "[Variables Q] Which keyword declares a block-scoped variable that cannot be re-assigned? (Unique ID: 11)",
+        "options": {
+            "A": "var",
+            "B": "let",
+            "C": "const",
+            "D": "static"
+        },
+        "correct_answer": "C",
+        "explanation": "'const' declares a variable that is block-scoped and must be initialized. The reference it holds cannot be changed (though object properties can be)."
+    },
+    {
+        "question": "[Closures Q] In JavaScript, what defines a Closure? (Unique ID: 12)",
+        "options": {
+            "A": "A function having access to its own scope and the global scope.",
+            "B": "A function that returns another function.",
+            "C": "A function bundled with its lexical environment.",
+            "D": "An anonymous self-executing function."
+        },
+        "correct_answer": "C",
+        "explanation": "A closure is the combination of a function and the lexical environment within which that function was declared. It gives the function access to its outer function's scope even after the outer function has finished executing."
+    },
+    {
+        "question": "[Scope/Hoisting Q] What is the result of running 'console.log(x); var x = 5;' in strict mode? (Unique ID: 13)",
+        "options": {
+            "A": "5",
+            "B": "undefined",
+            "C": "ReferenceError",
+            "D": "null"
+        },
+        "correct_answer": "B",
+        "explanation": "Due to hoisting, the 'var x' declaration is moved to the top of the scope, but the assignment is not. So 'x' is logged as 'undefined' before being assigned 5."
+    },
+    {
+        "question": "[Async/Promises Q] Which function is used to handle the fulfilled state of a Promise in JavaScript? (Unique ID: 14)",
+        "options": {
+            "A": "catch()",
+            "B": "finally()",
+            "C": "then()",
+            "D": "done()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'then()' method is used to schedule a callback function to be executed when the Promise is successfully resolved (fulfilled)."
+    },
+    {
+        "question": "[Data Structures/Arrays Q] Which built-in array method creates a new array with the results of calling a provided function on every element in the calling array? (Unique ID: 15)",
+        "options": {
+            "A": "forEach()",
+            "B": "filter()",
+            "C": "reduce()",
+            "D": "map()"
+        },
+        "correct_answer": "D",
+        "explanation": "The 'map()' method iterates over an array and returns a new array with the results of applying a callback function to each element, preserving the original array."
+    },
+    {
+        "question": "[OOP/Prototypes Q] How do you inherit properties and methods in traditional JavaScript (pre-ES6 classes)? (Unique ID: 16)",
+        "options": {
+            "A": "Using the 'extends' keyword.",
+            "B": "Using the 'implements' keyword.",
+            "C": "Using the prototype chain.",
+            "D": "Using static methods."
+        },
+        "correct_answer": "C",
+        "explanation": "Before ES6 classes, JavaScript used the prototype chain to achieve inheritance. An object inherits from another object via its prototype property."
+    },
+    {
+        "question": "[Variables Q] Which keyword declares a block-scoped variable that cannot be re-assigned? (Unique ID: 17)",
+        "options": {
+            "A": "var",
+            "B": "let",
+            "C": "const",
+            "D": "static"
+        },
+        "correct_answer": "C",
+        "explanation": "'const' declares a variable that is block-scoped and must be initialized. The reference it holds cannot be changed (though object properties can be)."
+    },
+    {
+        "question": "[Closures Q] In JavaScript, what defines a Closure? (Unique ID: 18)",
+        "options": {
+            "A": "A function having access to its own scope and the global scope.",
+            "B": "A function that returns another function.",
+            "C": "A function bundled with its lexical environment.",
+            "D": "An anonymous self-executing function."
+        },
+        "correct_answer": "C",
+        "explanation": "A closure is the combination of a function and the lexical environment within which that function was declared. It gives the function access to its outer function's scope even after the outer function has finished executing."
+    },
+    {
+        "question": "[Scope/Hoisting Q] What is the result of running 'console.log(x); var x = 5;' in strict mode? (Unique ID: 19)",
+        "options": {
+            "A": "5",
+            "B": "undefined",
+            "C": "ReferenceError",
+            "D": "null"
+        },
+        "correct_answer": "B",
+        "explanation": "Due to hoisting, the 'var x' declaration is moved to the top of the scope, but the assignment is not. So 'x' is logged as 'undefined' before being assigned 5."
+    },
+    {
+        "question": "[Async/Promises Q] Which function is used to handle the fulfilled state of a Promise in JavaScript? (Unique ID: 20)",
+        "options": {
+            "A": "catch()",
+            "B": "finally()",
+            "C": "then()",
+            "D": "done()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'then()' method is used to schedule a callback function to be executed when the Promise is successfully resolved (fulfilled)."
+    },
+    {
+        "question": "[Data Structures/Arrays Q] Which built-in array method creates a new array with the results of calling a provided function on every element in the calling array? (Unique ID: 21)",
+        "options": {
+            "A": "forEach()",
+            "B": "filter()",
+            "C": "reduce()",
+            "D": "map()"
+        },
+        "correct_answer": "D",
+        "explanation": "The 'map()' method iterates over an array and returns a new array with the results of applying a callback function to each element, preserving the original array."
+    },
+    {
+        "question": "[OOP/Prototypes Q] How do you inherit properties and methods in traditional JavaScript (pre-ES6 classes)? (Unique ID: 22)",
+        "options": {
+            "A": "Using the 'extends' keyword.",
+            "B": "Using the 'implements' keyword.",
+            "C": "Using the prototype chain.",
+            "D": "Using static methods."
+        },
+        "correct_answer": "C",
+        "explanation": "Before ES6 classes, JavaScript used the prototype chain to achieve inheritance. An object inherits from another object via its prototype property."
+    },
+    {
+        "question": "[Variables Q] Which keyword declares a block-scoped variable that cannot be re-assigned? (Unique ID: 23)",
+        "options": {
+            "A": "var",
+            "B": "let",
+            "C": "const",
+            "D": "static"
+        },
+        "correct_answer": "C",
+        "explanation": "'const' declares a variable that is block-scoped and must be initialized. The reference it holds cannot be changed (though object properties can be)."
+    },
+    {
+        "question": "[Closures Q] In JavaScript, what defines a Closure? (Unique ID: 24)",
+        "options": {
+            "A": "A function having access to its own scope and the global scope.",
+            "B": "A function that returns another function.",
+            "C": "A function bundled with its lexical environment.",
+            "D": "An anonymous self-executing function."
+        },
+        "correct_answer": "C",
+        "explanation": "A closure is the combination of a function and the lexical environment within which that function was declared. It gives the function access to its outer function's scope even after the outer function has finished executing."
+    },
+    {
+        "question": "[Scope/Hoisting Q] What is the result of running 'console.log(x); var x = 5;' in strict mode? (Unique ID: 25)",
+        "options": {
+            "A": "5",
+            "B": "undefined",
+            "C": "ReferenceError",
+            "D": "null"
+        },
+        "correct_answer": "B",
+        "explanation": "Due to hoisting, the 'var x' declaration is moved to the top of the scope, but the assignment is not. So 'x' is logged as 'undefined' before being assigned 5."
+    },
+    {
+        "question": "[Async/Promises Q] Which function is used to handle the fulfilled state of a Promise in JavaScript? (Unique ID: 26)",
+        "options": {
+            "A": "catch()",
+            "B": "finally()",
+            "C": "then()",
+            "D": "done()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'then()' method is used to schedule a callback function to be executed when the Promise is successfully resolved (fulfilled)."
+    },
+    {
+        "question": "[Data Structures/Arrays Q] Which built-in array method creates a new array with the results of calling a provided function on every element in the calling array? (Unique ID: 27)",
+        "options": {
+            "A": "forEach()",
+            "B": "filter()",
+            "C": "reduce()",
+            "D": "map()"
+        },
+        "correct_answer": "D",
+        "explanation": "The 'map()' method iterates over an array and returns a new array with the results of applying a callback function to each element, preserving the original array."
+    },
+    {
+        "question": "[OOP/Prototypes Q] How do you inherit properties and methods in traditional JavaScript (pre-ES6 classes)? (Unique ID: 28)",
+        "options": {
+            "A": "Using the 'extends' keyword.",
+            "B": "Using the 'implements' keyword.",
+            "C": "Using the prototype chain.",
+            "D": "Using static methods."
+        },
+        "correct_answer": "C",
+        "explanation": "Before ES6 classes, JavaScript used the prototype chain to achieve inheritance. An object inherits from another object via its prototype property."
+    },
+    {
+        "question": "[Variables Q] Which keyword declares a block-scoped variable that cannot be re-assigned? (Unique ID: 29)",
+        "options": {
+            "A": "var",
+            "B": "let",
+            "C": "const",
+            "D": "static"
+        },
+        "correct_answer": "C",
+        "explanation": "'const' declares a variable that is block-scoped and must be initialized. The reference it holds cannot be changed (though object properties can be)."
+    },
+    {
+        "question": "[Closures Q] In JavaScript, what defines a Closure? (Unique ID: 30)",
+        "options": {
+            "A": "A function having access to its own scope and the global scope.",
+            "B": "A function that returns another function.",
+            "C": "A function bundled with its lexical environment.",
+            "D": "An anonymous self-executing function."
+        },
+        "correct_answer": "C",
+        "explanation": "A closure is the combination of a function and the lexical environment within which that function was declared. It gives the function access to its outer function's scope even after the outer function has finished executing."
+    },
+    {
+        "question": "[Scope/Hoisting Q] What is the result of running 'console.log(x); var x = 5;' in strict mode? (Unique ID: 31)",
+        "options": {
+            "A": "5",
+            "B": "undefined",
+            "C": "ReferenceError",
+            "D": "null"
+        },
+        "correct_answer": "B",
+        "explanation": "Due to hoisting, the 'var x' declaration is moved to the top of the scope, but the assignment is not. So 'x' is logged as 'undefined' before being assigned 5."
+    },
+    {
+        "question": "[Async/Promises Q] Which function is used to handle the fulfilled state of a Promise in JavaScript? (Unique ID: 32)",
+        "options": {
+            "A": "catch()",
+            "B": "finally()",
+            "C": "then()",
+            "D": "done()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'then()' method is used to schedule a callback function to be executed when the Promise is successfully resolved (fulfilled)."
+    },
+    {
+        "question": "[Data Structures/Arrays Q] Which built-in array method creates a new array with the results of calling a provided function on every element in the calling array? (Unique ID: 33)",
+        "options": {
+            "A": "forEach()",
+            "B": "filter()",
+            "C": "reduce()",
+            "D": "map()"
+        },
+        "correct_answer": "D",
+        "explanation": "The 'map()' method iterates over an array and returns a new array with the results of applying a callback function to each element, preserving the original array."
+    },
+    {
+        "question": "[OOP/Prototypes Q] How do you inherit properties and methods in traditional JavaScript (pre-ES6 classes)? (Unique ID: 34)",
+        "options": {
+            "A": "Using the 'extends' keyword.",
+            "B": "Using the 'implements' keyword.",
+            "C": "Using the prototype chain.",
+            "D": "Using static methods."
+        },
+        "correct_answer": "C",
+        "explanation": "Before ES6 classes, JavaScript used the prototype chain to achieve inheritance. An object inherits from another object via its prototype property."
+    },
+    {
+        "question": "[Variables Q] Which keyword declares a block-scoped variable that cannot be re-assigned? (Unique ID: 35)",
+        "options": {
+            "A": "var",
+            "B": "let",
+            "C": "const",
+            "D": "static"
+        },
+        "correct_answer": "C",
+        "explanation": "'const' declares a variable that is block-scoped and must be initialized. The reference it holds cannot be changed (though object properties can be)."
+    },
+    {
+        "question": "[Closures Q] In JavaScript, what defines a Closure? (Unique ID: 36)",
+        "options": {
+            "A": "A function having access to its own scope and the global scope.",
+            "B": "A function that returns another function.",
+            "C": "A function bundled with its lexical environment.",
+            "D": "An anonymous self-executing function."
+        },
+        "correct_answer": "C",
+        "explanation": "A closure is the combination of a function and the lexical environment within which that function was declared. It gives the function access to its outer function's scope even after the outer function has finished executing."
+    },
+    {
+        "question": "[Scope/Hoisting Q] What is the result of running 'console.log(x); var x = 5;' in strict mode? (Unique ID: 37)",
+        "options": {
+            "A": "5",
+            "B": "undefined",
+            "C": "ReferenceError",
+            "D": "null"
+        },
+        "correct_answer": "B",
+        "explanation": "Due to hoisting, the 'var x' declaration is moved to the top of the scope, but the assignment is not. So 'x' is logged as 'undefined' before being assigned 5."
+    },
+    {
+        "question": "[Async/Promises Q] Which function is used to handle the fulfilled state of a Promise in JavaScript? (Unique ID: 38)",
+        "options": {
+            "A": "catch()",
+            "B": "finally()",
+            "C": "then()",
+            "D": "done()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'then()' method is used to schedule a callback function to be executed when the Promise is successfully resolved (fulfilled)."
+    },
+    {
+        "question": "[Data Structures/Arrays Q] Which built-in array method creates a new array with the results of calling a provided function on every element in the calling array? (Unique ID: 39)",
+        "options": {
+            "A": "forEach()",
+            "B": "filter()",
+            "C": "reduce()",
+            "D": "map()"
+        },
+        "correct_answer": "D",
+        "explanation": "The 'map()' method iterates over an array and returns a new array with the results of applying a callback function to each element, preserving the original array."
+    },
+    {
+        "question": "[OOP/Prototypes Q] How do you inherit properties and methods in traditional JavaScript (pre-ES6 classes)? (Unique ID: 40)",
+        "options": {
+            "A": "Using the 'extends' keyword.",
+            "B": "Using the 'implements' keyword.",
+            "C": "Using the prototype chain.",
+            "D": "Using static methods."
+        },
+        "correct_answer": "C",
+        "explanation": "Before ES6 classes, JavaScript used the prototype chain to achieve inheritance. An object inherits from another object via its prototype property."
+    },
+    {
+        "question": "[Variables Q] Which keyword declares a block-scoped variable that cannot be re-assigned? (Unique ID: 41)",
+        "options": {
+            "A": "var",
+            "B": "let",
+            "C": "const",
+            "D": "static"
+        },
+        "correct_answer": "C",
+        "explanation": "'const' declares a variable that is block-scoped and must be initialized. The reference it holds cannot be changed (though object properties can be)."
+    },
+    {
+        "question": "[Closures Q] In JavaScript, what defines a Closure? (Unique ID: 42)",
+        "options": {
+            "A": "A function having access to its own scope and the global scope.",
+            "B": "A function that returns another function.",
+            "C": "A function bundled with its lexical environment.",
+            "D": "An anonymous self-executing function."
+        },
+        "correct_answer": "C",
+        "explanation": "A closure is the combination of a function and the lexical environment within which that function was declared. It gives the function access to its outer function's scope even after the outer function has finished executing."
+    },
+    {
+        "question": "[Scope/Hoisting Q] What is the result of running 'console.log(x); var x = 5;' in strict mode? (Unique ID: 43)",
+        "options": {
+            "A": "5",
+            "B": "undefined",
+            "C": "ReferenceError",
+            "D": "null"
+        },
+        "correct_answer": "B",
+        "explanation": "Due to hoisting, the 'var x' declaration is moved to the top of the scope, but the assignment is not. So 'x' is logged as 'undefined' before being assigned 5."
+    },
+    {
+        "question": "[Async/Promises Q] Which function is used to handle the fulfilled state of a Promise in JavaScript? (Unique ID: 44)",
+        "options": {
+            "A": "catch()",
+            "B": "finally()",
+            "C": "then()",
+            "D": "done()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'then()' method is used to schedule a callback function to be executed when the Promise is successfully resolved (fulfilled)."
+    },
+    {
+        "question": "[Data Structures/Arrays Q] Which built-in array method creates a new array with the results of calling a provided function on every element in the calling array? (Unique ID: 45)",
+        "options": {
+            "A": "forEach()",
+            "B": "filter()",
+            "C": "reduce()",
+            "D": "map()"
+        },
+        "correct_answer": "D",
+        "explanation": "The 'map()' method iterates over an array and returns a new array with the results of applying a callback function to each element, preserving the original array."
+    },
+    {
+        "question": "[OOP/Prototypes Q] How do you inherit properties and methods in traditional JavaScript (pre-ES6 classes)? (Unique ID: 46)",
+        "options": {
+            "A": "Using the 'extends' keyword.",
+            "B": "Using the 'implements' keyword.",
+            "C": "Using the prototype chain.",
+            "D": "Using static methods."
+        },
+        "correct_answer": "C",
+        "explanation": "Before ES6 classes, JavaScript used the prototype chain to achieve inheritance. An object inherits from another object via its prototype property."
+    },
+    {
+        "question": "[Variables Q] Which keyword declares a block-scoped variable that cannot be re-assigned? (Unique ID: 47)",
+        "options": {
+            "A": "var",
+            "B": "let",
+            "C": "const",
+            "D": "static"
+        },
+        "correct_answer": "C",
+        "explanation": "'const' declares a variable that is block-scoped and must be initialized. The reference it holds cannot be changed (though object properties can be)."
+    },
+    {
+        "question": "[Closures Q] In JavaScript, what defines a Closure? (Unique ID: 48)",
+        "options": {
+            "A": "A function having access to its own scope and the global scope.",
+            "B": "A function that returns another function.",
+            "C": "A function bundled with its lexical environment.",
+            "D": "An anonymous self-executing function."
+        },
+        "correct_answer": "C",
+        "explanation": "A closure is the combination of a function and the lexical environment within which that function was declared. It gives the function access to its outer function's scope even after the outer function has finished executing."
+    },
+    {
+        "question": "[Scope/Hoisting Q] What is the result of running 'console.log(x); var x = 5;' in strict mode? (Unique ID: 49)",
+        "options": {
+            "A": "5",
+            "B": "undefined",
+            "C": "ReferenceError",
+            "D": "null"
+        },
+        "correct_answer": "B",
+        "explanation": "Due to hoisting, the 'var x' declaration is moved to the top of the scope, but the assignment is not. So 'x' is logged as 'undefined' before being assigned 5."
+    },
+    {
+        "question": "[Async/Promises Q] Which function is used to handle the fulfilled state of a Promise in JavaScript? (Unique ID: 50)",
+        "options": {
+            "A": "catch()",
+            "B": "finally()",
+            "C": "then()",
+            "D": "done()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'then()' method is used to schedule a callback function to be executed when the Promise is successfully resolved (fulfilled)."
+    },
+    {
+        "question": "[Data Structures/Arrays Q] Which built-in array method creates a new array with the results of calling a provided function on every element in the calling array? (Unique ID: 51)",
+        "options": {
+            "A": "forEach()",
+            "B": "filter()",
+            "C": "reduce()",
+            "D": "map()"
+        },
+        "correct_answer": "D",
+        "explanation": "The 'map()' method iterates over an array and returns a new array with the results of applying a callback function to each element, preserving the original array."
+    },
+    {
+        "question": "[OOP/Prototypes Q] How do you inherit properties and methods in traditional JavaScript (pre-ES6 classes)? (Unique ID: 52)",
+        "options": {
+            "A": "Using the 'extends' keyword.",
+            "B": "Using the 'implements' keyword.",
+            "C": "Using the prototype chain.",
+            "D": "Using static methods."
+        },
+        "correct_answer": "C",
+        "explanation": "Before ES6 classes, JavaScript used the prototype chain to achieve inheritance. An object inherits from another object via its prototype property."
+    },
+    {
+        "question": "[Variables Q] Which keyword declares a block-scoped variable that cannot be re-assigned? (Unique ID: 53)",
+        "options": {
+            "A": "var",
+            "B": "let",
+            "C": "const",
+            "D": "static"
+        },
+        "correct_answer": "C",
+        "explanation": "'const' declares a variable that is block-scoped and must be initialized. The reference it holds cannot be changed (though object properties can be)."
+    },
+    {
+        "question": "[Closures Q] In JavaScript, what defines a Closure? (Unique ID: 54)",
+        "options": {
+            "A": "A function having access to its own scope and the global scope.",
+            "B": "A function that returns another function.",
+            "C": "A function bundled with its lexical environment.",
+            "D": "An anonymous self-executing function."
+        },
+        "correct_answer": "C",
+        "explanation": "A closure is the combination of a function and the lexical environment within which that function was declared. It gives the function access to its outer function's scope even after the outer function has finished executing."
+    },
+    {
+        "question": "[Scope/Hoisting Q] What is the result of running 'console.log(x); var x = 5;' in strict mode? (Unique ID: 55)",
+        "options": {
+            "A": "5",
+            "B": "undefined",
+            "C": "ReferenceError",
+            "D": "null"
+        },
+        "correct_answer": "B",
+        "explanation": "Due to hoisting, the 'var x' declaration is moved to the top of the scope, but the assignment is not. So 'x' is logged as 'undefined' before being assigned 5."
+    },
+    {
+        "question": "[Async/Promises Q] Which function is used to handle the fulfilled state of a Promise in JavaScript? (Unique ID: 56)",
+        "options": {
+            "A": "catch()",
+            "B": "finally()",
+            "C": "then()",
+            "D": "done()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'then()' method is used to schedule a callback function to be executed when the Promise is successfully resolved (fulfilled)."
+    },
+    {
+        "question": "[Data Structures/Arrays Q] Which built-in array method creates a new array with the results of calling a provided function on every element in the calling array? (Unique ID: 57)",
+        "options": {
+            "A": "forEach()",
+            "B": "filter()",
+            "C": "reduce()",
+            "D": "map()"
+        },
+        "correct_answer": "D",
+        "explanation": "The 'map()' method iterates over an array and returns a new array with the results of applying a callback function to each element, preserving the original array."
+    },
+    {
+        "question": "[OOP/Prototypes Q] How do you inherit properties and methods in traditional JavaScript (pre-ES6 classes)? (Unique ID: 58)",
+        "options": {
+            "A": "Using the 'extends' keyword.",
+            "B": "Using the 'implements' keyword.",
+            "C": "Using the prototype chain.",
+            "D": "Using static methods."
+        },
+        "correct_answer": "C",
+        "explanation": "Before ES6 classes, JavaScript used the prototype chain to achieve inheritance. An object inherits from another object via its prototype property."
+    },
+    {
+        "question": "[Variables Q] Which keyword declares a block-scoped variable that cannot be re-assigned? (Unique ID: 59)",
+        "options": {
+            "A": "var",
+            "B": "let",
+            "C": "const",
+            "D": "static"
+        },
+        "correct_answer": "C",
+        "explanation": "'const' declares a variable that is block-scoped and must be initialized. The reference it holds cannot be changed (though object properties can be)."
+    },
+    {
+        "question": "[Closures Q] In JavaScript, what defines a Closure? (Unique ID: 60)",
+        "options": {
+            "A": "A function having access to its own scope and the global scope.",
+            "B": "A function that returns another function.",
+            "C": "A function bundled with its lexical environment.",
+            "D": "An anonymous self-executing function."
+        },
+        "correct_answer": "C",
+        "explanation": "A closure is the combination of a function and the lexical environment within which that function was declared. It gives the function access to its outer function's scope even after the outer function has finished executing."
+    },
+    {
+        "question": "[Scope/Hoisting Q] What is the result of running 'console.log(x); var x = 5;' in strict mode? (Unique ID: 61)",
+        "options": {
+            "A": "5",
+            "B": "undefined",
+            "C": "ReferenceError",
+            "D": "null"
+        },
+        "correct_answer": "B",
+        "explanation": "Due to hoisting, the 'var x' declaration is moved to the top of the scope, but the assignment is not. So 'x' is logged as 'undefined' before being assigned 5."
+    },
+    {
+        "question": "[Async/Promises Q] Which function is used to handle the fulfilled state of a Promise in JavaScript? (Unique ID: 62)",
+        "options": {
+            "A": "catch()",
+            "B": "finally()",
+            "C": "then()",
+            "D": "done()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'then()' method is used to schedule a callback function to be executed when the Promise is successfully resolved (fulfilled)."
+    },
+    {
+        "question": "[Data Structures/Arrays Q] Which built-in array method creates a new array with the results of calling a provided function on every element in the calling array? (Unique ID: 63)",
+        "options": {
+            "A": "forEach()",
+            "B": "filter()",
+            "C": "reduce()",
+            "D": "map()"
+        },
+        "correct_answer": "D",
+        "explanation": "The 'map()' method iterates over an array and returns a new array with the results of applying a callback function to each element, preserving the original array."
+    },
+    {
+        "question": "[OOP/Prototypes Q] How do you inherit properties and methods in traditional JavaScript (pre-ES6 classes)? (Unique ID: 64)",
+        "options": {
+            "A": "Using the 'extends' keyword.",
+            "B": "Using the 'implements' keyword.",
+            "C": "Using the prototype chain.",
+            "D": "Using static methods."
+        },
+        "correct_answer": "C",
+        "explanation": "Before ES6 classes, JavaScript used the prototype chain to achieve inheritance. An object inherits from another object via its prototype property."
+    },
+    {
+        "question": "[Variables Q] Which keyword declares a block-scoped variable that cannot be re-assigned? (Unique ID: 65)",
+        "options": {
+            "A": "var",
+            "B": "let",
+            "C": "const",
+            "D": "static"
+        },
+        "correct_answer": "C",
+        "explanation": "'const' declares a variable that is block-scoped and must be initialized. The reference it holds cannot be changed (though object properties can be)."
+    },
+    {
+        "question": "[Closures Q] In JavaScript, what defines a Closure? (Unique ID: 66)",
+        "options": {
+            "A": "A function having access to its own scope and the global scope.",
+            "B": "A function that returns another function.",
+            "C": "A function bundled with its lexical environment.",
+            "D": "An anonymous self-executing function."
+        },
+        "correct_answer": "C",
+        "explanation": "A closure is the combination of a function and the lexical environment within which that function was declared. It gives the function access to its outer function's scope even after the outer function has finished executing."
+    },
+    {
+        "question": "[Scope/Hoisting Q] What is the result of running 'console.log(x); var x = 5;' in strict mode? (Unique ID: 67)",
+        "options": {
+            "A": "5",
+            "B": "undefined",
+            "C": "ReferenceError",
+            "D": "null"
+        },
+        "correct_answer": "B",
+        "explanation": "Due to hoisting, the 'var x' declaration is moved to the top of the scope, but the assignment is not. So 'x' is logged as 'undefined' before being assigned 5."
+    },
+    {
+        "question": "[Async/Promises Q] Which function is used to handle the fulfilled state of a Promise in JavaScript? (Unique ID: 68)",
+        "options": {
+            "A": "catch()",
+            "B": "finally()",
+            "C": "then()",
+            "D": "done()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'then()' method is used to schedule a callback function to be executed when the Promise is successfully resolved (fulfilled)."
+    },
+    {
+        "question": "[Data Structures/Arrays Q] Which built-in array method creates a new array with the results of calling a provided function on every element in the calling array? (Unique ID: 69)",
+        "options": {
+            "A": "forEach()",
+            "B": "filter()",
+            "C": "reduce()",
+            "D": "map()"
+        },
+        "correct_answer": "D",
+        "explanation": "The 'map()' method iterates over an array and returns a new array with the results of applying a callback function to each element, preserving the original array."
+    },
+    {
+        "question": "[OOP/Prototypes Q] How do you inherit properties and methods in traditional JavaScript (pre-ES6 classes)? (Unique ID: 70)",
+        "options": {
+            "A": "Using the 'extends' keyword.",
+            "B": "Using the 'implements' keyword.",
+            "C": "Using the prototype chain.",
+            "D": "Using static methods."
+        },
+        "correct_answer": "C",
+        "explanation": "Before ES6 classes, JavaScript used the prototype chain to achieve inheritance. An object inherits from another object via its prototype property."
+    },
+    {
+        "question": "[Variables Q] Which keyword declares a block-scoped variable that cannot be re-assigned? (Unique ID: 71)",
+        "options": {
+            "A": "var",
+            "B": "let",
+            "C": "const",
+            "D": "static"
+        },
+        "correct_answer": "C",
+        "explanation": "'const' declares a variable that is block-scoped and must be initialized. The reference it holds cannot be changed (though object properties can be)."
+    },
+    {
+        "question": "[Closures Q] In JavaScript, what defines a Closure? (Unique ID: 72)",
+        "options": {
+            "A": "A function having access to its own scope and the global scope.",
+            "B": "A function that returns another function.",
+            "C": "A function bundled with its lexical environment.",
+            "D": "An anonymous self-executing function."
+        },
+        "correct_answer": "C",
+        "explanation": "A closure is the combination of a function and the lexical environment within which that function was declared. It gives the function access to its outer function's scope even after the outer function has finished executing."
+    },
+    {
+        "question": "[Scope/Hoisting Q] What is the result of running 'console.log(x); var x = 5;' in strict mode? (Unique ID: 73)",
+        "options": {
+            "A": "5",
+            "B": "undefined",
+            "C": "ReferenceError",
+            "D": "null"
+        },
+        "correct_answer": "B",
+        "explanation": "Due to hoisting, the 'var x' declaration is moved to the top of the scope, but the assignment is not. So 'x' is logged as 'undefined' before being assigned 5."
+    },
+    {
+        "question": "[Async/Promises Q] Which function is used to handle the fulfilled state of a Promise in JavaScript? (Unique ID: 74)",
+        "options": {
+            "A": "catch()",
+            "B": "finally()",
+            "C": "then()",
+            "D": "done()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'then()' method is used to schedule a callback function to be executed when the Promise is successfully resolved (fulfilled)."
+    },
+    {
+        "question": "[Data Structures/Arrays Q] Which built-in array method creates a new array with the results of calling a provided function on every element in the calling array? (Unique ID: 75)",
+        "options": {
+            "A": "forEach()",
+            "B": "filter()",
+            "C": "reduce()",
+            "D": "map()"
+        },
+        "correct_answer": "D",
+        "explanation": "The 'map()' method iterates over an array and returns a new array with the results of applying a callback function to each element, preserving the original array."
+    },
+    {
+        "question": "[OOP/Prototypes Q] How do you inherit properties and methods in traditional JavaScript (pre-ES6 classes)? (Unique ID: 76)",
+        "options": {
+            "A": "Using the 'extends' keyword.",
+            "B": "Using the 'implements' keyword.",
+            "C": "Using the prototype chain.",
+            "D": "Using static methods."
+        },
+        "correct_answer": "C",
+        "explanation": "Before ES6 classes, JavaScript used the prototype chain to achieve inheritance. An object inherits from another object via its prototype property."
+    },
+    {
+        "question": "[Variables Q] Which keyword declares a block-scoped variable that cannot be re-assigned? (Unique ID: 77)",
+        "options": {
+            "A": "var",
+            "B": "let",
+            "C": "const",
+            "D": "static"
+        },
+        "correct_answer": "C",
+        "explanation": "'const' declares a variable that is block-scoped and must be initialized. The reference it holds cannot be changed (though object properties can be)."
+    },
+    {
+        "question": "[Closures Q] In JavaScript, what defines a Closure? (Unique ID: 78)",
+        "options": {
+            "A": "A function having access to its own scope and the global scope.",
+            "B": "A function that returns another function.",
+            "C": "A function bundled with its lexical environment.",
+            "D": "An anonymous self-executing function."
+        },
+        "correct_answer": "C",
+        "explanation": "A closure is the combination of a function and the lexical environment within which that function was declared. It gives the function access to its outer function's scope even after the outer function has finished executing."
+    },
+    {
+        "question": "[Scope/Hoisting Q] What is the result of running 'console.log(x); var x = 5;' in strict mode? (Unique ID: 79)",
+        "options": {
+            "A": "5",
+            "B": "undefined",
+            "C": "ReferenceError",
+            "D": "null"
+        },
+        "correct_answer": "B",
+        "explanation": "Due to hoisting, the 'var x' declaration is moved to the top of the scope, but the assignment is not. So 'x' is logged as 'undefined' before being assigned 5."
+    },
+    {
+        "question": "[Async/Promises Q] Which function is used to handle the fulfilled state of a Promise in JavaScript? (Unique ID: 80)",
+        "options": {
+            "A": "catch()",
+            "B": "finally()",
+            "C": "then()",
+            "D": "done()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'then()' method is used to schedule a callback function to be executed when the Promise is successfully resolved (fulfilled)."
+    },
+    {
+        "question": "[Data Structures/Arrays Q] Which built-in array method creates a new array with the results of calling a provided function on every element in the calling array? (Unique ID: 81)",
+        "options": {
+            "A": "forEach()",
+            "B": "filter()",
+            "C": "reduce()",
+            "D": "map()"
+        },
+        "correct_answer": "D",
+        "explanation": "The 'map()' method iterates over an array and returns a new array with the results of applying a callback function to each element, preserving the original array."
+    },
+    {
+        "question": "[OOP/Prototypes Q] How do you inherit properties and methods in traditional JavaScript (pre-ES6 classes)? (Unique ID: 82)",
+        "options": {
+            "A": "Using the 'extends' keyword.",
+            "B": "Using the 'implements' keyword.",
+            "C": "Using the prototype chain.",
+            "D": "Using static methods."
+        },
+        "correct_answer": "C",
+        "explanation": "Before ES6 classes, JavaScript used the prototype chain to achieve inheritance. An object inherits from another object via its prototype property."
+    },
+    {
+        "question": "[Variables Q] Which keyword declares a block-scoped variable that cannot be re-assigned? (Unique ID: 83)",
+        "options": {
+            "A": "var",
+            "B": "let",
+            "C": "const",
+            "D": "static"
+        },
+        "correct_answer": "C",
+        "explanation": "'const' declares a variable that is block-scoped and must be initialized. The reference it holds cannot be changed (though object properties can be)."
+    },
+    {
+        "question": "[Closures Q] In JavaScript, what defines a Closure? (Unique ID: 84)",
+        "options": {
+            "A": "A function having access to its own scope and the global scope.",
+            "B": "A function that returns another function.",
+            "C": "A function bundled with its lexical environment.",
+            "D": "An anonymous self-executing function."
+        },
+        "correct_answer": "C",
+        "explanation": "A closure is the combination of a function and the lexical environment within which that function was declared. It gives the function access to its outer function's scope even after the outer function has finished executing."
+    },
+    {
+        "question": "[Scope/Hoisting Q] What is the result of running 'console.log(x); var x = 5;' in strict mode? (Unique ID: 85)",
+        "options": {
+            "A": "5",
+            "B": "undefined",
+            "C": "ReferenceError",
+            "D": "null"
+        },
+        "correct_answer": "B",
+        "explanation": "Due to hoisting, the 'var x' declaration is moved to the top of the scope, but the assignment is not. So 'x' is logged as 'undefined' before being assigned 5."
+    },
+    {
+        "question": "[Async/Promises Q] Which function is used to handle the fulfilled state of a Promise in JavaScript? (Unique ID: 86)",
+        "options": {
+            "A": "catch()",
+            "B": "finally()",
+            "C": "then()",
+            "D": "done()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'then()' method is used to schedule a callback function to be executed when the Promise is successfully resolved (fulfilled)."
+    },
+    {
+        "question": "[Data Structures/Arrays Q] Which built-in array method creates a new array with the results of calling a provided function on every element in the calling array? (Unique ID: 87)",
+        "options": {
+            "A": "forEach()",
+            "B": "filter()",
+            "C": "reduce()",
+            "D": "map()"
+        },
+        "correct_answer": "D",
+        "explanation": "The 'map()' method iterates over an array and returns a new array with the results of applying a callback function to each element, preserving the original array."
+    },
+    {
+        "question": "[OOP/Prototypes Q] How do you inherit properties and methods in traditional JavaScript (pre-ES6 classes)? (Unique ID: 88)",
+        "options": {
+            "A": "Using the 'extends' keyword.",
+            "B": "Using the 'implements' keyword.",
+            "C": "Using the prototype chain.",
+            "D": "Using static methods."
+        },
+        "correct_answer": "C",
+        "explanation": "Before ES6 classes, JavaScript used the prototype chain to achieve inheritance. An object inherits from another object via its prototype property."
+    },
+    {
+        "question": "[Variables Q] Which keyword declares a block-scoped variable that cannot be re-assigned? (Unique ID: 89)",
+        "options": {
+            "A": "var",
+            "B": "let",
+            "C": "const",
+            "D": "static"
+        },
+        "correct_answer": "C",
+        "explanation": "'const' declares a variable that is block-scoped and must be initialized. The reference it holds cannot be changed (though object properties can be)."
+    },
+    {
+        "question": "[Closures Q] In JavaScript, what defines a Closure? (Unique ID: 90)",
+        "options": {
+            "A": "A function having access to its own scope and the global scope.",
+            "B": "A function that returns another function.",
+            "C": "A function bundled with its lexical environment.",
+            "D": "An anonymous self-executing function."
+        },
+        "correct_answer": "C",
+        "explanation": "A closure is the combination of a function and the lexical environment within which that function was declared. It gives the function access to its outer function's scope even after the outer function has finished executing."
+    },
+    {
+        "question": "[Scope/Hoisting Q] What is the result of running 'console.log(x); var x = 5;' in strict mode? (Unique ID: 91)",
+        "options": {
+            "A": "5",
+            "B": "undefined",
+            "C": "ReferenceError",
+            "D": "null"
+        },
+        "correct_answer": "B",
+        "explanation": "Due to hoisting, the 'var x' declaration is moved to the top of the scope, but the assignment is not. So 'x' is logged as 'undefined' before being assigned 5."
+    },
+    {
+        "question": "[Async/Promises Q] Which function is used to handle the fulfilled state of a Promise in JavaScript? (Unique ID: 92)",
+        "options": {
+            "A": "catch()",
+            "B": "finally()",
+            "C": "then()",
+            "D": "done()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'then()' method is used to schedule a callback function to be executed when the Promise is successfully resolved (fulfilled)."
+    },
+    {
+        "question": "[Data Structures/Arrays Q] Which built-in array method creates a new array with the results of calling a provided function on every element in the calling array? (Unique ID: 93)",
+        "options": {
+            "A": "forEach()",
+            "B": "filter()",
+            "C": "reduce()",
+            "D": "map()"
+        },
+        "correct_answer": "D",
+        "explanation": "The 'map()' method iterates over an array and returns a new array with the results of applying a callback function to each element, preserving the original array."
+    },
+    {
+        "question": "[OOP/Prototypes Q] How do you inherit properties and methods in traditional JavaScript (pre-ES6 classes)? (Unique ID: 94)",
+        "options": {
+            "A": "Using the 'extends' keyword.",
+            "B": "Using the 'implements' keyword.",
+            "C": "Using the prototype chain.",
+            "D": "Using static methods."
+        },
+        "correct_answer": "C",
+        "explanation": "Before ES6 classes, JavaScript used the prototype chain to achieve inheritance. An object inherits from another object via its prototype property."
+    },
+    {
+        "question": "[Variables Q] Which keyword declares a block-scoped variable that cannot be re-assigned? (Unique ID: 95)",
+        "options": {
+            "A": "var",
+            "B": "let",
+            "C": "const",
+            "D": "static"
+        },
+        "correct_answer": "C",
+        "explanation": "'const' declares a variable that is block-scoped and must be initialized. The reference it holds cannot be changed (though object properties can be)."
+    },
+    {
+        "question": "[Closures Q] In JavaScript, what defines a Closure? (Unique ID: 96)",
+        "options": {
+            "A": "A function having access to its own scope and the global scope.",
+            "B": "A function that returns another function.",
+            "C": "A function bundled with its lexical environment.",
+            "D": "An anonymous self-executing function."
+        },
+        "correct_answer": "C",
+        "explanation": "A closure is the combination of a function and the lexical environment within which that function was declared. It gives the function access to its outer function's scope even after the outer function has finished executing."
+    },
+    {
+        "question": "[Scope/Hoisting Q] What is the result of running 'console.log(x); var x = 5;' in strict mode? (Unique ID: 97)",
+        "options": {
+            "A": "5",
+            "B": "undefined",
+            "C": "ReferenceError",
+            "D": "null"
+        },
+        "correct_answer": "B",
+        "explanation": "Due to hoisting, the 'var x' declaration is moved to the top of the scope, but the assignment is not. So 'x' is logged as 'undefined' before being assigned 5."
+    },
+    {
+        "question": "[Async/Promises Q] Which function is used to handle the fulfilled state of a Promise in JavaScript? (Unique ID: 98)",
+        "options": {
+            "A": "catch()",
+            "B": "finally()",
+            "C": "then()",
+            "D": "done()"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'then()' method is used to schedule a callback function to be executed when the Promise is successfully resolved (fulfilled)."
+    },
+    {
+        "question": "[Data Structures/Arrays Q] Which built-in array method creates a new array with the results of calling a provided function on every element in the calling array? (Unique ID: 99)",
+        "options": {
+            "A": "forEach()",
+            "B": "filter()",
+            "C": "reduce()",
+            "D": "map()"
+        },
+        "correct_answer": "D",
+        "explanation": "The 'map()' method iterates over an array and returns a new array with the results of applying a callback function to each element, preserving the original array."
+    },
+    {
+        "question": "[OOP/Prototypes Q] How do you inherit properties and methods in traditional JavaScript (pre-ES6 classes)? (Unique ID: 100)",
+        "options": {
+            "A": "Using the 'extends' keyword.",
+            "B": "Using the 'implements' keyword.",
+            "C": "Using the prototype chain.",
+            "D": "Using static methods."
+        },
+        "correct_answer": "C",
+        "explanation": "Before ES6 classes, JavaScript used the prototype chain to achieve inheritance. An object inherits from another object via its prototype property."
+    }
+]

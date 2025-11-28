@@ -1,0 +1,1102 @@
+[
+    {
+        "question": "[Interfaces/Types Q] Which TypeScript keyword is used to define the structure of an object, often for duck typing? (Unique ID: 1)",
+        "options": {
+            "A": "type",
+            "B": "class",
+            "C": "interface",
+            "D": "model"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'interface' keyword is a core concept in TypeScript used to define contracts for objects, functions, and classes, focusing on structure."
+    },
+    {
+        "question": "[Generics Q] In TypeScript, what do Generics allow you to do? (Unique ID: 2)",
+        "options": {
+            "A": "Create functions that only accept string and number types.",
+            "B": "Write reusable code that works with a variety of types.",
+            "C": "Compile code for multiple JavaScript environments.",
+            "D": "Automatically generate type definitions from JavaScript code."
+        },
+        "correct_answer": "B",
+        "explanation": "Generics allow components to work over a variety of types instead of a single one. This provides type safety while still maintaining flexibility."
+    },
+    {
+        "question": "[Enums Q] By default, what is the type of a member in a numeric enum if no initial value is provided? (Unique ID: 3)",
+        "options": {
+            "A": "string",
+            "B": "boolean",
+            "C": "number (starting from 0)",
+            "D": "undefined"
+        },
+        "correct_answer": "C",
+        "explanation": "Numeric enums start indexing their members from 0, and each subsequent member is incremented by 1."
+    },
+    {
+        "question": "[Compiler Options Q] Which compiler option in 'tsconfig.json' enforces strict null checks, disallowing 'null' and 'undefined' from being assigned to variables not explicitly allowing them? (Unique ID: 4)",
+        "options": {
+            "A": "noImplicitAny",
+            "B": "strict",
+            "C": "alwaysStrict",
+            "D": "noUnusedLocals"
+        },
+        "correct_answer": "B",
+        "explanation": "The 'strict' option enables a broad range of type checking behavior, including 'strictNullChecks', which significantly improves code safety."
+    },
+    {
+        "question": "[Type Guards Q] What is the most common way to perform runtime type checking (type narrowing) in TypeScript? (Unique ID: 5)",
+        "options": {
+            "A": "Using the 'is' keyword in a conditional statement.",
+            "B": "Using the 'typeof' or 'instanceof' operators.",
+            "C": "Using the 'as' keyword for type assertion.",
+            "D": "Using the 'interface' keyword."
+        },
+        "correct_answer": "B",
+        "explanation": "Type guards, such as 'typeof' and 'instanceof', allow TypeScript to narrow down the type of a variable within a conditional block."
+    },
+    {
+        "question": "[Decorators Q] What symbol is used immediately before a declaration to apply a decorator in TypeScript? (Unique ID: 6)",
+        "options": {
+            "A": "#",
+            "B": "$",
+            "C": "@",
+            "D": "%"
+        },
+        "correct_answer": "C",
+        "explanation": "Decorators are a special kind of declaration that can be attached to classes, methods, accessors, properties, or parameters using the '@' symbol followed by the decorator function name."
+    },
+    {
+        "question": "[Interfaces/Types Q] Which TypeScript keyword is used to define the structure of an object, often for duck typing? (Unique ID: 7)",
+        "options": {
+            "A": "type",
+            "B": "class",
+            "C": "interface",
+            "D": "model"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'interface' keyword is a core concept in TypeScript used to define contracts for objects, functions, and classes, focusing on structure."
+    },
+    {
+        "question": "[Generics Q] In TypeScript, what do Generics allow you to do? (Unique ID: 8)",
+        "options": {
+            "A": "Create functions that only accept string and number types.",
+            "B": "Write reusable code that works with a variety of types.",
+            "C": "Compile code for multiple JavaScript environments.",
+            "D": "Automatically generate type definitions from JavaScript code."
+        },
+        "correct_answer": "B",
+        "explanation": "Generics allow components to work over a variety of types instead of a single one. This provides type safety while still maintaining flexibility."
+    },
+    {
+        "question": "[Enums Q] By default, what is the type of a member in a numeric enum if no initial value is provided? (Unique ID: 9)",
+        "options": {
+            "A": "string",
+            "B": "boolean",
+            "C": "number (starting from 0)",
+            "D": "undefined"
+        },
+        "correct_answer": "C",
+        "explanation": "Numeric enums start indexing their members from 0, and each subsequent member is incremented by 1."
+    },
+    {
+        "question": "[Compiler Options Q] Which compiler option in 'tsconfig.json' enforces strict null checks, disallowing 'null' and 'undefined' from being assigned to variables not explicitly allowing them? (Unique ID: 10)",
+        "options": {
+            "A": "noImplicitAny",
+            "B": "strict",
+            "C": "alwaysStrict",
+            "D": "noUnusedLocals"
+        },
+        "correct_answer": "B",
+        "explanation": "The 'strict' option enables a broad range of type checking behavior, including 'strictNullChecks', which significantly improves code safety."
+    },
+    {
+        "question": "[Type Guards Q] What is the most common way to perform runtime type checking (type narrowing) in TypeScript? (Unique ID: 11)",
+        "options": {
+            "A": "Using the 'is' keyword in a conditional statement.",
+            "B": "Using the 'typeof' or 'instanceof' operators.",
+            "C": "Using the 'as' keyword for type assertion.",
+            "D": "Using the 'interface' keyword."
+        },
+        "correct_answer": "B",
+        "explanation": "Type guards, such as 'typeof' and 'instanceof', allow TypeScript to narrow down the type of a variable within a conditional block."
+    },
+    {
+        "question": "[Decorators Q] What symbol is used immediately before a declaration to apply a decorator in TypeScript? (Unique ID: 12)",
+        "options": {
+            "A": "#",
+            "B": "$",
+            "C": "@",
+            "D": "%"
+        },
+        "correct_answer": "C",
+        "explanation": "Decorators are a special kind of declaration that can be attached to classes, methods, accessors, properties, or parameters using the '@' symbol followed by the decorator function name."
+    },
+    {
+        "question": "[Interfaces/Types Q] Which TypeScript keyword is used to define the structure of an object, often for duck typing? (Unique ID: 13)",
+        "options": {
+            "A": "type",
+            "B": "class",
+            "C": "interface",
+            "D": "model"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'interface' keyword is a core concept in TypeScript used to define contracts for objects, functions, and classes, focusing on structure."
+    },
+    {
+        "question": "[Generics Q] In TypeScript, what do Generics allow you to do? (Unique ID: 14)",
+        "options": {
+            "A": "Create functions that only accept string and number types.",
+            "B": "Write reusable code that works with a variety of types.",
+            "C": "Compile code for multiple JavaScript environments.",
+            "D": "Automatically generate type definitions from JavaScript code."
+        },
+        "correct_answer": "B",
+        "explanation": "Generics allow components to work over a variety of types instead of a single one. This provides type safety while still maintaining flexibility."
+    },
+    {
+        "question": "[Enums Q] By default, what is the type of a member in a numeric enum if no initial value is provided? (Unique ID: 15)",
+        "options": {
+            "A": "string",
+            "B": "boolean",
+            "C": "number (starting from 0)",
+            "D": "undefined"
+        },
+        "correct_answer": "C",
+        "explanation": "Numeric enums start indexing their members from 0, and each subsequent member is incremented by 1."
+    },
+    {
+        "question": "[Compiler Options Q] Which compiler option in 'tsconfig.json' enforces strict null checks, disallowing 'null' and 'undefined' from being assigned to variables not explicitly allowing them? (Unique ID: 16)",
+        "options": {
+            "A": "noImplicitAny",
+            "B": "strict",
+            "C": "alwaysStrict",
+            "D": "noUnusedLocals"
+        },
+        "correct_answer": "B",
+        "explanation": "The 'strict' option enables a broad range of type checking behavior, including 'strictNullChecks', which significantly improves code safety."
+    },
+    {
+        "question": "[Type Guards Q] What is the most common way to perform runtime type checking (type narrowing) in TypeScript? (Unique ID: 17)",
+        "options": {
+            "A": "Using the 'is' keyword in a conditional statement.",
+            "B": "Using the 'typeof' or 'instanceof' operators.",
+            "C": "Using the 'as' keyword for type assertion.",
+            "D": "Using the 'interface' keyword."
+        },
+        "correct_answer": "B",
+        "explanation": "Type guards, such as 'typeof' and 'instanceof', allow TypeScript to narrow down the type of a variable within a conditional block."
+    },
+    {
+        "question": "[Decorators Q] What symbol is used immediately before a declaration to apply a decorator in TypeScript? (Unique ID: 18)",
+        "options": {
+            "A": "#",
+            "B": "$",
+            "C": "@",
+            "D": "%"
+        },
+        "correct_answer": "C",
+        "explanation": "Decorators are a special kind of declaration that can be attached to classes, methods, accessors, properties, or parameters using the '@' symbol followed by the decorator function name."
+    },
+    {
+        "question": "[Interfaces/Types Q] Which TypeScript keyword is used to define the structure of an object, often for duck typing? (Unique ID: 19)",
+        "options": {
+            "A": "type",
+            "B": "class",
+            "C": "interface",
+            "D": "model"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'interface' keyword is a core concept in TypeScript used to define contracts for objects, functions, and classes, focusing on structure."
+    },
+    {
+        "question": "[Generics Q] In TypeScript, what do Generics allow you to do? (Unique ID: 20)",
+        "options": {
+            "A": "Create functions that only accept string and number types.",
+            "B": "Write reusable code that works with a variety of types.",
+            "C": "Compile code for multiple JavaScript environments.",
+            "D": "Automatically generate type definitions from JavaScript code."
+        },
+        "correct_answer": "B",
+        "explanation": "Generics allow components to work over a variety of types instead of a single one. This provides type safety while still maintaining flexibility."
+    },
+    {
+        "question": "[Enums Q] By default, what is the type of a member in a numeric enum if no initial value is provided? (Unique ID: 21)",
+        "options": {
+            "A": "string",
+            "B": "boolean",
+            "C": "number (starting from 0)",
+            "D": "undefined"
+        },
+        "correct_answer": "C",
+        "explanation": "Numeric enums start indexing their members from 0, and each subsequent member is incremented by 1."
+    },
+    {
+        "question": "[Compiler Options Q] Which compiler option in 'tsconfig.json' enforces strict null checks, disallowing 'null' and 'undefined' from being assigned to variables not explicitly allowing them? (Unique ID: 22)",
+        "options": {
+            "A": "noImplicitAny",
+            "B": "strict",
+            "C": "alwaysStrict",
+            "D": "noUnusedLocals"
+        },
+        "correct_answer": "B",
+        "explanation": "The 'strict' option enables a broad range of type checking behavior, including 'strictNullChecks', which significantly improves code safety."
+    },
+    {
+        "question": "[Type Guards Q] What is the most common way to perform runtime type checking (type narrowing) in TypeScript? (Unique ID: 23)",
+        "options": {
+            "A": "Using the 'is' keyword in a conditional statement.",
+            "B": "Using the 'typeof' or 'instanceof' operators.",
+            "C": "Using the 'as' keyword for type assertion.",
+            "D": "Using the 'interface' keyword."
+        },
+        "correct_answer": "B",
+        "explanation": "Type guards, such as 'typeof' and 'instanceof', allow TypeScript to narrow down the type of a variable within a conditional block."
+    },
+    {
+        "question": "[Decorators Q] What symbol is used immediately before a declaration to apply a decorator in TypeScript? (Unique ID: 24)",
+        "options": {
+            "A": "#",
+            "B": "$",
+            "C": "@",
+            "D": "%"
+        },
+        "correct_answer": "C",
+        "explanation": "Decorators are a special kind of declaration that can be attached to classes, methods, accessors, properties, or parameters using the '@' symbol followed by the decorator function name."
+    },
+    {
+        "question": "[Interfaces/Types Q] Which TypeScript keyword is used to define the structure of an object, often for duck typing? (Unique ID: 25)",
+        "options": {
+            "A": "type",
+            "B": "class",
+            "C": "interface",
+            "D": "model"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'interface' keyword is a core concept in TypeScript used to define contracts for objects, functions, and classes, focusing on structure."
+    },
+    {
+        "question": "[Generics Q] In TypeScript, what do Generics allow you to do? (Unique ID: 26)",
+        "options": {
+            "A": "Create functions that only accept string and number types.",
+            "B": "Write reusable code that works with a variety of types.",
+            "C": "Compile code for multiple JavaScript environments.",
+            "D": "Automatically generate type definitions from JavaScript code."
+        },
+        "correct_answer": "B",
+        "explanation": "Generics allow components to work over a variety of types instead of a single one. This provides type safety while still maintaining flexibility."
+    },
+    {
+        "question": "[Enums Q] By default, what is the type of a member in a numeric enum if no initial value is provided? (Unique ID: 27)",
+        "options": {
+            "A": "string",
+            "B": "boolean",
+            "C": "number (starting from 0)",
+            "D": "undefined"
+        },
+        "correct_answer": "C",
+        "explanation": "Numeric enums start indexing their members from 0, and each subsequent member is incremented by 1."
+    },
+    {
+        "question": "[Compiler Options Q] Which compiler option in 'tsconfig.json' enforces strict null checks, disallowing 'null' and 'undefined' from being assigned to variables not explicitly allowing them? (Unique ID: 28)",
+        "options": {
+            "A": "noImplicitAny",
+            "B": "strict",
+            "C": "alwaysStrict",
+            "D": "noUnusedLocals"
+        },
+        "correct_answer": "B",
+        "explanation": "The 'strict' option enables a broad range of type checking behavior, including 'strictNullChecks', which significantly improves code safety."
+    },
+    {
+        "question": "[Type Guards Q] What is the most common way to perform runtime type checking (type narrowing) in TypeScript? (Unique ID: 29)",
+        "options": {
+            "A": "Using the 'is' keyword in a conditional statement.",
+            "B": "Using the 'typeof' or 'instanceof' operators.",
+            "C": "Using the 'as' keyword for type assertion.",
+            "D": "Using the 'interface' keyword."
+        },
+        "correct_answer": "B",
+        "explanation": "Type guards, such as 'typeof' and 'instanceof', allow TypeScript to narrow down the type of a variable within a conditional block."
+    },
+    {
+        "question": "[Decorators Q] What symbol is used immediately before a declaration to apply a decorator in TypeScript? (Unique ID: 30)",
+        "options": {
+            "A": "#",
+            "B": "$",
+            "C": "@",
+            "D": "%"
+        },
+        "correct_answer": "C",
+        "explanation": "Decorators are a special kind of declaration that can be attached to classes, methods, accessors, properties, or parameters using the '@' symbol followed by the decorator function name."
+    },
+    {
+        "question": "[Interfaces/Types Q] Which TypeScript keyword is used to define the structure of an object, often for duck typing? (Unique ID: 31)",
+        "options": {
+            "A": "type",
+            "B": "class",
+            "C": "interface",
+            "D": "model"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'interface' keyword is a core concept in TypeScript used to define contracts for objects, functions, and classes, focusing on structure."
+    },
+    {
+        "question": "[Generics Q] In TypeScript, what do Generics allow you to do? (Unique ID: 32)",
+        "options": {
+            "A": "Create functions that only accept string and number types.",
+            "B": "Write reusable code that works with a variety of types.",
+            "C": "Compile code for multiple JavaScript environments.",
+            "D": "Automatically generate type definitions from JavaScript code."
+        },
+        "correct_answer": "B",
+        "explanation": "Generics allow components to work over a variety of types instead of a single one. This provides type safety while still maintaining flexibility."
+    },
+    {
+        "question": "[Enums Q] By default, what is the type of a member in a numeric enum if no initial value is provided? (Unique ID: 33)",
+        "options": {
+            "A": "string",
+            "B": "boolean",
+            "C": "number (starting from 0)",
+            "D": "undefined"
+        },
+        "correct_answer": "C",
+        "explanation": "Numeric enums start indexing their members from 0, and each subsequent member is incremented by 1."
+    },
+    {
+        "question": "[Compiler Options Q] Which compiler option in 'tsconfig.json' enforces strict null checks, disallowing 'null' and 'undefined' from being assigned to variables not explicitly allowing them? (Unique ID: 34)",
+        "options": {
+            "A": "noImplicitAny",
+            "B": "strict",
+            "C": "alwaysStrict",
+            "D": "noUnusedLocals"
+        },
+        "correct_answer": "B",
+        "explanation": "The 'strict' option enables a broad range of type checking behavior, including 'strictNullChecks', which significantly improves code safety."
+    },
+    {
+        "question": "[Type Guards Q] What is the most common way to perform runtime type checking (type narrowing) in TypeScript? (Unique ID: 35)",
+        "options": {
+            "A": "Using the 'is' keyword in a conditional statement.",
+            "B": "Using the 'typeof' or 'instanceof' operators.",
+            "C": "Using the 'as' keyword for type assertion.",
+            "D": "Using the 'interface' keyword."
+        },
+        "correct_answer": "B",
+        "explanation": "Type guards, such as 'typeof' and 'instanceof', allow TypeScript to narrow down the type of a variable within a conditional block."
+    },
+    {
+        "question": "[Decorators Q] What symbol is used immediately before a declaration to apply a decorator in TypeScript? (Unique ID: 36)",
+        "options": {
+            "A": "#",
+            "B": "$",
+            "C": "@",
+            "D": "%"
+        },
+        "correct_answer": "C",
+        "explanation": "Decorators are a special kind of declaration that can be attached to classes, methods, accessors, properties, or parameters using the '@' symbol followed by the decorator function name."
+    },
+    {
+        "question": "[Interfaces/Types Q] Which TypeScript keyword is used to define the structure of an object, often for duck typing? (Unique ID: 37)",
+        "options": {
+            "A": "type",
+            "B": "class",
+            "C": "interface",
+            "D": "model"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'interface' keyword is a core concept in TypeScript used to define contracts for objects, functions, and classes, focusing on structure."
+    },
+    {
+        "question": "[Generics Q] In TypeScript, what do Generics allow you to do? (Unique ID: 38)",
+        "options": {
+            "A": "Create functions that only accept string and number types.",
+            "B": "Write reusable code that works with a variety of types.",
+            "C": "Compile code for multiple JavaScript environments.",
+            "D": "Automatically generate type definitions from JavaScript code."
+        },
+        "correct_answer": "B",
+        "explanation": "Generics allow components to work over a variety of types instead of a single one. This provides type safety while still maintaining flexibility."
+    },
+    {
+        "question": "[Enums Q] By default, what is the type of a member in a numeric enum if no initial value is provided? (Unique ID: 39)",
+        "options": {
+            "A": "string",
+            "B": "boolean",
+            "C": "number (starting from 0)",
+            "D": "undefined"
+        },
+        "correct_answer": "C",
+        "explanation": "Numeric enums start indexing their members from 0, and each subsequent member is incremented by 1."
+    },
+    {
+        "question": "[Compiler Options Q] Which compiler option in 'tsconfig.json' enforces strict null checks, disallowing 'null' and 'undefined' from being assigned to variables not explicitly allowing them? (Unique ID: 40)",
+        "options": {
+            "A": "noImplicitAny",
+            "B": "strict",
+            "C": "alwaysStrict",
+            "D": "noUnusedLocals"
+        },
+        "correct_answer": "B",
+        "explanation": "The 'strict' option enables a broad range of type checking behavior, including 'strictNullChecks', which significantly improves code safety."
+    },
+    {
+        "question": "[Type Guards Q] What is the most common way to perform runtime type checking (type narrowing) in TypeScript? (Unique ID: 41)",
+        "options": {
+            "A": "Using the 'is' keyword in a conditional statement.",
+            "B": "Using the 'typeof' or 'instanceof' operators.",
+            "C": "Using the 'as' keyword for type assertion.",
+            "D": "Using the 'interface' keyword."
+        },
+        "correct_answer": "B",
+        "explanation": "Type guards, such as 'typeof' and 'instanceof', allow TypeScript to narrow down the type of a variable within a conditional block."
+    },
+    {
+        "question": "[Decorators Q] What symbol is used immediately before a declaration to apply a decorator in TypeScript? (Unique ID: 42)",
+        "options": {
+            "A": "#",
+            "B": "$",
+            "C": "@",
+            "D": "%"
+        },
+        "correct_answer": "C",
+        "explanation": "Decorators are a special kind of declaration that can be attached to classes, methods, accessors, properties, or parameters using the '@' symbol followed by the decorator function name."
+    },
+    {
+        "question": "[Interfaces/Types Q] Which TypeScript keyword is used to define the structure of an object, often for duck typing? (Unique ID: 43)",
+        "options": {
+            "A": "type",
+            "B": "class",
+            "C": "interface",
+            "D": "model"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'interface' keyword is a core concept in TypeScript used to define contracts for objects, functions, and classes, focusing on structure."
+    },
+    {
+        "question": "[Generics Q] In TypeScript, what do Generics allow you to do? (Unique ID: 44)",
+        "options": {
+            "A": "Create functions that only accept string and number types.",
+            "B": "Write reusable code that works with a variety of types.",
+            "C": "Compile code for multiple JavaScript environments.",
+            "D": "Automatically generate type definitions from JavaScript code."
+        },
+        "correct_answer": "B",
+        "explanation": "Generics allow components to work over a variety of types instead of a single one. This provides type safety while still maintaining flexibility."
+    },
+    {
+        "question": "[Enums Q] By default, what is the type of a member in a numeric enum if no initial value is provided? (Unique ID: 45)",
+        "options": {
+            "A": "string",
+            "B": "boolean",
+            "C": "number (starting from 0)",
+            "D": "undefined"
+        },
+        "correct_answer": "C",
+        "explanation": "Numeric enums start indexing their members from 0, and each subsequent member is incremented by 1."
+    },
+    {
+        "question": "[Compiler Options Q] Which compiler option in 'tsconfig.json' enforces strict null checks, disallowing 'null' and 'undefined' from being assigned to variables not explicitly allowing them? (Unique ID: 46)",
+        "options": {
+            "A": "noImplicitAny",
+            "B": "strict",
+            "C": "alwaysStrict",
+            "D": "noUnusedLocals"
+        },
+        "correct_answer": "B",
+        "explanation": "The 'strict' option enables a broad range of type checking behavior, including 'strictNullChecks', which significantly improves code safety."
+    },
+    {
+        "question": "[Type Guards Q] What is the most common way to perform runtime type checking (type narrowing) in TypeScript? (Unique ID: 47)",
+        "options": {
+            "A": "Using the 'is' keyword in a conditional statement.",
+            "B": "Using the 'typeof' or 'instanceof' operators.",
+            "C": "Using the 'as' keyword for type assertion.",
+            "D": "Using the 'interface' keyword."
+        },
+        "correct_answer": "B",
+        "explanation": "Type guards, such as 'typeof' and 'instanceof', allow TypeScript to narrow down the type of a variable within a conditional block."
+    },
+    {
+        "question": "[Decorators Q] What symbol is used immediately before a declaration to apply a decorator in TypeScript? (Unique ID: 48)",
+        "options": {
+            "A": "#",
+            "B": "$",
+            "C": "@",
+            "D": "%"
+        },
+        "correct_answer": "C",
+        "explanation": "Decorators are a special kind of declaration that can be attached to classes, methods, accessors, properties, or parameters using the '@' symbol followed by the decorator function name."
+    },
+    {
+        "question": "[Interfaces/Types Q] Which TypeScript keyword is used to define the structure of an object, often for duck typing? (Unique ID: 49)",
+        "options": {
+            "A": "type",
+            "B": "class",
+            "C": "interface",
+            "D": "model"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'interface' keyword is a core concept in TypeScript used to define contracts for objects, functions, and classes, focusing on structure."
+    },
+    {
+        "question": "[Generics Q] In TypeScript, what do Generics allow you to do? (Unique ID: 50)",
+        "options": {
+            "A": "Create functions that only accept string and number types.",
+            "B": "Write reusable code that works with a variety of types.",
+            "C": "Compile code for multiple JavaScript environments.",
+            "D": "Automatically generate type definitions from JavaScript code."
+        },
+        "correct_answer": "B",
+        "explanation": "Generics allow components to work over a variety of types instead of a single one. This provides type safety while still maintaining flexibility."
+    },
+    {
+        "question": "[Enums Q] By default, what is the type of a member in a numeric enum if no initial value is provided? (Unique ID: 51)",
+        "options": {
+            "A": "string",
+            "B": "boolean",
+            "C": "number (starting from 0)",
+            "D": "undefined"
+        },
+        "correct_answer": "C",
+        "explanation": "Numeric enums start indexing their members from 0, and each subsequent member is incremented by 1."
+    },
+    {
+        "question": "[Compiler Options Q] Which compiler option in 'tsconfig.json' enforces strict null checks, disallowing 'null' and 'undefined' from being assigned to variables not explicitly allowing them? (Unique ID: 52)",
+        "options": {
+            "A": "noImplicitAny",
+            "B": "strict",
+            "C": "alwaysStrict",
+            "D": "noUnusedLocals"
+        },
+        "correct_answer": "B",
+        "explanation": "The 'strict' option enables a broad range of type checking behavior, including 'strictNullChecks', which significantly improves code safety."
+    },
+    {
+        "question": "[Type Guards Q] What is the most common way to perform runtime type checking (type narrowing) in TypeScript? (Unique ID: 53)",
+        "options": {
+            "A": "Using the 'is' keyword in a conditional statement.",
+            "B": "Using the 'typeof' or 'instanceof' operators.",
+            "C": "Using the 'as' keyword for type assertion.",
+            "D": "Using the 'interface' keyword."
+        },
+        "correct_answer": "B",
+        "explanation": "Type guards, such as 'typeof' and 'instanceof', allow TypeScript to narrow down the type of a variable within a conditional block."
+    },
+    {
+        "question": "[Decorators Q] What symbol is used immediately before a declaration to apply a decorator in TypeScript? (Unique ID: 54)",
+        "options": {
+            "A": "#",
+            "B": "$",
+            "C": "@",
+            "D": "%"
+        },
+        "correct_answer": "C",
+        "explanation": "Decorators are a special kind of declaration that can be attached to classes, methods, accessors, properties, or parameters using the '@' symbol followed by the decorator function name."
+    },
+    {
+        "question": "[Interfaces/Types Q] Which TypeScript keyword is used to define the structure of an object, often for duck typing? (Unique ID: 55)",
+        "options": {
+            "A": "type",
+            "B": "class",
+            "C": "interface",
+            "D": "model"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'interface' keyword is a core concept in TypeScript used to define contracts for objects, functions, and classes, focusing on structure."
+    },
+    {
+        "question": "[Generics Q] In TypeScript, what do Generics allow you to do? (Unique ID: 56)",
+        "options": {
+            "A": "Create functions that only accept string and number types.",
+            "B": "Write reusable code that works with a variety of types.",
+            "C": "Compile code for multiple JavaScript environments.",
+            "D": "Automatically generate type definitions from JavaScript code."
+        },
+        "correct_answer": "B",
+        "explanation": "Generics allow components to work over a variety of types instead of a single one. This provides type safety while still maintaining flexibility."
+    },
+    {
+        "question": "[Enums Q] By default, what is the type of a member in a numeric enum if no initial value is provided? (Unique ID: 57)",
+        "options": {
+            "A": "string",
+            "B": "boolean",
+            "C": "number (starting from 0)",
+            "D": "undefined"
+        },
+        "correct_answer": "C",
+        "explanation": "Numeric enums start indexing their members from 0, and each subsequent member is incremented by 1."
+    },
+    {
+        "question": "[Compiler Options Q] Which compiler option in 'tsconfig.json' enforces strict null checks, disallowing 'null' and 'undefined' from being assigned to variables not explicitly allowing them? (Unique ID: 58)",
+        "options": {
+            "A": "noImplicitAny",
+            "B": "strict",
+            "C": "alwaysStrict",
+            "D": "noUnusedLocals"
+        },
+        "correct_answer": "B",
+        "explanation": "The 'strict' option enables a broad range of type checking behavior, including 'strictNullChecks', which significantly improves code safety."
+    },
+    {
+        "question": "[Type Guards Q] What is the most common way to perform runtime type checking (type narrowing) in TypeScript? (Unique ID: 59)",
+        "options": {
+            "A": "Using the 'is' keyword in a conditional statement.",
+            "B": "Using the 'typeof' or 'instanceof' operators.",
+            "C": "Using the 'as' keyword for type assertion.",
+            "D": "Using the 'interface' keyword."
+        },
+        "correct_answer": "B",
+        "explanation": "Type guards, such as 'typeof' and 'instanceof', allow TypeScript to narrow down the type of a variable within a conditional block."
+    },
+    {
+        "question": "[Decorators Q] What symbol is used immediately before a declaration to apply a decorator in TypeScript? (Unique ID: 60)",
+        "options": {
+            "A": "#",
+            "B": "$",
+            "C": "@",
+            "D": "%"
+        },
+        "correct_answer": "C",
+        "explanation": "Decorators are a special kind of declaration that can be attached to classes, methods, accessors, properties, or parameters using the '@' symbol followed by the decorator function name."
+    },
+    {
+        "question": "[Interfaces/Types Q] Which TypeScript keyword is used to define the structure of an object, often for duck typing? (Unique ID: 61)",
+        "options": {
+            "A": "type",
+            "B": "class",
+            "C": "interface",
+            "D": "model"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'interface' keyword is a core concept in TypeScript used to define contracts for objects, functions, and classes, focusing on structure."
+    },
+    {
+        "question": "[Generics Q] In TypeScript, what do Generics allow you to do? (Unique ID: 62)",
+        "options": {
+            "A": "Create functions that only accept string and number types.",
+            "B": "Write reusable code that works with a variety of types.",
+            "C": "Compile code for multiple JavaScript environments.",
+            "D": "Automatically generate type definitions from JavaScript code."
+        },
+        "correct_answer": "B",
+        "explanation": "Generics allow components to work over a variety of types instead of a single one. This provides type safety while still maintaining flexibility."
+    },
+    {
+        "question": "[Enums Q] By default, what is the type of a member in a numeric enum if no initial value is provided? (Unique ID: 63)",
+        "options": {
+            "A": "string",
+            "B": "boolean",
+            "C": "number (starting from 0)",
+            "D": "undefined"
+        },
+        "correct_answer": "C",
+        "explanation": "Numeric enums start indexing their members from 0, and each subsequent member is incremented by 1."
+    },
+    {
+        "question": "[Compiler Options Q] Which compiler option in 'tsconfig.json' enforces strict null checks, disallowing 'null' and 'undefined' from being assigned to variables not explicitly allowing them? (Unique ID: 64)",
+        "options": {
+            "A": "noImplicitAny",
+            "B": "strict",
+            "C": "alwaysStrict",
+            "D": "noUnusedLocals"
+        },
+        "correct_answer": "B",
+        "explanation": "The 'strict' option enables a broad range of type checking behavior, including 'strictNullChecks', which significantly improves code safety."
+    },
+    {
+        "question": "[Type Guards Q] What is the most common way to perform runtime type checking (type narrowing) in TypeScript? (Unique ID: 65)",
+        "options": {
+            "A": "Using the 'is' keyword in a conditional statement.",
+            "B": "Using the 'typeof' or 'instanceof' operators.",
+            "C": "Using the 'as' keyword for type assertion.",
+            "D": "Using the 'interface' keyword."
+        },
+        "correct_answer": "B",
+        "explanation": "Type guards, such as 'typeof' and 'instanceof', allow TypeScript to narrow down the type of a variable within a conditional block."
+    },
+    {
+        "question": "[Decorators Q] What symbol is used immediately before a declaration to apply a decorator in TypeScript? (Unique ID: 66)",
+        "options": {
+            "A": "#",
+            "B": "$",
+            "C": "@",
+            "D": "%"
+        },
+        "correct_answer": "C",
+        "explanation": "Decorators are a special kind of declaration that can be attached to classes, methods, accessors, properties, or parameters using the '@' symbol followed by the decorator function name."
+    },
+    {
+        "question": "[Interfaces/Types Q] Which TypeScript keyword is used to define the structure of an object, often for duck typing? (Unique ID: 67)",
+        "options": {
+            "A": "type",
+            "B": "class",
+            "C": "interface",
+            "D": "model"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'interface' keyword is a core concept in TypeScript used to define contracts for objects, functions, and classes, focusing on structure."
+    },
+    {
+        "question": "[Generics Q] In TypeScript, what do Generics allow you to do? (Unique ID: 68)",
+        "options": {
+            "A": "Create functions that only accept string and number types.",
+            "B": "Write reusable code that works with a variety of types.",
+            "C": "Compile code for multiple JavaScript environments.",
+            "D": "Automatically generate type definitions from JavaScript code."
+        },
+        "correct_answer": "B",
+        "explanation": "Generics allow components to work over a variety of types instead of a single one. This provides type safety while still maintaining flexibility."
+    },
+    {
+        "question": "[Enums Q] By default, what is the type of a member in a numeric enum if no initial value is provided? (Unique ID: 69)",
+        "options": {
+            "A": "string",
+            "B": "boolean",
+            "C": "number (starting from 0)",
+            "D": "undefined"
+        },
+        "correct_answer": "C",
+        "explanation": "Numeric enums start indexing their members from 0, and each subsequent member is incremented by 1."
+    },
+    {
+        "question": "[Compiler Options Q] Which compiler option in 'tsconfig.json' enforces strict null checks, disallowing 'null' and 'undefined' from being assigned to variables not explicitly allowing them? (Unique ID: 70)",
+        "options": {
+            "A": "noImplicitAny",
+            "B": "strict",
+            "C": "alwaysStrict",
+            "D": "noUnusedLocals"
+        },
+        "correct_answer": "B",
+        "explanation": "The 'strict' option enables a broad range of type checking behavior, including 'strictNullChecks', which significantly improves code safety."
+    },
+    {
+        "question": "[Type Guards Q] What is the most common way to perform runtime type checking (type narrowing) in TypeScript? (Unique ID: 71)",
+        "options": {
+            "A": "Using the 'is' keyword in a conditional statement.",
+            "B": "Using the 'typeof' or 'instanceof' operators.",
+            "C": "Using the 'as' keyword for type assertion.",
+            "D": "Using the 'interface' keyword."
+        },
+        "correct_answer": "B",
+        "explanation": "Type guards, such as 'typeof' and 'instanceof', allow TypeScript to narrow down the type of a variable within a conditional block."
+    },
+    {
+        "question": "[Decorators Q] What symbol is used immediately before a declaration to apply a decorator in TypeScript? (Unique ID: 72)",
+        "options": {
+            "A": "#",
+            "B": "$",
+            "C": "@",
+            "D": "%"
+        },
+        "correct_answer": "C",
+        "explanation": "Decorators are a special kind of declaration that can be attached to classes, methods, accessors, properties, or parameters using the '@' symbol followed by the decorator function name."
+    },
+    {
+        "question": "[Interfaces/Types Q] Which TypeScript keyword is used to define the structure of an object, often for duck typing? (Unique ID: 73)",
+        "options": {
+            "A": "type",
+            "B": "class",
+            "C": "interface",
+            "D": "model"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'interface' keyword is a core concept in TypeScript used to define contracts for objects, functions, and classes, focusing on structure."
+    },
+    {
+        "question": "[Generics Q] In TypeScript, what do Generics allow you to do? (Unique ID: 74)",
+        "options": {
+            "A": "Create functions that only accept string and number types.",
+            "B": "Write reusable code that works with a variety of types.",
+            "C": "Compile code for multiple JavaScript environments.",
+            "D": "Automatically generate type definitions from JavaScript code."
+        },
+        "correct_answer": "B",
+        "explanation": "Generics allow components to work over a variety of types instead of a single one. This provides type safety while still maintaining flexibility."
+    },
+    {
+        "question": "[Enums Q] By default, what is the type of a member in a numeric enum if no initial value is provided? (Unique ID: 75)",
+        "options": {
+            "A": "string",
+            "B": "boolean",
+            "C": "number (starting from 0)",
+            "D": "undefined"
+        },
+        "correct_answer": "C",
+        "explanation": "Numeric enums start indexing their members from 0, and each subsequent member is incremented by 1."
+    },
+    {
+        "question": "[Compiler Options Q] Which compiler option in 'tsconfig.json' enforces strict null checks, disallowing 'null' and 'undefined' from being assigned to variables not explicitly allowing them? (Unique ID: 76)",
+        "options": {
+            "A": "noImplicitAny",
+            "B": "strict",
+            "C": "alwaysStrict",
+            "D": "noUnusedLocals"
+        },
+        "correct_answer": "B",
+        "explanation": "The 'strict' option enables a broad range of type checking behavior, including 'strictNullChecks', which significantly improves code safety."
+    },
+    {
+        "question": "[Type Guards Q] What is the most common way to perform runtime type checking (type narrowing) in TypeScript? (Unique ID: 77)",
+        "options": {
+            "A": "Using the 'is' keyword in a conditional statement.",
+            "B": "Using the 'typeof' or 'instanceof' operators.",
+            "C": "Using the 'as' keyword for type assertion.",
+            "D": "Using the 'interface' keyword."
+        },
+        "correct_answer": "B",
+        "explanation": "Type guards, such as 'typeof' and 'instanceof', allow TypeScript to narrow down the type of a variable within a conditional block."
+    },
+    {
+        "question": "[Decorators Q] What symbol is used immediately before a declaration to apply a decorator in TypeScript? (Unique ID: 78)",
+        "options": {
+            "A": "#",
+            "B": "$",
+            "C": "@",
+            "D": "%"
+        },
+        "correct_answer": "C",
+        "explanation": "Decorators are a special kind of declaration that can be attached to classes, methods, accessors, properties, or parameters using the '@' symbol followed by the decorator function name."
+    },
+    {
+        "question": "[Interfaces/Types Q] Which TypeScript keyword is used to define the structure of an object, often for duck typing? (Unique ID: 79)",
+        "options": {
+            "A": "type",
+            "B": "class",
+            "C": "interface",
+            "D": "model"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'interface' keyword is a core concept in TypeScript used to define contracts for objects, functions, and classes, focusing on structure."
+    },
+    {
+        "question": "[Generics Q] In TypeScript, what do Generics allow you to do? (Unique ID: 80)",
+        "options": {
+            "A": "Create functions that only accept string and number types.",
+            "B": "Write reusable code that works with a variety of types.",
+            "C": "Compile code for multiple JavaScript environments.",
+            "D": "Automatically generate type definitions from JavaScript code."
+        },
+        "correct_answer": "B",
+        "explanation": "Generics allow components to work over a variety of types instead of a single one. This provides type safety while still maintaining flexibility."
+    },
+    {
+        "question": "[Enums Q] By default, what is the type of a member in a numeric enum if no initial value is provided? (Unique ID: 81)",
+        "options": {
+            "A": "string",
+            "B": "boolean",
+            "C": "number (starting from 0)",
+            "D": "undefined"
+        },
+        "correct_answer": "C",
+        "explanation": "Numeric enums start indexing their members from 0, and each subsequent member is incremented by 1."
+    },
+    {
+        "question": "[Compiler Options Q] Which compiler option in 'tsconfig.json' enforces strict null checks, disallowing 'null' and 'undefined' from being assigned to variables not explicitly allowing them? (Unique ID: 82)",
+        "options": {
+            "A": "noImplicitAny",
+            "B": "strict",
+            "C": "alwaysStrict",
+            "D": "noUnusedLocals"
+        },
+        "correct_answer": "B",
+        "explanation": "The 'strict' option enables a broad range of type checking behavior, including 'strictNullChecks', which significantly improves code safety."
+    },
+    {
+        "question": "[Type Guards Q] What is the most common way to perform runtime type checking (type narrowing) in TypeScript? (Unique ID: 83)",
+        "options": {
+            "A": "Using the 'is' keyword in a conditional statement.",
+            "B": "Using the 'typeof' or 'instanceof' operators.",
+            "C": "Using the 'as' keyword for type assertion.",
+            "D": "Using the 'interface' keyword."
+        },
+        "correct_answer": "B",
+        "explanation": "Type guards, such as 'typeof' and 'instanceof', allow TypeScript to narrow down the type of a variable within a conditional block."
+    },
+    {
+        "question": "[Decorators Q] What symbol is used immediately before a declaration to apply a decorator in TypeScript? (Unique ID: 84)",
+        "options": {
+            "A": "#",
+            "B": "$",
+            "C": "@",
+            "D": "%"
+        },
+        "correct_answer": "C",
+        "explanation": "Decorators are a special kind of declaration that can be attached to classes, methods, accessors, properties, or parameters using the '@' symbol followed by the decorator function name."
+    },
+    {
+        "question": "[Interfaces/Types Q] Which TypeScript keyword is used to define the structure of an object, often for duck typing? (Unique ID: 85)",
+        "options": {
+            "A": "type",
+            "B": "class",
+            "C": "interface",
+            "D": "model"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'interface' keyword is a core concept in TypeScript used to define contracts for objects, functions, and classes, focusing on structure."
+    },
+    {
+        "question": "[Generics Q] In TypeScript, what do Generics allow you to do? (Unique ID: 86)",
+        "options": {
+            "A": "Create functions that only accept string and number types.",
+            "B": "Write reusable code that works with a variety of types.",
+            "C": "Compile code for multiple JavaScript environments.",
+            "D": "Automatically generate type definitions from JavaScript code."
+        },
+        "correct_answer": "B",
+        "explanation": "Generics allow components to work over a variety of types instead of a single one. This provides type safety while still maintaining flexibility."
+    },
+    {
+        "question": "[Enums Q] By default, what is the type of a member in a numeric enum if no initial value is provided? (Unique ID: 87)",
+        "options": {
+            "A": "string",
+            "B": "boolean",
+            "C": "number (starting from 0)",
+            "D": "undefined"
+        },
+        "correct_answer": "C",
+        "explanation": "Numeric enums start indexing their members from 0, and each subsequent member is incremented by 1."
+    },
+    {
+        "question": "[Compiler Options Q] Which compiler option in 'tsconfig.json' enforces strict null checks, disallowing 'null' and 'undefined' from being assigned to variables not explicitly allowing them? (Unique ID: 88)",
+        "options": {
+            "A": "noImplicitAny",
+            "B": "strict",
+            "C": "alwaysStrict",
+            "D": "noUnusedLocals"
+        },
+        "correct_answer": "B",
+        "explanation": "The 'strict' option enables a broad range of type checking behavior, including 'strictNullChecks', which significantly improves code safety."
+    },
+    {
+        "question": "[Type Guards Q] What is the most common way to perform runtime type checking (type narrowing) in TypeScript? (Unique ID: 89)",
+        "options": {
+            "A": "Using the 'is' keyword in a conditional statement.",
+            "B": "Using the 'typeof' or 'instanceof' operators.",
+            "C": "Using the 'as' keyword for type assertion.",
+            "D": "Using the 'interface' keyword."
+        },
+        "correct_answer": "B",
+        "explanation": "Type guards, such as 'typeof' and 'instanceof', allow TypeScript to narrow down the type of a variable within a conditional block."
+    },
+    {
+        "question": "[Decorators Q] What symbol is used immediately before a declaration to apply a decorator in TypeScript? (Unique ID: 90)",
+        "options": {
+            "A": "#",
+            "B": "$",
+            "C": "@",
+            "D": "%"
+        },
+        "correct_answer": "C",
+        "explanation": "Decorators are a special kind of declaration that can be attached to classes, methods, accessors, properties, or parameters using the '@' symbol followed by the decorator function name."
+    },
+    {
+        "question": "[Interfaces/Types Q] Which TypeScript keyword is used to define the structure of an object, often for duck typing? (Unique ID: 91)",
+        "options": {
+            "A": "type",
+            "B": "class",
+            "C": "interface",
+            "D": "model"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'interface' keyword is a core concept in TypeScript used to define contracts for objects, functions, and classes, focusing on structure."
+    },
+    {
+        "question": "[Generics Q] In TypeScript, what do Generics allow you to do? (Unique ID: 92)",
+        "options": {
+            "A": "Create functions that only accept string and number types.",
+            "B": "Write reusable code that works with a variety of types.",
+            "C": "Compile code for multiple JavaScript environments.",
+            "D": "Automatically generate type definitions from JavaScript code."
+        },
+        "correct_answer": "B",
+        "explanation": "Generics allow components to work over a variety of types instead of a single one. This provides type safety while still maintaining flexibility."
+    },
+    {
+        "question": "[Enums Q] By default, what is the type of a member in a numeric enum if no initial value is provided? (Unique ID: 93)",
+        "options": {
+            "A": "string",
+            "B": "boolean",
+            "C": "number (starting from 0)",
+            "D": "undefined"
+        },
+        "correct_answer": "C",
+        "explanation": "Numeric enums start indexing their members from 0, and each subsequent member is incremented by 1."
+    },
+    {
+        "question": "[Compiler Options Q] Which compiler option in 'tsconfig.json' enforces strict null checks, disallowing 'null' and 'undefined' from being assigned to variables not explicitly allowing them? (Unique ID: 94)",
+        "options": {
+            "A": "noImplicitAny",
+            "B": "strict",
+            "C": "alwaysStrict",
+            "D": "noUnusedLocals"
+        },
+        "correct_answer": "B",
+        "explanation": "The 'strict' option enables a broad range of type checking behavior, including 'strictNullChecks', which significantly improves code safety."
+    },
+    {
+        "question": "[Type Guards Q] What is the most common way to perform runtime type checking (type narrowing) in TypeScript? (Unique ID: 95)",
+        "options": {
+            "A": "Using the 'is' keyword in a conditional statement.",
+            "B": "Using the 'typeof' or 'instanceof' operators.",
+            "C": "Using the 'as' keyword for type assertion.",
+            "D": "Using the 'interface' keyword."
+        },
+        "correct_answer": "B",
+        "explanation": "Type guards, such as 'typeof' and 'instanceof', allow TypeScript to narrow down the type of a variable within a conditional block."
+    },
+    {
+        "question": "[Decorators Q] What symbol is used immediately before a declaration to apply a decorator in TypeScript? (Unique ID: 96)",
+        "options": {
+            "A": "#",
+            "B": "$",
+            "C": "@",
+            "D": "%"
+        },
+        "correct_answer": "C",
+        "explanation": "Decorators are a special kind of declaration that can be attached to classes, methods, accessors, properties, or parameters using the '@' symbol followed by the decorator function name."
+    },
+    {
+        "question": "[Interfaces/Types Q] Which TypeScript keyword is used to define the structure of an object, often for duck typing? (Unique ID: 97)",
+        "options": {
+            "A": "type",
+            "B": "class",
+            "C": "interface",
+            "D": "model"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'interface' keyword is a core concept in TypeScript used to define contracts for objects, functions, and classes, focusing on structure."
+    },
+    {
+        "question": "[Generics Q] In TypeScript, what do Generics allow you to do? (Unique ID: 98)",
+        "options": {
+            "A": "Create functions that only accept string and number types.",
+            "B": "Write reusable code that works with a variety of types.",
+            "C": "Compile code for multiple JavaScript environments.",
+            "D": "Automatically generate type definitions from JavaScript code."
+        },
+        "correct_answer": "B",
+        "explanation": "Generics allow components to work over a variety of types instead of a single one. This provides type safety while still maintaining flexibility."
+    },
+    {
+        "question": "[Enums Q] By default, what is the type of a member in a numeric enum if no initial value is provided? (Unique ID: 99)",
+        "options": {
+            "A": "string",
+            "B": "boolean",
+            "C": "number (starting from 0)",
+            "D": "undefined"
+        },
+        "correct_answer": "C",
+        "explanation": "Numeric enums start indexing their members from 0, and each subsequent member is incremented by 1."
+    },
+    {
+        "question": "[Compiler Options Q] Which compiler option in 'tsconfig.json' enforces strict null checks, disallowing 'null' and 'undefined' from being assigned to variables not explicitly allowing them? (Unique ID: 100)",
+        "options": {
+            "A": "noImplicitAny",
+            "B": "strict",
+            "C": "alwaysStrict",
+            "D": "noUnusedLocals"
+        },
+        "correct_answer": "B",
+        "explanation": "The 'strict' option enables a broad range of type checking behavior, including 'strictNullChecks', which significantly improves code safety."
+    }
+]

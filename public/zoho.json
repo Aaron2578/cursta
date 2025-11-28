@@ -1,0 +1,3302 @@
+[
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 1)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 2)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 3)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 4)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 5)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 6)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 7)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 8)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 9)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 10)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 11)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 12)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 13)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 14)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 15)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 16)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 17)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 18)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 19)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 20)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 21)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 22)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 23)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 24)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 25)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 26)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 27)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 28)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 29)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 30)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 31)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 32)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 33)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 34)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 35)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 36)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 37)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 38)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 39)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 40)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 41)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 42)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 43)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 44)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 45)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 46)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 47)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 48)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 49)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 50)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 51)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 52)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 53)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 54)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 55)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 56)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 57)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 58)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 59)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 60)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 61)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 62)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 63)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 64)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 65)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 66)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 67)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 68)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 69)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 70)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 71)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 72)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 73)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 74)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 75)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 76)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 77)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 78)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 79)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 80)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 81)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 82)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 83)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 84)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 85)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 86)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 87)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 88)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 89)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 90)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 91)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 92)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 93)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 94)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 95)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 96)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 97)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 98)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 99)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 100)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 101)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 102)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 103)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 104)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 105)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 106)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 107)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 108)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 109)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 110)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 111)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 112)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 113)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 114)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 115)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 116)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 117)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 118)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 119)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 120)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 121)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 122)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 123)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 124)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 125)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 126)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 127)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 128)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 129)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 130)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 131)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 132)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 133)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 134)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 135)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 136)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 137)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 138)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 139)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 140)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 141)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 142)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 143)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 144)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 145)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 146)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 147)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 148)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 149)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 150)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 151)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 152)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 153)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 154)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 155)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 156)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 157)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 158)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 159)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 160)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 161)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 162)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 163)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 164)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 165)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 166)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 167)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 168)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 169)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 170)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 171)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 172)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 173)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 174)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 175)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 176)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 177)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 178)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 179)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 180)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 181)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 182)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 183)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 184)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 185)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 186)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 187)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 188)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 189)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 190)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 191)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 192)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 193)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 194)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 195)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 196)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 197)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 198)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 199)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 200)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 201)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 202)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 203)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 204)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 205)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 206)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 207)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 208)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 209)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 210)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 211)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 212)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 213)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 214)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 215)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 216)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 217)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 218)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 219)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 220)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 221)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 222)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 223)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 224)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 225)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 226)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 227)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 228)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 229)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 230)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 231)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 232)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 233)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 234)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 235)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 236)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 237)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 238)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 239)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 240)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 241)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 242)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 243)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 244)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 245)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 246)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 247)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 248)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 249)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 250)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 251)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 252)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 253)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 254)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 255)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 256)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 257)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 258)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 259)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 260)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 261)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 262)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 263)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 264)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 265)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 266)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 267)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 268)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 269)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 270)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 271)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 272)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 273)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 274)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 275)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 276)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 277)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 278)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 279)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 280)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 281)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 282)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 283)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 284)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 285)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 286)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 287)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 288)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 289)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 290)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 291)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 292)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 293)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 294)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    },
+    {
+        "question": "[Java Q] Which keyword prevents a class from being subclassed? (Unique ID: 295)",
+        "options": {
+            "A": "static",
+            "B": "volatile",
+            "C": "final",
+            "D": "abstract"
+        },
+        "correct_answer": "C",
+        "explanation": "The 'final' keyword in Java can be used with classes, methods, and variables. When applied to a class, it prevents any other class from inheriting it."
+    },
+    {
+        "question": "[C Q] What is the output of 'printf(\"%d\", sizeof(int));' on a typical 32-bit system? (Unique ID: 296)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "explanation": "On most 32-bit architectures, the size of an 'int' data type is 4 bytes. The 'sizeof' operator returns the size in bytes."
+    },
+    {
+        "question": "[Aptitude Q] If 6 men can complete a work in 10 days, how many days will 12 men take to complete the same work? (Unique ID: 297)",
+        "options": {
+            "A": "20 days",
+            "B": "15 days",
+            "C": "5 days",
+            "D": "12 days"
+        },
+        "correct_answer": "C",
+        "explanation": "This is an inverse proportion problem. If you double the number of men, the time taken is halved. $(6 \\times 10) = (12 \\times D) \\Rightarrow D = 5$ days."
+    },
+    {
+        "question": "[Java Q] What is the default value of a local variable in Java? (Unique ID: 298)",
+        "options": {
+            "A": "0 or 0.0",
+            "B": "null",
+            "C": "It is not initialized (undefined)",
+            "D": "The value of its class's first field"
+        },
+        "correct_answer": "C",
+        "explanation": "Local variables in Java are not automatically initialized by the compiler. They must be explicitly initialized before use, or the compiler will report an error."
+    },
+    {
+        "question": "[C Q] What is the primary function of the 'malloc()' function in C? (Unique ID: 299)",
+        "options": {
+            "A": "To allocate memory on the stack.",
+            "B": "To reserve static memory.",
+            "C": "To dynamically allocate memory on the heap.",
+            "D": "To free previously allocated memory."
+        },
+        "correct_answer": "C",
+        "explanation": "The 'malloc()' function is used for dynamic memory allocation, which reserves a block of memory of the specified size, in bytes, on the heap."
+    },
+    {
+        "question": "[Aptitude Q] Find the missing number in the series: 3, 7, 15, 31, ? (Unique ID: 300)",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "65",
+            "D": "67"
+        },
+        "correct_answer": "B",
+        "explanation": "The pattern is $2n + 1$. $3 \\times 2 + 1 = 7$, $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$. Therefore, the next number is $31 \\times 2 + 1 = 63$."
+    }
+]
